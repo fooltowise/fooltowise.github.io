@@ -38,8 +38,7 @@ layout: default
  <div class="row">
     <div class="col-md-12">
    <img src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}" class="img-responsive" />
-    
-    <!--{% picture  {{page.image}}  %}-->
+        
     </div>
   </div>          
 {% endif %}
