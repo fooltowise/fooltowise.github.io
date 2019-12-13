@@ -1,0 +1,69 @@
+# Site
+name: 'From Fool to Wise'
+description: 'My journey towards worldly wisdom'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/Favicon.png'
+url:    'http://localhost:4000'
+baseurl:  ''
+disqus: 'fooltowise-com'
+email: 'fromfooltowise@gmail.com'
+mailchimp-list: 'https://fooltowise.us4.list-manage.com/subscribe/post?u=fe5dd068fcfb301e391794c4f&amp;id=af7afcaaa2'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-picture-tag 
+  
+authors:
+    julien:
+      name:           Julien
+      site:           
+      avatar:         assets/images/avatar-jul.png
+      bio:            "Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!"
+      email:          thisisjulienh@gmail.com
+      twitter:        https://twitter.com/SalutNounou
+    
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: julien
+      avatar: /assets/images/avatar-min.png
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+picture: 
+    ignore_missing_images: true
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+
+
+
+
+
