@@ -3,7 +3,7 @@ title: "About me"
 layout: post
 author: julien
 permalink: "/about.html"
-image: "assets/images/parchmentLong.jpg"
+image: "assets/images/about.jpg"
 description: "Let's know each other"
 ---
 Hello dear reader! Welcome to _From Fool to Wise_, a blog about my quest towards acquiring wisdom, making better decisions and living a good life.
