@@ -13,23 +13,23 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-picture-tag 
-  
+  - jekyll-picture-tag
+
 authors:
     julien:
       name:           Julien
-      site:           
+      site:
       avatar:         assets/images/avatar-jul.png
       bio:            "Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!"
       email:          fromfooltowise@gmail.com
       twitter:        https://twitter.com/SalutNounou
-    
- 
+
+
 # Defaults
 defaults:
 
@@ -40,13 +40,13 @@ defaults:
       layout: post
       author: julien
       avatar: /assets/images/avatar-min.png
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -54,17 +54,12 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+# Google Analytics
+google_analytics: UA-154596563-1
 
-picture: 
+picture:
     ignore_missing_images: true
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
-
-
-
-
-
-
-
