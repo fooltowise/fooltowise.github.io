@@ -1,13 +1,4 @@
----
-title: "From Fool to Wise"
-layout: default
-pagination:
-    enabled: true
-description: "My quest towards remedial worldly wisdom."
----
-
-
-<div class="container">
+I"y#<div class="container">
 
 {% if page.url == "/" %}
 
@@ -21,7 +12,7 @@ description: "My quest towards remedial worldly wisdom."
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.imagesmall contains "://" %}{{ latest_post.imagesmall }}{% else %} {{site.baseurl}}/{{ latest_post.imagesmall}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+    &lt;div class="topfirstimage" style="background-image: url({% if latest_post.imagesmall contains "://" %}{{ latest_post.imagesmall }}{% else %} {{site.baseurl}}/{{ latest_post.imagesmall}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"&gt;&lt;/div&gt;
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -55,7 +46,7 @@ description: "My quest towards remedial worldly wisdom."
                 {% if second_post.imagesmall %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.imagesmall contains "://" %}{{ second_post.imagesmall }}{% else %}{{ second_post.imagesmall | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 &lt;img class="w-100" src="{% if second_post.imagesmall contains "://" %}{{ second_post.imagesmall }}{% else %}{{ second_post.imagesmall | absolute_url }}{% endif %}" alt="{{ second_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}
@@ -84,7 +75,7 @@ description: "My quest towards remedial worldly wisdom."
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 &lt;img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}
@@ -112,7 +103,7 @@ description: "My quest towards remedial worldly wisdom."
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                &lt;img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}"&gt;
                 </a>
                 </div>
                 {% endif %}
@@ -183,7 +174,7 @@ description: "My quest towards remedial worldly wisdom."
 
         <div class="mt-5">
          <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination">
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -221,3 +212,4 @@ description: "My quest towards remedial worldly wisdom."
 
 
 </div>
+:ET

@@ -1,6 +1,3 @@
-/*!
- * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
- */
 
 body {
 	overflow-x:hidden;
@@ -711,7 +708,7 @@ article:first-letter {
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
 	margin-top:2rem;
-	font-weight:600;
+	font-weight:400;
 }
 .alertbar {
 	box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
@@ -808,12 +805,12 @@ a.a2a_i, i.a2a_i, .a2a_menu a.a2a_i:visited, .a2a_menu a.a2a_more {
 div.a2a_full_footer {display:none;}
 @media (min-width: 1920px) {
 	html {font-size:17px;}
-	.container, .container-lg {    
+	.container, .container-lg {
 	 width: 1522px;
 	 max-width: 1522px;
 	 }
-	 h6,.h6 { 
-		 font-size: 1.1rem; 
+	 h6,.h6 {
+		 font-size: 1.1rem;
 	 }
 	 article {
 		 font-size:1rem;
@@ -822,4 +819,3 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
