@@ -1,0 +1,125 @@
+I"Ž<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
+            
+         
+        <h4 class="font-weight-bold spanborder text-capitalize" id="featured"><span>featured</span></h4>
+            
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Your-Brain-101-Part-1/">Your Brain 101 - Part 1 - Anatomy</a>
+	</h2>
+	<p class="excerpt">
+	   Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 18, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Your-Brain-101-Part-1/">
+	<img class="w-100" src="/assets/images/brain101.jpeg" alt="Your Brain 101 - Part 1 - Anatomy" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+          
+         
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/What-is-Financial-Independence/">What is Financial Independence?</a>
+	</h2>
+	<p class="excerpt">
+	   As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#financial independence">Financial Independence</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 04, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/What-is-Financial-Independence/">
+	<img class="w-100" src="/assets/images/Parrot.jpg" alt="What is Financial Independence?" />
+	</a>
+	</div>
+
+</div>
+          
+        
+        
+        
+        
+
+        
+
+        </div>
+        
+            <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Your-Brain-101-Part-1/" class="text-dark">Your Brain 101 - Part 1 - Anatomy</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/What-is-Financial-Independence/" class="text-dark">What is Financial Independence?</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#financial independence">Financial Independence</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+        
+    </div>
+</div>
+:ET
