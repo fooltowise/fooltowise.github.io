@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://fooltowise.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fooltowise.com/" rel="alternate" type="text/html" /><updated>2019-12-18T14:16:51+01:00</updated><id>https://fooltowise.com/feed.xml</id><title type="html">From Fool to Wise</title><subtitle>My journey towards worldly wisdom</subtitle><entry><title type="html">Your Brain 101 - Part 1 - Anatomy</title><link href="https://fooltowise.com/Your-Brain-101-Part-1/" rel="alternate" type="text/html" title="Your Brain 101 - Part 1 - Anatomy" /><published>2019-12-18T00:00:00+01:00</published><updated>2019-12-18T00:00:00+01:00</updated><id>https://fooltowise.com/Your-Brain-101-Part-1</id><content type="html" xml:base="https://fooltowise.com/Your-Brain-101-Part-1/">&lt;p&gt;Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good life!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://fooltowise.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fooltowise.com/" rel="alternate" type="text/html" /><updated>2020-01-04T12:46:43+01:00</updated><id>https://fooltowise.com/feed.xml</id><title type="html">From Fool to Wise</title><subtitle>My journey towards worldly wisdom</subtitle><entry><title type="html">Your Brain 101 - Part 2: Two Thinking Systems</title><link href="https://fooltowise.com/Your-Brain-101-Part-2/" rel="alternate" type="text/html" title="Your Brain 101 -  Part 2: Two Thinking Systems" /><published>2019-12-30T00:00:00+01:00</published><updated>2019-12-30T00:00:00+01:00</updated><id>https://fooltowise.com/Your-Brain-101-Part-2</id><content type="html" xml:base="https://fooltowise.com/Your-Brain-101-Part-2/">&lt;p&gt;This is second part of my series of articles on how the brain works. In the last part, &lt;a href=&quot;/Your-Brain-101-Part-1&quot;&gt;we saw how neurons work and how they interact&lt;/a&gt;. We also so a model of how they are organized in three “layers” in the brain.
+In this part I want to present the works of Nobel Prize laureate Daniel Kahneman and the late Amos Tversky. They have shown that our brain often behaves as if two agents with wildly differing characteristics were in control. Most of what I will talk about is sourced from the excellent book &lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; by Daniel Kahneman.&lt;/p&gt;
+
+&lt;h2 id=&quot;two-modes-of-thoughts&quot;&gt;Two modes of thoughts&lt;/h2&gt;
+
+&lt;p&gt;We often believe that we know what is going on in our mind. We experience one thought, which leads to another one in a logical manner, and so on. We would even be aware of all our thoughts. But this is only one type of thinking happening into our brain, and not even the most common one.&lt;/p&gt;
+
+&lt;p&gt;To prove his point, Kahneman takes the example of the below picture:&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/Angry.jpg&quot; alt=&quot;angry&quot; /&gt;
+  &lt;figcaption&gt;Source: Thinking, fast and slow, Daniel Kahneman&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Automatically, our brain has picked up a lot of small cues from the face of the woman to know that she is angry, and that she is likely to yell not very nice things to us. This happened effortlessly, without you trying conscientiously to actively decipher the mood of the woman.&lt;/p&gt;
+
+&lt;p&gt;Now solve the following multiplication:&lt;/p&gt;
+
+&lt;p&gt;17 * 24&lt;/p&gt;
+
+&lt;p&gt;You will notice that your mental experience is vastly different. First, the result did not come automatically to you.  You are allocated a lot of conscious effort to perform the calculus, in a slow, organized and methodic way. It is likely you stopped everything you were doing to solve the multiplication. &lt;sup&gt;(1)&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;This is how Kahneman introduces the concept of two agents, System 1 and System 2, who are the principal characters of our mental life. System 1 is responsible for “fast” thinking (as happened with the angry woman), while System 2 handles Slow, deliberate thinking (the multiplication example).&lt;/p&gt;
+
+&lt;h3 id=&quot;system-1-fast-automatic-thinking&quot;&gt;System 1: Fast, automatic thinking&lt;/h3&gt;
+
+&lt;p&gt;When you saw the woman above, your System 1 took over to process all the information given by the situation (duh, she looks very angry! I bet she is not going to be nice to me…). System 1 operates automatically, quickly and effortlessly.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we cannot have any control over it. When looking at the woman, we could not “not see” on purpose that she is angry. Even if we order our brain to ignore the woman, it will figure out her mood anyway.  We have no control over System 1.&lt;/p&gt;
+
+&lt;p&gt;Kahneman gives a list of activities that are typically performed by System 1:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;detect that one object is more distant than another&lt;/li&gt;
+  &lt;li&gt;orient to the source of a sudden sound&lt;/li&gt;
+  &lt;li&gt;detect hostility in a voice&lt;/li&gt;
+  &lt;li&gt;Answer to “2 + 2 = ?”  (simple math question)&lt;/li&gt;
+  &lt;li&gt;make pattern associations, like figuring out that a “meek and tidy soul with a passion for detail” fits more the character of a librarian than ta farmer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All these tasks require no effort, they are performed routinely by System 1.&lt;/p&gt;
+
+&lt;p&gt;A drawback of System 1 is that it cannot be turned off. Whatever happens to you, it will continuously process its environment on the fly. If you see a word on a billboard that you already know, you will read it, unless your attention is totally depleted (see below).&lt;/p&gt;
+
+&lt;h3 id=&quot;system-2-slow-deliberate-thinking&quot;&gt;System 2: Slow, deliberate thinking&lt;/h3&gt;
+
+&lt;p&gt;Now comes the laborious System 2. When we think of ourselves, this is the system we have in mind. System 2 handles effortful mental activities like complex computations or problem solving. We often think of System 2 as the part of our brain responsible for agency, choice and concentration.&lt;/p&gt;
+
+&lt;p&gt;The common point of all activities performed by System 2 is that they require attention. Draw away the attention, and they get badly disrupted. Kahneman gives another list of examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Focus on the voice of a particular person in a noisy room in a party&lt;/li&gt;
+  &lt;li&gt;Remember a phone number&lt;/li&gt;
+  &lt;li&gt;Park in a narrow space&lt;/li&gt;
+  &lt;li&gt;Fill out a tax form&lt;/li&gt;
+  &lt;li&gt;Check the validity of a complex logical argument&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An outstanding feature of System 2 is that the more cognitively demanding a task is, the less attention we are going to pay to anything else, until we become blind to our environment.&lt;/p&gt;
+
+&lt;p&gt;You may already know the below video. If you don’t, good. In a now famous experiment done by Chabris and Simons, the two researchers created a short film showing two teams playing basketball. One team wears white t-shirts, while the other teams wears black t-shirts. In the experiment, the viewer of the video were asked count how many passes the white team would make. In a normal setting, this task is totally absorbing and cognitively demanding.&lt;/p&gt;
+
+&lt;p&gt;The video is here:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vJG698U2Mvo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;Many thousands viewed the video, but only half of them noticed the gorilla while counting the passes. And the gorilla was present in the movie for nine full seconds! It is not an exaggeration to state that cognitively difficult tasks can blind us to our environment…&lt;/p&gt;
+
+&lt;p&gt;This phenomena happens as well in what we call &lt;em&gt;ego depletion&lt;/em&gt; : suppose you have to perform a cognitive - heavy task like remembering 7 numbers in your memory for several minutes. After the task is realized, you could believe that your mind is ready to tackle any new cognitive challenge. But studies revealed that as long as your mind is not rested, if any other difficult task arise (like choosing between a healthy salad and a caloric cookie), your System 2 will not be able to perform at its maximum capacity: it is very likely that you will indulge on the cookie. Cognitive performance is a limited resource, and as such the brain cannot be strained 100% of the time.&lt;/p&gt;
+
+&lt;p&gt;This has a big consequence on your will and self-control: those are tiring activities, and &lt;strong&gt;I guarantee you that having to control yourself all the time is doomed to fail at some point.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;a-lazy-controller&quot;&gt;A lazy controller&lt;/h4&gt;
+
+&lt;p&gt;Now we know that System 2 cannot always continuously perform difficult tasks. In fact, most of the time it will prefer low-efforts tasks. It is a recurring theme of nature that the path-of-least-effort gets often rewarded, and System 2 is no exception.&lt;/p&gt;
+
+&lt;p&gt;System 2 is an enormous consumer of glucose. It looks like “cognitively demanding” is actually a synonym for “energy demanding”, as researchers have monitored the amount of glucose the brain consumes, and figured out that its cognition performed better when the glucose levels in the human body where restored.&lt;/p&gt;
+
+&lt;p&gt;As many systems in nature, System 2 is energy efficient: if it can escape a demanding effort, it will. Therefore, most of the time it will be engaged in a low effort mode.&lt;/p&gt;
+
+&lt;p&gt;As we become skilled in a task, the connections within the brain get reinforced and System 2 will consume less and less energy to perform the task. At some point, it will become totally automatic and get transferred to System 1. That’s what happens when we learn how to walk: a baby has to focus intensely when performing his first steps, but for an adult it is a second nature.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-the-two-systems-interact&quot;&gt;How do the two Systems interact?&lt;/h3&gt;
+
+&lt;p&gt;Although I have presented them in a separate manner, there is no reason to think the the two systems operate separately. Both Systems are always on, provided we are awake.&lt;/p&gt;
+
+&lt;p&gt;In their binomial setup, System 1 will continuously generate ideas for System 2: ideas, impressions, intentions, feelings. &lt;strong&gt;If they get validated by System 2, these impressions are then transformed into beliefs, upon which we take action if needed.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All of this goes smoothly most of the time. System 2 adopts the suggestions of System 1, and all is well in the best of the worlds, because most of the time we believe our impressions. Not doing so would be excruciating.&lt;/p&gt;
+
+&lt;p&gt;However, as soon as System 1 runs into difficulties, it will call System 2 to comes to the rescue. The multiplication above is a good example. System 1 is incapable of processing tasks in an organized way, so when it needs to do so it will outsource the task to System 2.&lt;/p&gt;
+
+&lt;p&gt;Another trigger for outsourcing is when System 1 notices something unusual or which runs into conflict with its model of the world.&lt;/p&gt;
+
+&lt;p&gt;If a cat barks or a gorilla crosses a basketball court, System 1 will get confused enough to call System 2 for further analysis.&lt;/p&gt;
+
+&lt;p&gt;Now we have a basic understanding of how the two systems interact. Most of the time, System 1 is actually doing all the work and its suggestions are stamped as “approved” by System 2. It is only when System 1 is overwhelmed that System 2 will take over and do the leg work. But as we have also seen, System 2 can be lazy. Sometimes, it will not control what System 1 generated and just accept it “as is”. This is often the cause of many cognitive errors.&lt;/p&gt;
+
+&lt;p&gt;However, let’s not be to alarmist: this arrangement works well in most situations! This quick and “economic” structure is very efficient from an evolution point of view and there is no doubt that it gave us many advantages over other species.&lt;/p&gt;
+
+&lt;p&gt;Let’s sum up what we know so far:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;System 1 is the automatic ideas, associations and links generator, and System 2 is the validator, able to organize itself to come to a conclusion.  System 1 is intuitive and impulsive, while System 2 is capable of reasoning and being cautious, while sometimes being lazy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since System 1 is so important to how our mind works, let’s dig deeper to see some of its additional features.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-associative-machine&quot;&gt;The Associative Machine&lt;/h3&gt;
+
+&lt;p&gt;We know that System 1 works automatically and effortlessly, but what does it do exactly?&lt;/p&gt;
+
+&lt;p&gt;Associations. System 1 works mainly by making associations. Neurons fired by System 1 will trigger other neurons that are linked to it. All those neurons have the common point of being somehow related because they represent related concepts. These neurons themselves trigger other neurons linked to yet other related concepts, and so on in a snowball effect.&lt;/p&gt;
+
+&lt;p&gt;Each idea is connected to other ideas as long as they are coherent between themselves. An element will strengthen related coherent elements, supported by the architecture of underlying neuronal connections. A word can elicit memories, that trigger emotions, movements and so on.&lt;/p&gt;
+
+&lt;p&gt;This whole process is called associative activation: provided that there is some relatedness between two concepts, the activation of one concept will surely activate the other. An activated idea does not merely activate one another idea, but many others, which in turn activate in cascade.&lt;/p&gt;
+
+&lt;p&gt;And all of this happens without us even being aware of it! System 2 may focus on one or two elements activated by System 1, but System 1 is working relentlessly to generate new associations as soon as an idea is triggered. Only a few of the activated ideas will register in consciousness; most of the associative work is silent and below the radar or our conscious selves.&lt;/p&gt;
+
+&lt;p&gt;Kahneman gives the example of the two following words:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bananas&lt;/li&gt;
+  &lt;li&gt;Vomit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Although in general the two terms are unrelated, as soon as they are read System 1 cannot refrain from generating associations that could link the two words. Especially, the mind will create automatically a temporal sequence - without being told so - where the fruits caused the sickness.&lt;/p&gt;
+
+&lt;p&gt;In the same time, a small feeling of disgust was triggered, the body tensed and the heart rate increased… It is as if the whole body had experienced a lesser intensity version of the story, just by reading those two words! Without us being aware, System 1 has generated all the elements, ideas, emotions and actions where those two juxtaposed words made sense.&lt;/p&gt;
+
+&lt;p&gt;Why would System 1 do that? Because in most cases, it is very helpful and efficient! Imagine a machine that in the majority of situations can induce the context of any situation by looking at a few elements. That is exactly what System 1 did here! It informs us about the past and prepare us for the future. All of this with the very few elements available (here, only two words!).&lt;/p&gt;
+
+&lt;p&gt;This associative machine leads us to the psychological concept of &lt;em&gt;priming&lt;/em&gt;. As activated ideas trigger other ideas, beliefs, emotions and behaviors, we could expect that we could make people more receptive to other ideas by activating related concepts. And this is exactly what experiences show…&lt;/p&gt;
+
+&lt;p&gt;Subjects having seen the word “Wash” are more likely to guess “SOAP” when seeing “SO_P”. Other subjects having seen “Eat” will instead fill “SO_P” with SOUP.&lt;/p&gt;
+
+&lt;p&gt;Making people more receptive to one concept by showing them related concepts is called &lt;em&gt;priming&lt;/em&gt;. For example, subjects primed with money-related concepts reported a more independent mindset as well as a more pronounced problem solving attitude.&lt;/p&gt;
+
+&lt;p&gt;This all sounds frightening. We all have in mind scenarios where evil marketers or snake oil salesmen could use some variants of priming to make us more receptive to their scam products.&lt;/p&gt;
+
+&lt;p&gt;Although it happens in reality, we have to realize that absolutely &lt;em&gt;everything&lt;/em&gt; primes us. By reading the above paragraph, you have been primed with concepts related to scams, and surely you experienced a bit of disgust and thought of other occasions where scammers tried to get your money.&lt;/p&gt;
+
+&lt;p&gt;Absolutely everything primes us then, and this is why it is very important to take care of the environment surrounding us. It is easy to get primed by factors we would like to avoid, so they should not enter our life in the first place. In particular (and I will talk a lot about it on this website) avoid the news like the plague.&lt;/p&gt;
+
+&lt;p&gt;But associations and priming are not the only features of System 1. Let’s see how it processes information based on its cognitive ease and familiarity.&lt;/p&gt;
+
+&lt;h3 id=&quot;fooled-by-cognitive-ease&quot;&gt;Fooled by Cognitive Ease&lt;/h3&gt;
+
+&lt;p&gt;As we have seen earlier, the brain is made of billions of neurons connected to each other. When a connection between two neurons is activated, it becomes stronger: the strength of the signal increases and more synapses (the connections between dendrites and axons) are likely to be created between the neurons.&lt;/p&gt;
+
+&lt;p&gt;This wiring has a consequence on how the brain processes concepts. The more the brain encounters a concept, the stronger the underlying neuronal connections become, and the easier the concept will be to retrieve next time we access it.&lt;/p&gt;
+
+&lt;p&gt;The term &lt;em&gt;ease&lt;/em&gt; is fundamental here: the easier it is to retrieve a concept, the less the effort done by the brain to by the brain and the less strain on System 1. But what happens next is intrinsic to System 1: the less strain it experiences, the more “familiar” it is with the idea, &lt;strong&gt;and it considers it more and more credible.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This can happen in many different forms:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;having a repeated experience&lt;/li&gt;
+  &lt;li&gt;having been primed&lt;/li&gt;
+  &lt;li&gt;being in a good mood&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/cognitive_ease.jpg&quot; alt=&quot;angry&quot; /&gt;
+  &lt;figcaption&gt;Source: Thinking, fast and slow, Daniel Kahneman&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This intrinsic wiring of System 1 has thus a very peculiar behavior: &lt;strong&gt;it equals ease of cognition with familiarity and truth.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Why would that be? Once again, because it is the most efficient tradeoff between being one hundred percent right and expanding countless amounts of glucose energy and time.&lt;/p&gt;
+
+&lt;p&gt;Most of the time, ideas and concepts that repeat themselves are true: apples fall down from the tree and not toward the tree branch, 2+2 is always equal to 4 (and the more it is repeated, the more we are getting comfortable with its truth).&lt;/p&gt;
+
+&lt;p&gt;Obviously, politicians and unscrupulous marketers have understood this since a long time. In reality, repeating a lie for a time long enough does not make the lie become the truth. &lt;em&gt;But in your brain, it does!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As I said earlier, System 1 only calls System 2 for help when it is either confused, detect an anomaly or it cannot process the cognitive load of a given task.&lt;/p&gt;
+
+&lt;p&gt;When a given sentence is repeated again and again, System 1 will thus trust it more and more, and never call System 2 to the rescue. This is where many of our biases come from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Confirmation bias: we only seek the facts that confirm a belief. As these facts are likely to be already stored in our brain, they are easier to retrieve. Furthermore, contrarian facts will impose cognitive strain on the brain, and System 2 will surely have to work hard. But we know that System 2 works hard only parsimoniously!&lt;/li&gt;
+  &lt;li&gt;Recency and Saliency bias: events that just happened are easier to recall than older facts. It works the same with vivid memories. As a result, these facts are usually more familiar and thus “truer” than other facts. For instance, more people are worried about plane crashes compared to car crashes because the former is more spectacular, and when it happens, news channels make sure to report it again and again and again. Car crashes are much more mundane and thus less reported, less salient. But when we look at the crashes statistics &lt;sup&gt;(2)&lt;/sup&gt;, the results are clear: you should be way more worried about dying in a car crash (odds of 1 to 114) than in a plane crash (odds of 1 to 9’821). Dying in a plane crash is 85 times less likely!&lt;/li&gt;
+  &lt;li&gt;Availability bias, also called “What you see is all there is”: When you see a text, a thesis, or a given context, the elements laying in front of your eyes are much easier to take into account that what is not there. As a result, &lt;em&gt;we tend to weight what is present more than what is absent.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But once again, we should not be mad about it, because most of the time our brain works just fine. On the other hand, we should be aware of such shortcomings so we can try to avoid stepping into cognitive situations where we would be easily tricked…&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That’s it for the 2 agents model of our brain made famous by the works of Kahneman and Tversky! We have constantly two kinds of circuitry running in our brain:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One that is very fast, effortless, working mainly by associations and judging by cognitive ease: System 1&lt;/li&gt;
+  &lt;li&gt;Another that is slow, deliberate, lazy and which consumes a lot of energy: our System 2, to which we often refer when talking about “reason”, “will”, or “self-control”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System 1 runs continuously and generates a flow of ideas that System 2 can then approve or reject.&lt;/p&gt;
+
+&lt;p&gt;System 1 and System 2 use shortcuts so that we can have a very good tradeoff between accuracy and energy consumption. This has been a superb advantage from an evolution point of view against other species.&lt;/p&gt;
+
+&lt;p&gt;But doing so comes at a cost, and sometimes System 1 and System 2 can be tricked, both in their own ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;System 1 can judge familiar concepts more likely to be true&lt;/li&gt;
+  &lt;li&gt;System 1 will be more open to generate ideas linked to a given idea if it has been “primed” with a similar idea beforehand&lt;/li&gt;
+  &lt;li&gt;There is only so much that System 2 can monitor: cognitive problems are very consuming, both in energy, attention and willpower. As a result, a busy System 2 can become totally blind to its surrounding. A strained System 2 will also perform poorly on its next cognitive task, hence a big need to rest.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;(1) The result is 408, by the way.&lt;/p&gt;
+
+&lt;p&gt;(2) &lt;a href=&quot;https://fortune.com/2017/07/20/are-airplanes-safer-than-cars/&quot;&gt;https://fortune.com/2017/07/20/are-airplanes-safer-than-cars/&lt;/a&gt;&lt;/p&gt;</content><author><name>julien</name></author><category term="featured" /><summary type="html">This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in three “layers” in the brain. In this part I want to present the works of Nobel Prize laureate Daniel Kahneman and the late Amos Tversky. They have shown that our brain often behaves as if two agents with wildly differing characteristics were in control. Most of what I will talk about is sourced from the excellent book Thinking, Fast and Slow by Daniel Kahneman.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fooltowise.com/assets/images/ThinkingFastSlowLong.jpg" /><media:content medium="image" url="https://fooltowise.com/assets/images/ThinkingFastSlowLong.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Your Brain 101 - Part 1 - Anatomy</title><link href="https://fooltowise.com/Your-Brain-101-Part-1/" rel="alternate" type="text/html" title="Your Brain 101 - Part 1 - Anatomy" /><published>2019-12-18T00:00:00+01:00</published><updated>2019-12-18T00:00:00+01:00</updated><id>https://fooltowise.com/Your-Brain-101-Part-1</id><content type="html" xml:base="https://fooltowise.com/Your-Brain-101-Part-1/">&lt;p&gt;Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good life!&lt;/p&gt;
 
 &lt;p&gt;A lot of what follows has been inspired by the excellent book &lt;em&gt;Behave: The biology of humans at our best and worst&lt;/em&gt;, by Robert Sapolsky.&lt;/p&gt;
 
