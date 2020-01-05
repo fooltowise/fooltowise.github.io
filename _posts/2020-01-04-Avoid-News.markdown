@@ -7,9 +7,9 @@ imagesmall: assets/images/AvoidNews.jpeg
 tags: [ featured]
 ---
 
-Our brain is highly sensible to its environment. As I explained in [Your Brain 101]({{site.baseurl}}/Your-Brain-101-Part-2), our brain can be the target of many biases, and has a limited capacity to focus. You want to make sure this capacity is put to a good use.
+Our brain is highly sensible to its environment. As I explained in [Your Brain 101]({{site.baseurl}}/Your-Brain-101-Part-2), our cognition can be the target of many biases, and has a limited capacity to focus. You want to make sure this capacity is put to a good use.
 
-Among all the actions you could take to improve your environment, one of the most effective is to avoid the news. Nobody has written better about it than the author Rolf Dobelli. Therefore, I wanted to share his essay "Avoid News" in its integrality.
+Among all the actions you could take to improve your environment, one of the most effective is to simply avoid the news. Nobody has written better about it than author Rolf Dobelli. Therefore, I want to share his essay "Avoid News" in its integrality.
 
 
 
