@@ -182,7 +182,9 @@ As I said earlier, System 1 only calls System 2 for help when it is either confu
 When a given sentence is repeated again and again, System 1 will thus trust it more and more, and never call System 2 to the rescue. This is where many of our biases come from:
 
 - Confirmation bias: we only seek the facts that confirm a belief. As these facts are likely to be already stored in our brain, they are easier to retrieve. Furthermore, contrarian facts will impose cognitive strain on the brain, and System 2 will surely have to work hard. But we know that System 2 works hard only parsimoniously!
+
 - Recency and Saliency bias: events that just happened are easier to recall than older facts. It works the same with vivid memories. As a result, these facts are usually more familiar and thus "truer" than other facts. For instance, more people are worried about plane crashes compared to car crashes because the former is more spectacular, and when it happens, news channels make sure to report it again and again and again. Car crashes are much more mundane and thus less reported, less salient. But when we look at the crashes statistics <sup>(2)</sup>, the results are clear: you should be way more worried about dying in a car crash (odds of 1 to 114) than in a plane crash (odds of 1 to 9'821). Dying in a plane crash is 85 times less likely!
+
 - Availability bias, also called "What you see is all there is": When you see a text, a thesis, or a given context, the elements laying in front of your eyes are much easier to take into account that what is not there. As a result, *we tend to weight what is present more than what is absent.*  
 
 But once again, we should not be mad about it, because most of the time our brain works just fine. On the other hand, we should be aware of such shortcomings so we can try to avoid stepping into cognitive situations where we would be easily tricked...
