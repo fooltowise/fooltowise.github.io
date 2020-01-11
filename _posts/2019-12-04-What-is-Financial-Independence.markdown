@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Financial Independence?"
-categories: [ Financial Independence ]
+categories: [ Financial Independence, Personal Finance ]
 image: assets/images/ParrotLong.jpg
 imagesmall: assets/images/Parrot.jpg
 tags: [ featured, sticky]
