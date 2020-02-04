@@ -7,7 +7,7 @@ imagesmall: assets/images/wisdom.jpeg
 tags: [ featured]
 ---
 
-This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.
+This blog is all about getting wiser and living a good life, so it is high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.
 
 #### Wisdom is not the same as Intelligence and Knowledge
 
