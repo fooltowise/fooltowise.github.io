@@ -57,7 +57,7 @@ _"I think that I am superior to the common run of men in noticing things which e
 
 This is the posterchild of rationality!
 
-Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment] (by Charlie Munger) and [Influence] (by Robert Cialdini).
+Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment](http://web.archive.org/web/20151004200748/http://law.indiana.edu/instruction/profession/doc/16_1.pdf) (by Charlie Munger) and [Influence](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) (by Robert Cialdini).
 
 #### Know when you don't know
 
