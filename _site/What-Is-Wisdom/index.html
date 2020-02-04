@@ -16,20 +16,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>From Fool to Wise | From Fool to Wise</title>
+    <title>What is Wisdom? | From Fool to Wise</title>
 
     <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>From Fool to Wise | My journey towards worldly wisdom</title>
+<title>What is Wisdom? | From Fool to Wise</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="From Fool to Wise" />
+<meta property="og:title" content="What is Wisdom?" />
+<meta name="author" content="julien" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="My quest towards remedial worldly wisdom." />
-<meta property="og:description" content="My quest towards remedial worldly wisdom." />
-<link rel="canonical" href="https://fooltowise.com/" />
-<meta property="og:url" content="https://fooltowise.com/" />
+<meta name="description" content="This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience." />
+<meta property="og:description" content="This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience." />
+<link rel="canonical" href="https://fooltowise.com/What-Is-Wisdom/" />
+<meta property="og:url" content="https://fooltowise.com/What-Is-Wisdom/" />
 <meta property="og:site_name" content="From Fool to Wise" />
+<meta property="og:image" content="https://fooltowise.com/assets/images/wisdom-long.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-02-04T00:00:00+01:00" />
 <script type="application/ld+json">
-{"url":"https://fooltowise.com/","headline":"From Fool to Wise","name":"From Fool to Wise","description":"My quest towards remedial worldly wisdom.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"}},"@type":"WebSite","@context":"https://schema.org"}</script>
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://fooltowise.com/What-Is-Wisdom/"},"url":"https://fooltowise.com/What-Is-Wisdom/","author":{"@type":"Person","name":"julien"},"headline":"What is Wisdom?","dateModified":"2020-02-04T00:00:00+01:00","datePublished":"2020-02-04T00:00:00+01:00","image":"https://fooltowise.com/assets/images/wisdom-long.jpg","description":"This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"},"name":"julien"},"@type":"BlogPosting","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -73,7 +77,7 @@
 
 </head>
 
-<body class=" homefirstpage ">
+<body class="">
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -128,27 +132,27 @@ var documents = [{
     "id": 2,
     "url": "https://fooltowise.com/author-julien.html",
     "title": "Julien",
-    "body": "                        Julien Follow:                 Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!                                   Posts by Julien:                   		What is Wisdom?	: 		  This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a pra. . . 	 			In 				Good Life, 								Feb 04, 2020						            		Avoid News	: 		  Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak. . . 	 			In 				Psychology, 				Good Life, 								Jan 04, 2020						            		Your Brain 101 - Part 2: Two Thinking Systems	: 		  This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in t. . . 	 			In 				Psychology, 								Dec 30, 2019						            		Your Brain 101 - Part 1 - Anatomy	: 		  Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good . . . 	 			In 				Psychology, 								Dec 18, 2019						            		What is Financial Independence?	: 		  As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i. . . 	 			In 				Personal Finance, 								Dec 04, 2019						        "
+    "body": "                        {{page. title}} Follow:         {{ site. authors. julien. site }}         {{ site. authors. julien. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , julien  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
     }, {
     "id": 3,
     "url": "https://fooltowise.com/authors-list.html",
     "title": "Authors",
-    "body": "Authors:                                             Julien :       (View Posts)      Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!                          &nbsp;       &nbsp;                                      "
+    "body": "{{page. title}}:     {% for author in site. authors %}                                         {{ author[1]. name }} :       (View Posts)      {{ author[1]. bio }}                          &nbsp;       &nbsp;                                    {% endfor %}  "
     }, {
     "id": 4,
     "url": "https://fooltowise.com/categories.html",
     "title": "Categories",
-    "body": "          Categories               Personal Finance:                                  		What is Financial Independence?	: 		  As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i. . . 	 			In 				Personal Finance, 								Dec 04, 2019						                              Psychology:                                  		Avoid News	: 		  Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak. . . 	 			In 				Psychology, 				Good Life, 								Jan 04, 2020						                                 		Your Brain 101 - Part 2: Two Thinking Systems	: 		  This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in t. . . 	 			In 				Psychology, 								Dec 30, 2019						                                 		Your Brain 101 - Part 1 - Anatomy	: 		  Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good . . . 	 			In 				Psychology, 								Dec 18, 2019						                              Good Life:                                  		What is Wisdom?	: 		  This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a pra. . . 	 			In 				Good Life, 								Feb 04, 2020						                                 		Avoid News	: 		  Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak. . . 	 			In 				Psychology, 				Good Life, 								Jan 04, 2020						                                             Featured:    				                                          What is Wisdom?                          In                     Good Life,                                                                                           Avoid News                          In                     Psychology,                     Good Life,                                                                                           Your Brain 101 - Part 2: Two Thinking Systems                          In                     Psychology,                                                                                           Your Brain 101 - Part 1 - Anatomy                          In                     Psychology,                                                                                           What is Financial Independence?                          In                     Personal Finance,                                                                   "
+    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 5,
     "url": "https://fooltowise.com/contact.html",
     "title": "Contact",
-    "body": "  Please send your message to From Fool to Wise. I will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. I will reply as soon as possible!   "
     }, {
     "id": 6,
     "url": "https://fooltowise.com/",
     "title": "From Fool to Wise",
-    "body": "                    What is Wisdom?  :       This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want. . .               In                 Good Life,                               Feb 04, 2020                                                                                                       Avoid News          :                       In                         Psychology,                         Good Life,                                                         Jan 04, 2020                                                                                                                 Your Brain 101 - Part 2: Two Thinking Systems          :                       In                         Psychology,                                                         Dec 30, 2019                                                                                                                                    Your Brain 101 - Part 1 - Anatomy            :                           In                             Psychology,                                                                   Dec 18, 2019                                                        What is Financial Independence?                  As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is t. . .                 Read More                               All Stories:           		What is Wisdom?	: 		  This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a pra. . . 	 			In 				Good Life, 								Feb 04, 2020						          		Avoid News	: 		  Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak. . . 	 			In 				Psychology, 				Good Life, 								Jan 04, 2020						          		Your Brain 101 - Part 2: Two Thinking Systems	: 		  This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in t. . . 	 			In 				Psychology, 								Dec 30, 2019						          		Your Brain 101 - Part 1 - Anatomy	: 		  Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good . . . 	 			In 				Psychology, 								Dec 18, 2019						          		What is Financial Independence?	: 		  As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i. . . 	 			In 				Personal Finance, 								Dec 04, 2019						                                 Featured:    				                                          What is Wisdom?                          In                     Good Life,                                                                                           Avoid News                          In                     Psychology,                     Good Life,                                                                                           Your Brain 101 - Part 2: Two Thinking Systems                          In                     Psychology,                                                                                           Your Brain 101 - Part 1 - Anatomy                          In                     Psychology,                                                                                           What is Financial Independence?                          In                     Personal Finance,                                                           "
+    "body": "{% if page. url ==  /  %}    {% assign latest_post = site. posts[0] %}        &lt;div class= topfirstimage  style= background-image: url({% if latest_post. imagesmall contains  ://  %}{{ latest_post. imagesmall }}{% else %} {{site. baseurl}}/{{ latest_post. imagesmall}}{% endif %}); height: 200px;  background-size: cover;  background-repeat: no-repeat; &gt;&lt;/div&gt;        {{ latest_post. title }}  :       {{ latest_post. excerpt | strip_html | strip_newlines | truncate: 136 }}               In         {% for category in latest_post. categories %}        {{ category }},         {% endfor %}                      {{ latest_post. date | date: '%b %d, %Y' }}                      {%- assign second_post = site. posts[1] -%}            {% if second_post. imagesmall %}                         &lt;img class= w-100  src= {% if second_post. imagesmall contains  ://  %}{{ second_post. imagesmall }}{% else %}{{ second_post. imagesmall | absolute_url }}{% endif %}  alt= {{ second_post. title }} &gt;                        {% endif %}                            {{ second_post. title }}          :                       In             {% for category in second_post. categories %}            {{ category }},             {% endfor %}                                            {{ second_post. date | date: '%b %d, %Y' }}                                {%- assign third_post = site. posts[2] -%}            {% if third_post. imagesmall %}                         &lt;img class= w-100  src= {% if third_post. imagesmall contains  ://  %}{{ third_post. imagesmall }}{% else %}{{site. baseurl}}/{{ third_post. imagesmall }}{% endif %}  alt= {{ third_post. title }} &gt;                        {% endif %}                            {{ third_post. title }}          :                       In             {% for category in third_post. categories %}            {{ category }},             {% endfor %}                                            {{ third_post. date | date: '%b %d, %Y' }}                                {%- assign fourth_post = site. posts[3] -%}                {% if fourth_post. imagesmall %}                              &lt;img class= w-100  src= {% if fourth_post. imagesmall contains  ://  %}{{ fourth_post. imagesmall }}{% else %}{{site. baseurl}}/{{ fourth_post. imagesmall }}{% endif %}  alt= {{ fourth_post. title }} &gt;                              {% endif %}                                  {{ fourth_post. title }}            :                           In               {% for category in fourth_post. categories %}              {{ category }},               {% endfor %}                                                    {{ fourth_post. date | date: '%b %d, %Y' }}                                    {% for post in site. posts %}{% if post. tags contains  sticky  %}                    {{post. title}}                  {{ post. excerpt | strip_html | strip_newlines | truncate: 136 }}                 Read More                        {% endif %}{% endfor %}{% endif %}       All Stories:     {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}            {% include sidebar-featured. html %}  "
     }, {
     "id": 7,
     "url": "https://fooltowise.com/privacy-policy.html",
@@ -256,426 +260,299 @@ function lunr_search(term) {
 
     <!-- Content -->
     <main role="main" class="site-content">
-        <div class="container">
-
-
-
-
-
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
-
-    <!-- latest post -->
-    
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">
-    <a href="/What-Is-Wisdom/">
-    <div class="topfirstimage" style="background-image: url( /assets/images/wisdom.jpeg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="/What-Is-Wisdom/">What is Wisdom?</a>
-    </h2>
-    <p class="excerpt">
-        This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want...
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            In <span class="catlist">
-                
-                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
-                
-                </span>
-        </small>
-        <small class="text-muted">
-            Feb 04, 2020
-        </small>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-md-6">
-
-        <!-- second latest post --><div class="mb-3 d-flex align-items-center">
-                
-                <div class="col-md-4">
-                <a href="/Avoid-News/">
-                 <img class="w-100" src="https://fooltowise.com/assets/images/AvoidNews.jpeg" alt="Avoid News">
-                </a>
-                </div>
-                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/Avoid-News/">Avoid News</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-                        
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+        
+<div class="container">
+<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+		<div class="h-100 tofront">
+			<div class="row justify-content-center">
+				<div class="col-md-6  pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+					<p class="text-uppercase font-weight-bold">
+                        <span class="catlist">
+						
+                          <a class="sscroll text-danger" href="/categories.html#good life">good life</a><span class="sep">, </span>
                         
                         </span>
-                    </small>
-                    <small class="text-muted">
-                        Jan 04, 2020
-                    </small>
-                </div>
-            </div>
-
-
-        <!-- third latest post --><div class="mb-3 d-flex align-items-center">
-                
-                <div class="col-md-4">
-                <a href="/Your-Brain-101-Part-2/">
-                 <img class="w-100" src="/assets/images/ThinkingFastSlow.jpeg" alt="Your Brain 101 -  Part 2: Two Thinking Systems">
-                </a>
-                </div>
-                
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="/Your-Brain-101-Part-2/">Your Brain 101 -  Part 2: Two Thinking Systems</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
+					</p>
+					<h1 class="display-8 mb-8 article-headline">What is Wisdom?</h1>
+					<div class="d-flex align-items-center">
                         
-                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                        <img class="rounded-circle" src="/assets/images/avatar-jul.png" alt="Julien" width="70"/>
                         
-                        </span>
-                    </small>
-                    <small class="text-muted">
-                        Dec 30, 2019
-                    </small>
-                </div>
-            </div>
+						<small class="ml-3"> Julien <span><a target="_blank" href="https://twitter.com/SalutNounou" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+                            <span class="text-muted d-block mt-1">Feb 04, 2020 · <span class="reading-time">
+  
+  
+    13 mins read
+  
+</span>
+    </span>
+						</small>
+					</div>
+				</div>
 
-        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">
-                    
-                    <div class="col-md-4">
-                    <a href="/Your-Brain-101-Part-1/">
-                    <img class="w-100" src="/assets/images/brain101.jpeg" alt="Your Brain 101 - Part 1 - Anatomy">
-                    </a>
-                    </div>
-                    
-                    <div>
-                        <h2 class="mb-2 h6 font-weight-bold">
-                        <a class="text-dark" href="/Your-Brain-101-Part-1/">Your Brain 101 - Part 1 - Anatomy</a>
-                        </h2>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                            
-                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-                            
-                            </span>
-                        </small>
-                        <small class="text-muted">
-                            Dec 18, 2019
-                        </small>
-                    </div>
-                </div>
+			</div>
 
-        </div>
+
+		</div>
+	</div>
+</div>
+
+
+<div class="container-fluid px-0">
+ 
+ <div class="row">
+    <div class="col-md-12">
+   <img src="/assets/images/wisdom-long.jpg" alt="What is Wisdom?" class="img-responsive" />
 
     </div>
-
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-
-
-
-
-
-
-
-
-
-
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
-    <div class="pl-4 pr-0 h-100 tofront">
-        <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">What is Financial Independence?</h1>
-                <p class="mb-3 lead">
-                    As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is t...
-                </p>
-                <a href="/What-is-Financial-Independence/" class="btn btn-dark">Read More</a>
-            </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/Parrot.jpg); background-position:right top">
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-
-
- <!--endif page url is / -->
-
-
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skip the first 4 posts displayed above -->
-
-<div class="row mt-3">
-
-    <div class="col-md-8 main-loop">
-
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-
-
-        
-
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/What-Is-Wisdom/">What is Wisdom?</a>
-	</h2>
-	<p class="excerpt">
-	   This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a pra...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Feb 04, 2020
-	</small>
-</div>
-
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/What-Is-Wisdom/">
-	<img class="w-100" src="/assets/images/wisdom.jpeg" alt="What is Wisdom?">
-	</a>
-	</div>
+  </div>
 
 </div>
 
-        
 
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/Avoid-News/">Avoid News</a>
-	</h2>
-	<p class="excerpt">
-	   Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Jan 04, 2020
-	</small>
-</div>
+<div class="container-lg pt-4 pb-4">
+	<div class="row justify-content-center">
 
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/Avoid-News/">
-	<img class="w-100" src="/assets/images/AvoidNews.jpeg" alt="Avoid News">
-	</a>
-	</div>
 
-</div>
+        <!-- Share -->
+	 	<div class="col-lg-1 pr-4 mb-4 col-md-12">
+			<div class="sticky-top sticky-top-offset text-center">
+				<div class="text-muted">
+					Share this
+				</div>
+				<div class="share d-inline-block">
 
-        
+					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+						<a class="a2a_button_facebook"></a>
+						<a class="a2a_button_twitter"></a>
+					</div>
+					<script async src="https://static.addtoany.com/menu/page.js"></script>
 
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/Your-Brain-101-Part-2/">Your Brain 101 -  Part 2: Two Thinking Systems</a>
-	</h2>
-	<p class="excerpt">
-	   This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in t...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Dec 30, 2019
-	</small>
-</div>
+				</div>
+			</div>
+		</div>
 
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/Your-Brain-101-Part-2/">
-	<img class="w-100" src="/assets/images/ThinkingFastSlow.jpeg" alt="Your Brain 101 -  Part 2: Two Thinking Systems">
-	</a>
-	</div>
 
-</div>
+		<!--<div class="col-md-12 col-lg-8">-->
+           <div class="col-md-12 col-lg-5">
+            <!-- Article -->
+			<article class="article-post">
+			<p>This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.</p>
 
-        
+<h4 id="wisdom-is-not-the-same-as-intelligence-and-knowledge">Wisdom is not the same as Intelligence and Knowledge</h4>
 
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/Your-Brain-101-Part-1/">Your Brain 101 - Part 1 - Anatomy</a>
-	</h2>
-	<p class="excerpt">
-	   Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good ...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Dec 18, 2019
-	</small>
-</div>
+<p>You could think that wisdom and intelligence are the same thing. But that’s not the case! How many brilliant, intelligent people end up living a miserable and unhappy life? Smart people are not spared from divorces, bankruptcy or suicide. The world is full of brilliant persons who made wrong decisions:</p>
 
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/Your-Brain-101-Part-1/">
-	<img class="w-100" src="/assets/images/brain101.jpeg" alt="Your Brain 101 - Part 1 - Anatomy">
-	</a>
-	</div>
+<ul>
+  <li>Evariste Galois is famous for having laid the foundations of modern mathematics and group theory. He died at 20 in a duel he accepted but knew he would lose.</li>
+  <li>LTCM was a hedge fund operating in the nineties. Among its staff were two Nobel prizes in economics and the most brilliant bond traders of the time. After a very promising start, the fund hit bankruptcy in a few months because of excessive leverage and self-confidence in its models. The bankruptcy left an indelible stain on the reputation and career of its members, and sometimes led as well to their personal bankruptcy.</li>
+  <li>David Foster Wallace is one the best writers of the last century. His novel <em>Infinite Jest</em> is universally considered as a masterpiece. His commencement speech <em><a href="https://fs.blog/2012/04/david-foster-wallace-this-is-water/">This is water</a></em> has been inspirational for thousands of people. And yet he was unhappy and committed suicide. How come?</li>
+</ul>
 
-</div>
+<p>So if it is not intelligence, what is wisdom?</p>
 
-        
+<h4 id="a-practical-ability-to-lead-a-good-life">A practical ability to lead a good life</h4>
 
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
-	<a class="text-dark" href="/What-is-Financial-Independence/">What is Financial Independence?</a>
-	</h2>
-	<p class="excerpt">
-	   As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i...
-	</p>
-	<small class="d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#personal finance">Personal Finance</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted">
-		Dec 04, 2019
-	</small>
-</div>
+<p>The individuals in the previous examples may have been smart and knowledgeable, but they lacked one critical piece of knowledge: how to lead a good life. We see right away that such a piece of knowledge would need to be highly practical. There is no use to theorize the good life and refine it if we are not going to use it during our passage on earth. Thus what we need is a very practical and actionable kind of knowledge.</p>
 
-	<div class="col-md-3 pr-0 text-right">
-	<a href="/What-is-Financial-Independence/">
-	<img class="w-100" src="/assets/images/Parrot.jpg" alt="What is Financial Independence?">
-	</a>
-	</div>
+<p>This pragmatic knowledge of how to live a good life, I call it wisdom. <strong>Wisdom is the practical ability to sail through all the ups and downs we encounter while living.</strong>  This is what Seneca was writing 2’000 years ago:</p>
 
-</div>
+<blockquote>
+  <p>The most important knowledge is that which guides the way you lead your life.</p>
+</blockquote>
 
-        
+<h4 id="wisdom-is-sorting-what-is-important-from-what-is-not">Wisdom is sorting what is important from what is not</h4>
 
-        <div class="mt-5">
-         <!-- Pagination links -->
+<p>Life will throw various experiences at us. As soon as we ask “How do I live a good life?”, other questions arise. How do I know how to live a good life? X is happening to me, is this important?  I am in such-and-such situation, how can I make sure that I get what I want? How do I make the most of it?</p>
+
+<p>This is, in a very basic manner, where wisdom intervenes. As Rousseau wrote,</p>
+
+<blockquote>
+  <p>Real Wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know.</p>
+</blockquote>
+
+<p>Wisdom is thus the sorting mechanism by which we keep what is good, useful and important. It discards as well the  harmful, deceitful or useless. This is an emerging result: we continuously learn how the world works, and then we deduce the important levers likely to yield the outcome we seek. Even more important, by becoming wiser we get better at guessing what will lead to the opposite result of what we want - and then avoid it like the plague.</p>
+
+<p>In a nutshell, to be wise is to take good decisions.</p>
+
+<h4 id="understand-how-the-world-works">Understand how the world works</h4>
+
+<p>If we want to make good decisions, an obvious prerequisite is that we ought to know what are the important factors that are at stake. We are not going to know them if we do not have a good idea of how the world works in the situation at hand. Joseph Tussman wrote it better than anyone else:</p>
+
+<blockquote>
+  <p>“What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson.”</p>
+</blockquote>
+
+<p>This has tremendous implications!</p>
+
+<h4 id="a-need-for-rationality">A need for rationality</h4>
+
+<p>The first consequence is that we need to be rational. Now matter how the territory of reality is arranged, we have to store in our mind a map that describes correctly this territory. Of course, this is close to impossible: the world is way too complicated to be described exactly in details. But what is often useful to have in mind is a repository of mental models (effective simplifications or beliefs of how the world works). When an event or a fact does not fit with the internal map we have in our brain, it means that our map is not effective at predicting what is going to happen, and our models are erroneous. We need to update these models so that they reflect better reality. The whole process of updating our models and beliefs after being presented with an evidence is the core principle of rationality.</p>
+
+<p>A very peculiar example of rationality is how Charles Darwin led his whole life. In his autobiography, we can find:</p>
+
+<p><em>“I think that I am superior to the common run of men in noticing things which easily escape attention, and in observing them carefully, My industry has been nearly as great as it could have been in the observation and collection of facts. What is more important, my love of natural science has been steady and ardent… From my early youth I have had the strongest desire to understand or explain whatever I observed, that is, to group all all facts under some general laws. These causes combined have given me the patience to reflect or ponder for any number of years over any unexplained problem. As far as I can judge, I am not apt to follow blindly the lead of other men. I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it.”</em></p>
+
+<p>This is the posterchild of rationality!</p>
+
+<p>Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment] (by Charlie Munger) and [Influence] (by Robert Cialdini).</p>
+
+<h4 id="know-when-you-dont-know">Know when you don’t know</h4>
+
+<p>The second consequence is that we should be humble and acknowledge when we don’t know the solution. If wisdom starts by knowing how the world works, we are bound to find ourselves in situations where we have no clue about the principles governing the problem at hand. <strong>As a result, Wisdom is highly domain-related.</strong> Someone could know exactly what to do in a given context, and produce a disaster in a different setup. How many “smart” people (i.e smart in other domains) have lost meaningful amounts of money in the stock market because they did not understand what would drive their returns? Being smart and lacking humility is often a dangerous cocktail. Mark Twain used to say that “<em>It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so</em>”.</p>
+
+<p>As an antidote, we should develop a sense of puzzlement when we are in unfamiliar situations. The higher the puzzlement, the more we should try to not be “smart”, but to avoid being stupid (more on that below).</p>
+
+<h4 id="stand-on-the-shoulders-of-giants">Stand on the shoulders of giants</h4>
+
+<p>Homo Sapiens has been living on this planet for around 200’000 years. In this time-lapse, the common knowledge acquired has been gigantic. Wisdom is domain related and there is no way that someone could figure out on his own the cumulative wisdom of the entire human species. Nobody is that smart.</p>
+
+<p>Instead of reproducing the mistakes of others, we should seek to profit from the experiences and lessons learned by others, both living and dead. Books are a fantastic tool for this purpose, but are far from the only one. The popular saying may apply here: <em>“There are three kinds of men. The ones that learn by readin’. The few who learn by observation. The rest of them have to pee on the electric fence for themselves.”</em>  I’m sure you get the idea.</p>
+
+<p>Isaac Newton is an interesting example. When he confessed that “If he had seen a little bit further, it was by standing on the shoulders of giants”, he simply acknowledged that he benefited from the cumulative intellectual progress done by his predecessors, among whom we find Kepler, Copernicus, Hookes and Descartes. Newton is now buried at Westminster Abbey. On his grave we can read a rather uncommon epitaph: “Here lies that which was mortal of Sir Isaac Newton”. We could do worse than inspiring ourselves from Newton.</p>
+
+<p><img src="/assets/images/isaac-newton-grave.jpg" alt="Newton's epitaph" /></p>
+
+<p>If there is a recurrence in people who led a good life, you will find that most of them read a lot. According to Descartes, the reading of all good books is like conversation with the finest minds of past centuries. Without doubt these great minds encountered most of the issues we are still dealing with. As students of history we often realize that the wisdom of civilizations is written and forgotten, written and forgotten, written and forgotten. Why should we waste time, resources and often pain to learn what others have been through countless times? Making friends with the finest minds of the past is for sure a good way to become wiser one step at a time.</p>
+
+<h4 id="invert-always-invert">Invert, always invert</h4>
+
+<p>I did not want to write this essay without talking about inversion.
+In every situation we face, there are often more than one way to find a solution. Most of the time we reflect on the current problematic situation, look at where we would like to go, and figure out a bridge from the former to the latter. This may work, but life is often complicated. The devised solution often end up being even more complicated, and not fool-proof to side effects.</p>
+
+<p>There is another way however. The unintuitive path is called <strong>inversion</strong>. Instead of trying to solve the problem in a direct manner, we should try to think about all the ways in which we would be sure to fail lamentably, <em>and then make sure we never do that.</em></p>
+
+<p>Let’s say you are an honest politician trying to help the economy of your country. Framed in this manner, the universe of solutions seems endless and choosing one over the other does not seem to guarantee effectiveness nor any result. But if you start by asking “How could I ruin for sure the economy of my country?”, you will eliminate swiftly many spaces of strategies and ensure that whatever you do, you will not hurt your country.</p>
+
+<p>We just turn the problem backwards. This mindset was put forward by the german mathematician Carl Jacobi, but nobody has been a stronger proponent than Charlie Munger, the sidekick of Warren Buffett.</p>
+
+<p>Munger likes to tell the story of the simple rustic who used to say “All i want to know is where i am going to die so i will never go there”. You may smile at the rustic, but there is a lot of wisdom in applying this maxim in our day-to-day lives.
+If wisdom is defined as knowing what to do in a given situation, he who knows what not to do under any circumstances is must have acquired some kind of wisdom. Munger has applied this his whole life. As he likes to say,</p>
+
+<blockquote>
+  <p><em>It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.</em></p>
+</blockquote>
+
+<p>The immense power of this mindset is that it simply prevents us to run into problems. Knowing what to do  is often knowing how not to worsen our situation. Seen under this lens, wisdom becomes synonymous with prevention.</p>
+
+<p><em>The wise man will seek to avoid problems in the first place, rather than trying to solve them.</em></p>
+
+<p>Once we are stuck into a problem, we are never sure to get out of it. By avoiding it from the very beginning we make sure we will come out unscathed, and that adds to our tranquility of mind.</p>
+
+<p>It is an ironic twist of events that society celebrates so much problem solvers. Problem-avoiders end up  invisible. Newspapers will make headlines on heroes who saved people lives in a fire, but will never mention the other hero who prevented the fire in the first place. That never makes a good movie.</p>
+
+<p>Wisdom framed as problem-avoidance looks unsexy and boring. But it for sure makes us live better lives!</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Being smart is not a guarantee to live a good life, as so many intelligent people have found out. What we need is a practical knowledge to help us navigate through life and know what to do in many situations. This practical, actionable knowledge is what we commonly call wisdom.</p>
+
+<p>To be able to know what to do, we should know how the world works. This way we are able to distinguish the levers that will help us in a given context.  Learning about the world’s inner gears can be done either by direct or vicarious experience. But since the cumulative wisdom of our civilization is so wide, learning through others will accelerate our learning curve!</p>
+
+<p>On a final note,  knowing what to do is as important as knowing what <em>not</em> to do. The inversion principle is a powerful tool allowing us to get rid of many solutions that were not obviously harmful at first sight…</p>
+
+			</article>
+
+
+
+
+
+			<!-- Tags -->
+			<div class="mb-4">
+				<span class="taglist">
+				
+				  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="/tags.html#featured">featured</a>
+				
+				</span>
+			</div>
+
+            <!-- Mailchimp Subscribe Form -->
             
-        </div>
+			<div class="border p-5 bg-lightblue">
+				<div class="row justify-content-between">
+					<div class="col-md-6 mb-2 mb-md-0">
+						<h5 class="font-weight-bold">Join Newsletter</h5>
+						 Get the latest news right in your inbox. I never spam!
+					</div>
+					<div class="col-md-6">
+						<div class="row">
+                            <form action="https://fooltowise.us4.list-manage.com/subscribe/post?u=fe5dd068fcfb301e391794c4f&amp;id=af7afcaaa2" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
+                            <div class="mc-field-group">
 
+								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
+
+
+								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
+
+                            </div>
+                            </form>
+						</div>
+					</div>
+				</div>
+			</div>
+            
+
+
+             <!-- Author Box -->
+                
+				<div class="row mt-5">
+					<div class="col-md-2 align-self-center">
+                         
+                        <img class="rounded-circle" src="/assets/images/avatar-jul.png" alt="Julien" width="90"/>
+                        
+					</div>
+					<div class="col-md-10">
+                        <h5 class="font-weight-bold">Written by Julien <span><a target="_blank" href="https://twitter.com/SalutNounou" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span></h5>
+						Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!
+					</div>
+				</div>
+                
+
+            <!-- Comments -->
+            
+                <!--  Don't edit anything here. Set your disqus id in _config.yml -->
+
+<div id="comments" class="mt-5">
+    <div id="disqus_thread">
     </div>
+    <script type="text/javascript">
+        var disqus_shortname = 'fooltowise-com'; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>
+    Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+</div>
+            
 
-    <div class="col-md-4">
-        <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
-    <ol class="list-featured">				
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/What-Is-Wisdom/" class="text-dark">What is Wisdom?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Avoid-News/" class="text-dark">Avoid News</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Your-Brain-101-Part-2/" class="text-dark">Your Brain 101 -  Part 2: Two Thinking Systems</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/Your-Brain-101-Part-1/" class="text-dark">Your Brain 101 - Part 1 - Anatomy</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/What-is-Financial-Independence/" class="text-dark">What is Financial Independence?</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#personal finance">Personal Finance</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-           
-    </ol>
-</div> 
-    </div>
+		</div>
 
+
+
+
+
+	</div>
 </div>
 
 
-
+<!-- Aletbar Prev/Next -->
+<div class="alertbar">
+    <div class="container">
+        <div class="row prevnextlinks small font-weight-bold">
+          
+            <div class="col-md-6 rightborder pl-0">
+                <a class="text-dark" href="/Avoid-News/"> <img height="30px" class="mr-1" src="/assets/images/AvoidNewsLong.jpg">  Avoid News</a>
+            </div>
+          
+          
+        </div>
+    </div>
 </div>
 
     </main>

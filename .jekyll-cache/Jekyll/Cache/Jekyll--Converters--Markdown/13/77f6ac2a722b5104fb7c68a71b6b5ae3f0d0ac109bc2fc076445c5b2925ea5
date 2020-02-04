@@ -1,0 +1,422 @@
+I"Q9<div class="container">
+
+
+
+
+
+<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<div class="row remove-site-content-margin">
+
+    <!-- latest post -->
+    
+    <div class="col-md-6">
+    <div class="card border-0 mb-4 box-shadow">
+    <a href="/What-Is-Wisdom/">
+    <div class="topfirstimage" style="background-image: url( /assets/images/wisdom.jpeg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
+    </a>
+    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+    <h2 class="h4 font-weight-bold">
+    <a class="text-dark" href="/What-Is-Wisdom/">What is Wisdom?</a>
+    </h2>
+    <p class="excerpt">
+        This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want...
+    </p>
+    <div>
+        <small class="d-block text-muted">
+            In <span class="catlist">
+                
+                <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+                
+                </span>
+        </small>
+        <small class="text-muted">
+            Feb 04, 2020
+        </small>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    <div class="col-md-6">
+
+        <!-- second latest post --><div class="mb-3 d-flex align-items-center">
+                
+                <div class="col-md-4">
+                <a href="/Avoid-News/">
+                 <img class="w-100" src="https://fooltowise.com/assets/images/AvoidNews.jpeg" alt="Avoid News" />
+                </a>
+                </div>
+                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/Avoid-News/">Avoid News</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+                        
+                        </span>
+                    </small>
+                    <small class="text-muted">
+                        Jan 04, 2020
+                    </small>
+                </div>
+            </div>
+
+
+        <!-- third latest post --><div class="mb-3 d-flex align-items-center">
+                
+                <div class="col-md-4">
+                <a href="/Your-Brain-101-Part-2/">
+                 <img class="w-100" src="/assets/images/ThinkingFastSlow.jpeg" alt="Your Brain 101 -  Part 2: Two Thinking Systems" />
+                </a>
+                </div>
+                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="/Your-Brain-101-Part-2/">Your Brain 101 -  Part 2: Two Thinking Systems</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        
+                        <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                        
+                        </span>
+                    </small>
+                    <small class="text-muted">
+                        Dec 30, 2019
+                    </small>
+                </div>
+            </div>
+
+        <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">
+                    
+                    <div class="col-md-4">
+                    <a href="/Your-Brain-101-Part-1/">
+                    <img class="w-100" src="/assets/images/brain101.jpeg" alt="Your Brain 101 - Part 1 - Anatomy" />
+                    </a>
+                    </div>
+                    
+                    <div>
+                        <h2 class="mb-2 h6 font-weight-bold">
+                        <a class="text-dark" href="/Your-Brain-101-Part-1/">Your Brain 101 - Part 1 - Anatomy</a>
+                        </h2>
+                        <small class="d-block text-muted">
+                            In <span class="catlist">
+                            
+                            <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                            
+                            </span>
+                        </small>
+                        <small class="text-muted">
+                            Dec 18, 2019
+                        </small>
+                    </div>
+                </div>
+
+        </div>
+
+    </div>
+
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+
+
+
+
+
+
+
+
+
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">What is Financial Independence?</h1>
+                <p class="mb-3 lead">
+                    As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is t...
+                </p>
+                <a href="/What-is-Financial-Independence/" class="btn btn-dark">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/Parrot.jpg); background-position:right top">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+ <!--endif page url is / -->
+
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skip the first 4 posts displayed above -->
+
+<div class="row mt-3">
+
+    <div class="col-md-8 main-loop">
+
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/What-Is-Wisdom/">What is Wisdom?</a>
+	</h2>
+	<p class="excerpt">
+	   This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a pra...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Feb 04, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/What-Is-Wisdom/">
+	<img class="w-100" src="/assets/images/wisdom.jpeg" alt="What is Wisdom?" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Avoid-News/">Avoid News</a>
+	</h2>
+	<p class="excerpt">
+	   Our brain is highly sensible to its environment. As I explained in Your Brain 101, our cognition can be the target of many biases, and has a limited capacity to focus. You want to mak...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 04, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Avoid-News/">
+	<img class="w-100" src="/assets/images/AvoidNews.jpeg" alt="Avoid News" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Your-Brain-101-Part-2/">Your Brain 101 -  Part 2: Two Thinking Systems</a>
+	</h2>
+	<p class="excerpt">
+	   This is second part of my series of articles on how the brain works. In the last part, we saw how neurons work and how they interact. We also so a model of how they are organized in t...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 30, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Your-Brain-101-Part-2/">
+	<img class="w-100" src="/assets/images/ThinkingFastSlow.jpeg" alt="Your Brain 101 -  Part 2: Two Thinking Systems" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Your-Brain-101-Part-1/">Your Brain 101 - Part 1 - Anatomy</a>
+	</h2>
+	<p class="excerpt">
+	   Your brain is the place where all your decisions take place. For this reason, it is important to have a good idea of how the brain works so we can take good decisions and live a good ...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 18, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Your-Brain-101-Part-1/">
+	<img class="w-100" src="/assets/images/brain101.jpeg" alt="Your Brain 101 - Part 1 - Anatomy" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/What-is-Financial-Independence/">What is Financial Independence?</a>
+	</h2>
+	<p class="excerpt">
+	   As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See About). As such, this is the perfect topic to kickstart this website! What i...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#personal finance">Personal Finance</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 04, 2019
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/What-is-Financial-Independence/">
+	<img class="w-100" src="/assets/images/Parrot.jpg" alt="What is Financial Independence?" />
+	</a>
+	</div>
+
+</div>
+
+        
+
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/What-Is-Wisdom/" class="text-dark">What is Wisdom?</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Avoid-News/" class="text-dark">Avoid News</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#good life">Good Life</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Your-Brain-101-Part-2/" class="text-dark">Your Brain 101 -  Part 2: Two Thinking Systems</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/Your-Brain-101-Part-1/" class="text-dark">Your Brain 101 - Part 1 - Anatomy</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/What-is-Financial-Independence/" class="text-dark">What is Financial Independence?</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#personal finance">Personal Finance</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div> 
+    </div>
+
+</div>
+
+
+
+</div>
+:ET
