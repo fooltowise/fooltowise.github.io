@@ -55,9 +55,9 @@ A very peculiar example of rationality is how Charles Darwin led his whole life.
 
 _"I think that I am superior to the common run of men in noticing things which easily escape attention, and in observing them carefully, My industry has been nearly as great as it could have been in the observation and collection of facts. What is more important, my love of natural science has been steady and ardent... From my early youth I have had the strongest desire to understand or explain whatever I observed, that is, to group all all facts under some general laws. These causes combined have given me the patience to reflect or ponder for any number of years over any unexplained problem. As far as I can judge, I am not apt to follow blindly the lead of other men._ **_I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it."_**
 
-This is the posterchild of rationality!
+This is the poster-child of rationality!
 
-Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment] (by Charlie Munger) and [Influence] (by Robert Cialdini).
+Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are **[The Psychology of human misjudgment](http://web.archive.org/web/20151004200748/http://law.indiana.edu/instruction/profession/doc/16_1.pdf)** (by Charlie Munger) and **[Influence](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X)** (by Robert Cialdini).
 
 #### Know when you don't know
 
