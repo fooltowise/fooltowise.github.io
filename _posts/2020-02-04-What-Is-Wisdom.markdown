@@ -7,13 +7,13 @@ imagesmall: assets/images/wisdom.jpeg
 tags: [ featured]
 ---
 
-This blog is all about getting wiser and living a good life, so it is high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.
+This blog is all about getting wiser and living a good life, so it high time that we discuss in details what I mean by wisdom. I want to show how wisdom is not intelligence, but a practical ability to navigate through life. I will also discuss how to get progressively wiser, both by personal and vicarious experience.
 
 #### Wisdom is not the same as Intelligence and Knowledge
 
-You could think that wisdom and intelligence are the same thing. But that's not the case! How many brilliant, intelligent people end up living a miserable and unhappy life? Smart people are not spared from divorces, bankruptcy or suicide. The world is full of brilliant persons who made wrong decisions:
+You could think that wisdom and intelligence are the same thing. But that's not the case! **How many brilliant, intelligent people end up living a miserable and unhappy life?** Smart people are not spared from divorces, bankruptcy or suicide. The world is full of brilliant persons who made wrong decisions:
 
-- Evariste Galois is famous for having laid the foundations of modern mathematics and group theory. He died at 20 in a duel he accepted but knew he would lose.
+- The French mathematician Évariste Galois laid the foundations of modern mathematics and group theory. He died at 20 in a duel he accepted but knew he would lose.
 - LTCM was a hedge fund operating in the nineties. Among its staff were two Nobel prizes in economics and the most brilliant bond traders of the time. After a very promising start, the fund hit bankruptcy in a few months because of excessive leverage and self-confidence in its models. The bankruptcy left an indelible stain on the reputation and career of its members, and sometimes led as well to their personal bankruptcy.
 - David Foster Wallace is one the best writers of the last century. His novel *Infinite Jest* is universally considered as a masterpiece. His commencement speech *[This is water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)* has been inspirational for thousands of people. And yet he was unhappy and committed suicide. How come?
 
@@ -25,7 +25,7 @@ The individuals in the previous examples may have been smart and knowledgeable, 
 
 This pragmatic knowledge of how to live a good life, I call it wisdom. **Wisdom is the practical ability to sail through all the ups and downs we encounter while living.**  This is what Seneca was writing 2'000 years ago:
 
-> The most important knowledge is that which guides the way you lead your life.
+> **The most important knowledge is that which guides the way you lead your life.**
 
 #### Wisdom is sorting what is important from what is not
 
@@ -33,7 +33,7 @@ Life will throw various experiences at us. As soon as we ask "How do I live a go
 
 This is, in a very basic manner, where wisdom intervenes. As Rousseau wrote,
 
-> Real Wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know.  
+> **Real Wisdom is not the knowledge of everything, but the knowledge of which things in life are necessary, which are less necessary, and which are completely unnecessary to know.**  
 
 Wisdom is thus the sorting mechanism by which we keep what is good, useful and important. It discards as well the  harmful, deceitful or useless. This is an emerging result: we continuously learn how the world works, and then we deduce the important levers likely to yield the outcome we seek. Even more important, by becoming wiser we get better at guessing what will lead to the opposite result of what we want - and then avoid it like the plague.
 
@@ -43,7 +43,7 @@ In a nutshell, to be wise is to take good decisions.
 
 If we want to make good decisions, an obvious prerequisite is that we ought to know what are the important factors that are at stake. We are not going to know them if we do not have a good idea of how the world works in the situation at hand. Joseph Tussman wrote it better than anyone else:
 
->  “What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson.”
+>  **“What the pupil must learn, if he learns anything at all, is that the world will do most of the work for you, provided you cooperate with it by identifying how it really works and aligning with those realities. If we do not let the world teach us, it teaches us a lesson.”**
 
 This has tremendous implications!
 
@@ -53,11 +53,11 @@ The first consequence is that we need to be rational. Now matter how the territo
 
 A very peculiar example of rationality is how Charles Darwin led his whole life. In his autobiography, we can find:
 
-_"I think that I am superior to the common run of men in noticing things which easily escape attention, and in observing them carefully, My industry has been nearly as great as it could have been in the observation and collection of facts. What is more important, my love of natural science has been steady and ardent... From my early youth I have had the strongest desire to understand or explain whatever I observed, that is, to group all all facts under some general laws. These causes combined have given me the patience to reflect or ponder for any number of years over any unexplained problem. As far as I can judge, I am not apt to follow blindly the lead of other men. I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it."_
+_"I think that I am superior to the common run of men in noticing things which easily escape attention, and in observing them carefully, My industry has been nearly as great as it could have been in the observation and collection of facts. What is more important, my love of natural science has been steady and ardent... From my early youth I have had the strongest desire to understand or explain whatever I observed, that is, to group all all facts under some general laws. These causes combined have given me the patience to reflect or ponder for any number of years over any unexplained problem. As far as I can judge, I am not apt to follow blindly the lead of other men._ **_I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved (and I cannot resist forming one on every subject), as soon as facts are shown to be opposed to it."_**
 
 This is the posterchild of rationality!
 
-Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment](http://web.archive.org/web/20151004200748/http://law.indiana.edu/instruction/profession/doc/16_1.pdf) (by Charlie Munger) and [Influence](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) (by Robert Cialdini).
+Among all the models that are likely to be effective in our quest for wisdom, knowing what influences us is of utmost importance. It would be stupid to know how the rest of the world works, while neglecting how it affects us. This would be a topic in itself, but for the moment I would urge you to document yourself on the subject. In particular, you could do worse than reading the two excellent sources that are [The Psychology of human misjudgment] (by Charlie Munger) and [Influence] (by Robert Cialdini).
 
 #### Know when you don't know
 
@@ -71,15 +71,15 @@ As an antidote, we should develop a sense of puzzlement when we are in unfamilia
 
 Homo Sapiens has been living on this planet for around 200'000 years. In this time-lapse, the common knowledge acquired has been gigantic. Wisdom is domain related and there is no way that someone could figure out on his own the cumulative wisdom of the entire human species. Nobody is that smart.
 
-Instead of reproducing the mistakes of others, we should seek to profit from the experiences and lessons learned by others, both living and dead. Books are a fantastic tool for this purpose, but are far from the only one. The popular saying may apply here: *“There are three kinds of men. The ones that learn by readin'. The few who learn by observation. The rest of them have to pee on the electric fence for themselves.”*  I'm sure you get the idea.
+Instead of reproducing the mistakes of others, we should seek to profit from the experiences and lessons learned by others, both living and dead. Books are a fantastic tool for this purpose, but are far from the only one. The popular saying may apply here: **_“There are three kinds of men. The ones that learn by readin'. The few who learn by observation. The rest of them have to pee on the electric fence for themselves.”_**  I'm sure you get the idea.
 
-Isaac Newton is an interesting example. When he confessed that "If he had seen a little bit further, it was by standing on the shoulders of giants", he simply acknowledged that he benefited from the cumulative intellectual progress done by his predecessors, among whom we find Kepler, Copernicus, Hookes and Descartes. Newton is now buried at Westminster Abbey. On his grave we can read a rather uncommon epitaph: "Here lies that which was mortal of Sir Isaac Newton". We could do worse than inspiring ourselves from Newton.
+Isaac Newton is an interesting example. When he confessed that "If he had seen a little bit further, it was by standing on the shoulders of giants", he simply acknowledged that he benefited from the cumulative intellectual progress done by his predecessors, among whom we find Kepler, Copernicus, Hookes and Descartes. Newton is now buried at Westminster Abbey. On his grave we can read a rather uncommon epitaph: **"Here lies that which was mortal of Sir Isaac Newton"**. We could do worse than inspiring ourselves from Newton.
 
 
 
 ![Newton's epitaph]({{ site.baseurl }}/assets/images/isaac-newton-grave.jpg)
 
-If there is a recurrence in people who led a good life, you will find that most of them read a lot. According to Descartes, the reading of all good books is like conversation with the finest minds of past centuries. Without doubt these great minds encountered most of the issues we are still dealing with. As students of history we often realize that the wisdom of civilizations is written and forgotten, written and forgotten, written and forgotten. Why should we waste time, resources and often pain to learn what others have been through countless times? Making friends with the finest minds of the past is for sure a good way to become wiser one step at a time.
+If there is a recurrence in people who led a good life, you will find that most of them read a lot. According to Descartes, the reading of all good books is like conversation with the finest minds of past centuries. Without doubt these great minds encountered most of the issues we are still dealing with. As students of history we often realize that the wisdom of civilizations is written and forgotten, written and forgotten, written and forgotten. Why should we waste time, resources and often pain to learn what others have been through countless times? **Making friends with the finest minds of the past is for sure a good way to become wiser one step at a time.**
 
 
 
@@ -92,16 +92,16 @@ There is another way however. The unintuitive path is called **inversion**. Inst
 
 Let's say you are an honest politician trying to help the economy of your country. Framed in this manner, the universe of solutions seems endless and choosing one over the other does not seem to guarantee effectiveness nor any result. But if you start by asking "How could I ruin for sure the economy of my country?", you will eliminate swiftly many spaces of strategies and ensure that whatever you do, you will not hurt your country.
 
-We just turn the problem backwards. This mindset was put forward by the german mathematician Carl Jacobi, but nobody has been a stronger proponent than Charlie Munger, the sidekick of Warren Buffett.
+**We just turn the problem backwards.** This mindset was put forward by the german mathematician Carl Jacobi, but nobody has been a stronger proponent than Charlie Munger, the sidekick of Warren Buffett.
 
 Munger likes to tell the story of the simple rustic who used to say "All i want to know is where i am going to die so i will never go there". You may smile at the rustic, but there is a lot of wisdom in applying this maxim in our day-to-day lives.
 If wisdom is defined as knowing what to do in a given situation, he who knows what not to do under any circumstances is must have acquired some kind of wisdom. Munger has applied this his whole life. As he likes to say,
 
-> *It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.*
+> **_It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent._**
 
 The immense power of this mindset is that it simply prevents us to run into problems. Knowing what to do  is often knowing how not to worsen our situation. Seen under this lens, wisdom becomes synonymous with prevention.
 
-*The wise man will seek to avoid problems in the first place, rather than trying to solve them.*
+**_The wise man will seek to avoid problems in the first place, rather than trying to solve them._**
 
 Once we are stuck into a problem, we are never sure to get out of it. By avoiding it from the very beginning we make sure we will come out unscathed, and that adds to our tranquility of mind.
 
@@ -117,4 +117,4 @@ Being smart is not a guarantee to live a good life, as so many intelligent peopl
 
 To be able to know what to do, we should know how the world works. This way we are able to distinguish the levers that will help us in a given context.  Learning about the world's inner gears can be done either by direct or vicarious experience. But since the cumulative wisdom of our civilization is so wide, learning through others will accelerate our learning curve!
 
-On a final note,  knowing what to do is as important as knowing what *not* to do. The inversion principle is a powerful tool allowing us to get rid of many solutions that were not obviously harmful at first sight...
+On a final note, knowing what to do is as important as knowing what **_not_** to do. The inversion principle is a powerful tool allowing us to get rid of many solutions that were not obviously harmful at first sight...
