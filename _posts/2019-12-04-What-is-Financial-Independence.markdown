@@ -19,9 +19,9 @@ That's it. If you have assets generating an income superior to your expenses, yo
 
 Now it can come with all sorts of flavours... Some will want to be wealthy enough to afford to pay all their luxuries. Others will be happy with cash flows covering only their basic needs (housing, health, food and transportation). Most variations are between these two broad categories. (Side Note: Financial Independence is often abbreviated FI).
 
-Although the concept has been there for a long time, it really took off around 2010 when blogs such as  **[Mr Money Mustache]**(https://www.mrmoneymustache.com/) or **[Early Retirement Extreme]**(http://earlyretirementextreme.com/) started documenting how to reach financial independence. What made people really interested in the topic was that often these bloggers had reached FI *in a dozen of years or less*.
+Although the concept has been there for a long time, it really took off around 2010 when blogs such as  **[Mr Money Mustache](https://www.mrmoneymustache.com/)** or **[Early Retirement Extreme](http://earlyretirementextreme.com/)** started documenting how to reach financial independence. What made people really interested in the topic was that often these bloggers had reached FI *in a dozen of years or less*.
 
-In Switzerland (my home country), the two most famous blogs on the subject are the **[Mustachian Post]**(https://www.mustachianpost.com/) and **[Retire in Progress]**(https://retireinprogress.com/). Go visit them if you are interested on the subject!
+In Switzerland (my home country), the two most famous blogs on the subject are the **[Mustachian Post](https://www.mustachianpost.com/)** and **[Retire in Progress](https://retireinprogress.com/)**. Go visit them if you are interested on the subject!
 
 
 
@@ -82,7 +82,7 @@ Now that we are clear with the meaning of *investing*, you need to figure out in
 
 ### 3) Repeat until your assets are producing enough cash to cover your expenses
 
-How much is enough to cover your needs? There is a lot of debates on the exact amount, but the **[Trinity Study]**(https://en.wikipedia.org/wiki/Trinity_study)  is a good starting point.
+How much is enough to cover your needs? There is a lot of debates on the exact amount, but the **[Trinity Study](https://en.wikipedia.org/wiki/Trinity_study)**  is a good starting point.
 
 Published in 1998, the study defines a "safe withdrawal rate", equal to 4% of your assets. Imagine someone withdrawing only 4% of his funds every year, while keeping the rest invested.
 >According to the study, such a person would have a 97% chance of never running out of money.
@@ -180,7 +180,7 @@ and thus, our final result:
 ![Results]({{ site.baseurl }}/assets/images/NSavingRate.jpg)
 Someone saving half of his income and investing it at a 10% annual rate will be financially independent in 13 years. With the same annual returns, someone saving only 10% of his income will only reach financial freedom in 33 years! This is not a reasonable timeframe. Even less so if annual returns are less than 10%... The time needed to reach FI jumps then very quickly to over 50 years...
 
->As you can see, the two conditions needed to reach financial freedom within 15 years are an annual investment returns of more than 5% and a saving rate of more than 50%!
+> **As you can see, the two conditions needed to reach financial freedom within 15 years are an annual investment returns of more than 5% and a saving rate of more than 50%!**
 
 
 That's enough theory for today, dear reader!
