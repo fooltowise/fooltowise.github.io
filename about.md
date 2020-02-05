@@ -6,16 +6,16 @@ permalink: "/about.html"
 image: "assets/images/about.jpg"
 description: "Let's know each other"
 ---
-Hello dear reader! Welcome to _From Fool to Wise_, a blog about my quest towards acquiring wisdom, making better decisions and living a good life.
+Hello dear reader! Welcome to **_From Fool to Wise_**, a blog about my quest towards **acquiring wisdom, making better decisions and living a good life**.
 I'm Julien, a french software engineer living in Zürich, Switzerland since 2016.
 
 On this blog I plan to talk about many topics:
-- Rationality
+**- Rationality
 - Avoiding Stupidity
 - Financial Independence
 - Making good decisions
 - Mental Models
-- Happiness and family
+- Happiness and family**
 
 
 ## Where it all started
@@ -32,21 +32,21 @@ In short, this is about _having enough passive income to cover your basic needs 
 I quickly realized that what I initially thought was only about maths and money would very quickly drift towards more philosophical questions!
 
 I needed someone who could help me to think about these themes. But fortunately, I was far to be the first person asking these questions.
-From ancient stoic philosopher to contemporary role models like Charlie Munger and Naval Ravikant, I discovered new frameworks to help me think in my everyday life about these difficult questions.
+From ancient stoic philosophers to contempory rolemodels like Charlie Munger and Naval Ravikant, I discovered new frameworks to help me think in my everyday life about these difficult questions.
 
 This website is a documentation of my discovery of these frameworks, and how I apply them in my life to stay away from stupid mistakes and try to lean towards a wiser life.
 
 ## What should you expect from this blog?
 
-Good question, dear reader. My  purpose in writing this blog is to expose my thought process, so I can discuss it with you afterward.
+Good question, dear reader. My purpose in writing this site is to expose my thought process, so I can discuss it with you afterward.
 
 My blog will thus allow me to:
 
-- Learn about many topics, mainly about how to live a good live and make better decisions
-- Meet people with a similar mindset. Where are you guys?
-- Discover people who are much farther down the road through their personal journey towards worldly wisdom.
-- Highlight my stupid mistakes when they occur, so that other people can learn from them.
-- Sharpen my mind. Explaining a topic to someone else is learning it a second time.
+- **Learn about many topics**, mainly about how to live a good live and make better decisions
+- **Meet people with a similar mindset.** Looking forward discussing with you guys!
+- **Discover people who are much farther down the road** through their personal journey towards worldly wisdom.
+- **Highlight my stupid mistakes when they occur**, so that other people can learn from them.
+- **Sharpen my mind.** Explaining a topic to someone else is learning it a second time.
 
 ---
 
