@@ -10,12 +10,12 @@ Hello dear reader! Welcome to **_From Fool to Wise_**, a blog about my quest tow
 I'm Julien, a french software engineer living in Zürich, Switzerland since 2016.
 
 On this blog I plan to talk about many topics:
-**- Rationality
-- Avoiding Stupidity
-- Financial Independence
-- Making good decisions
-- Mental Models
-- Happiness and family**
+- **Rationality**
+- **Avoiding Stupidity**
+- **Financial Independence**
+- **Making good decisions**
+- **Mental Models**
+- **Happiness and family**
 
 
 ## Where it all started
@@ -31,7 +31,7 @@ In short, this is about _having enough passive income to cover your basic needs 
 
 I quickly realized that what I initially thought was only about maths and money would very quickly drift towards more philosophical questions!
 
-I needed someone who could help me to think about these themes. But fortunately, I was far to be the first person asking these questions.
+I needed someone who could help me to think about these themes. But fortunately, **I was far to be the first person asking these questions**.
 From ancient stoic philosophers to contempory rolemodels like Charlie Munger and Naval Ravikant, I discovered new frameworks to help me think in my everyday life about these difficult questions.
 
 This website is a documentation of my discovery of these frameworks, and how I apply them in my life to stay away from stupid mistakes and try to lean towards a wiser life.
