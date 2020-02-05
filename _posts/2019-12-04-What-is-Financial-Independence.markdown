@@ -8,20 +8,20 @@ tags: [ featured, sticky]
 ---
 
 
-As every journey starts somewhere, mine began when I discovered the concept of Financial Independence (See [About]({{site.baseurl}}/about.html)). As such, this is the perfect topic to kickstart this website! What is Financial Independence? How do we define it? How to reach it? How long does it take?
+As every journey starts somewhere, mine began when I discovered the concept of **Financial Independence** (See [About]({{site.baseurl}}/about.html)). As such, this is the perfect topic to kickstart this website! What is Financial Independence? How do we define it? How to reach it? How long does it take?
 
 **Follow me down the rabbit hole.**
 
 Let's go with a broad definition:
->Financial Independence is about accumulating enough wealth to live without having to work for money anymore. Your assets generate enough cash to cover your expenses.
+> **Financial Independence is about accumulating enough wealth to live without having to work for money anymore. Your assets generate enough cash to cover your expenses.**
 
 That's it. If you have assets generating an income superior to your expenses, you are financially independent!
 
-Now it can come with all sorts of flavors... Some will want to be wealthy enough to afford to pay all their luxuries. Others will be happy with cash flows covering only their basic needs (housing, health, food and transportation). Most flavors are between these two broad categories. (Side Note: Financial Independence is often abbreviated FI).
+Now it can come with all sorts of flavours... Some will want to be wealthy enough to afford to pay all their luxuries. Others will be happy with cash flows covering only their basic needs (housing, health, food and transportation). Most variations are between these two broad categories. (Side Note: Financial Independence is often abbreviated FI).
 
-Although the concept has been there for a long time, it really took off around 2010 when blogs such as  [Mr Money Mustache](https://www.mrmoneymustache.com/) or [Early Retirement Extreme](http://earlyretirementextreme.com/) started documenting how to reach financial independence. What made people really interested in the topic was that often these bloggers had reached FI *in a dozen of years or less*.
+Although the concept has been there for a long time, it really took off around 2010 when blogs such as  **[Mr Money Mustache]**(https://www.mrmoneymustache.com/) or **[Early Retirement Extreme]**(http://earlyretirementextreme.com/) started documenting how to reach financial independence. What made people really interested in the topic was that often these bloggers had reached FI *in a dozen of years or less*.
 
-In Switzerland (my home country), the two most famous blogs on the subject are the [Mustachian Post](https://www.mustachianpost.com/) and [Retire in Progress](https://retireinprogress.com/). Go visit them if you are interested on the subject!
+In Switzerland (my home country), the two most famous blogs on the subject are the **[Mustachian Post]**(https://www.mustachianpost.com/) and **[Retire in Progress]**(https://retireinprogress.com/). Go visit them if you are interested on the subject!
 
 
 
@@ -29,13 +29,13 @@ In Switzerland (my home country), the two most famous blogs on the subject are t
 
 I will assume that you are not a playing in the NBA, you did not win the lottery, you did not inherit from a wealthy distant uncle or what-not.
 
-Reaching FI is actually simple and can be summarized in three step:
+Reaching FI is actually simple and can be summarised in three step:
 
 1. Spend less than you earn
 2. Invest the difference in productive assets
 3. Repeat until these assets are producing enough income to cover your expenses.
 
-As I said, very simple, right? Simple, *but not easy*. Let's dig deaper into these steps...
+As I said, very simple, right? Simple, *but not easy*. Let's dig deeper into these steps...
 
 
 
@@ -43,7 +43,7 @@ As I said, very simple, right? Simple, *but not easy*. Let's dig deaper into the
 
 This is the most important step of all. If you want to have some money to invest, it needs to come from somewhere. And this somewhere is really nothing special, it is just the money that is left after you paid all your expenses... in other words, your savings!
 
-That's why it is critical to spend way less than you earn and to maximize your savings. You will never be able to own enough assets if you do not save enough money. While general personal finance websites would recommand that you save at least 10% of your earnings, we will see later that it is way too low.
+That's why it is critical to spend way less than you earn and to maximise your savings. You will never be able to own enough assets if you do not save enough money. While general personal finance websites would recommand that you save at least 10% of your earnings, we will see later that it is way too low.
 
 To be able to reach Financial Independence in a reasonable time, I'd advise to start saving at least **40% of your income, or even 50-60%**.
 
@@ -54,7 +54,7 @@ While this is certainly not easy, most people in the FI community manage to save
 1. **Be mindful about your expenses**, especially recurring expenses such as the Big 4: Housing, Health, Food and Transportation. These four items take usually the biggest part of your budget, so it is time to be smart about them, minimizing them, while not feeling like an hermit.
 2. **Increase your income**. While reducing expenses is certainly needed, there is one point after which we run into diminishing returns. That's when it is time to increase your income: change job, do a side hustle, create a small business, etc.
 
-Being more specific about saving money would fill many other posts. But the main lesson is this: *Save as much as you can, so you can start investing your hard-earned savings into productive assets.*
+Being more specific about saving money would fill many other posts. But the main lesson is this: **_Save as much as you can, so you can start investing your hard-earned savings into productive assets._**
 
 
 
@@ -82,7 +82,7 @@ Now that we are clear with the meaning of *investing*, you need to figure out in
 
 ### 3) Repeat until your assets are producing enough cash to cover your expenses
 
-How much is enough to cover your needs? There is a lot of debates on the exact amount, but the [Trinity Study](https://en.wikipedia.org/wiki/Trinity_study)  is a good starting point.
+How much is enough to cover your needs? There is a lot of debates on the exact amount, but the **[Trinity Study]**(https://en.wikipedia.org/wiki/Trinity_study)  is a good starting point.
 
 Published in 1998, the study defines a "safe withdrawal rate", equal to 4% of your assets. Imagine someone withdrawing only 4% of his funds every year, while keeping the rest invested.
 >According to the study, such a person would have a 97% chance of never running out of money.
@@ -173,7 +173,7 @@ and thus, our final result:
 
 ### Remarks:
 
-- It does not look like a lot but it is actually huge. Knowing only your investment yield and your saving rate (i.e how much of your revenue are you saving), you can figure out how long it takes to be financially independent. Nothing else matters except these two variables!
+- It does not look like a lot but it is actually huge. Knowing only your **investment yield** and your **saving rate** (i.e how much of your revenue are you saving), you can figure out how long it takes to be financially independent. **Nothing else matters except these two variables!**
 
 - Let's see how long it takes to reach FI with different values of investment yields and saving rates:
 
@@ -185,6 +185,6 @@ Someone saving half of his income and investing it at a 10% annual rate will be 
 
 That's enough theory for today, dear reader!
 
-Spend way less that you earn, invest the difference in productive assets, rinse and repeat.
+**Spend way less that you earn, invest the difference in productive assets, rinse and repeat.**
 
 But that's only the starting point. I discovered quickly that I would soon be asking more qualitative questions...
