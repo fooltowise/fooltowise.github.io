@@ -17,7 +17,7 @@
 <meta property="og:url" content="https://fooltowise.com/categories.html" />
 <meta property="og:site_name" content="From Fool to Wise" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"}},"url":"https://fooltowise.com/categories.html","headline":"Categories","description":"Adventures in Investing, Psychology, and Being Less of a Fool","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"https://fooltowise.com/categories.html","headline":"Categories","description":"Adventures in Investing, Psychology, and Being Less of a Fool","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"}},"@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -137,9 +137,9 @@ var documents = [{
     "body": "{% if page. url ==  /  %}                           Adventures in         Investing,         Psychology,         and Being less of a Fool                        Read All Stories                                {% endif %}       All Stories:         {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}             {% include sidebar-featured. html %}     "
     }, {
     "id": 8,
-    "url": "https://fooltowise.com/Links.html",
+    "url": "https://fooltowise.com/links.html",
     "title": "Links",
-    "body": "              Links    On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Don't hesitate to go and read them!           {% for linkcategory in site. data. linkcategories %}     {{ linkcategory. name }}:       {% for link in site. data. linkdata %}        {% if link. category == linkcategory. name %}                                                            {{ link. name }}               :                              {{ link. description }}                                                          {% endif%}      {% endfor%}            {% endfor %}     {% include newsletter. html %}                  {% include sidebar-featured. html %}          "
+    "body": "          Links    On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Don't hesitate to go and read them!           {% for linkcategory in site. data. linkcategories %}     {{ linkcategory. name }}:       {% for link in site. data. linkdata %}        {% if link. category == linkcategory. name %}                                                            {{ link. name }}               :                              {{ link. description }}                                                          {% endif%}      {% endfor%}            {% endfor %}     {% include newsletter. html %}                  {% include sidebar-featured. html %}          "
     }, {
     "id": 9,
     "url": "https://fooltowise.com/privacy-policy.html",

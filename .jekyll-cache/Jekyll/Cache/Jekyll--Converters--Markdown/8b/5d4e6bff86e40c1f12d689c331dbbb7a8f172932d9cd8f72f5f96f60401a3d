@@ -1,10 +1,4 @@
----
-title: "Links"
-layout: default
-permalink: "/links.html"
----
-
-<div class="container">
+I"î<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1>Links</h1>
@@ -38,9 +32,10 @@ permalink: "/links.html"
 
         </div>
         
-            <div class="col-md-4 " >
+            <div class="col-md-4 ">
         {% include sidebar-featured.html %}    
     </div>
         
     </div>
 </div>
+:ET
