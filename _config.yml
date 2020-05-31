@@ -1,6 +1,6 @@
 # Site
 name: 'From Fool to Wise'
-description: 'My journey towards worldly wisdom'
+description: 'Adventures in Investing, Psychology, and Being Less of a Fool'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/Favicon.png'
 url:    'https://fooltowise.com'
@@ -13,22 +13,21 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins:
+plugins: 
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-picture-tag
-
+  - jekyll-picture-tag 
+  
 authors:
     julien:
-      name:           Julien
-      site:
+      name:           Julien Husser
+      site:           
       avatar:         assets/images/avatar-jul.png
-      bio:            "Hi, I am Julien, the author of this blog, and this is my journey towards being less of a fool and being a bit wiser!"
-      email:          fromfooltowise@gmail.com
+      bio:            "Father, Husband, Investor, Software Developer, and Tea Enthusiast."
+      email:          thisisjulienh@gmail.com
       twitter:        https://twitter.com/SalutNounou
-
 
 # Defaults
 defaults:
@@ -40,24 +39,22 @@ defaults:
       layout: post
       author: julien
       avatar: /assets/images/avatar-min.png
-
+      
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-
+      
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
 paginate: 10
+  
 
-# Google Analytics
-google_analytics: UA-154596563-1
-
-picture:
+picture: 
     ignore_missing_images: true
 
 

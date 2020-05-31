@@ -1,0 +1,20 @@
+I"d<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Julien <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/SalutNounou">Follow</a></span></h2>
+                <p><a href=""></a></p>
+                <p class="excerpt">Father, Husband, Investor, Software Developer, and Tea Enthusiast.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="Julien Husser" src="/assets/images/avatar-jul.png" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Julien</span></h4>
+            
+            
+    </div>
+</div>
+</div>
+:ET

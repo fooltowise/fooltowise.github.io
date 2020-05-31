@@ -1,179 +1,41 @@
 ---
 title: "From Fool to Wise"
 layout: default
-pagination:
-    enabled: true
-description: "My quest towards remedial worldly wisdom."
+pagination: 
+  enabled: true
+description: "Adventures in Investing, Psychology, and Being Less of a Fool."
 ---
 
 
 <div class="container">
 
 {% if page.url == "/" %}
-
-
-
-<!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row remove-site-content-margin">
-
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
-    <div class="col-md-6">
-    <div class="card border-0 mb-4 box-shadow">
-    <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.imagesmall contains "://" %}{{ latest_post.imagesmall }}{% else %} {{site.baseurl}}/{{ latest_post.imagesmall}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat; background-position: center"></div>
-    </a>
-    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-    <h2 class="h4 font-weight-bold">
-    <a class="text-dark" href="{{site.baseurl}}{{latest_post.url}}">{{ latest_post.title }}</a>
-    </h2>
-    <p class="excerpt">
-        {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
-    </p>
-    <div>
-        <small class="d-block text-muted">
-            In <span class="catlist">
-                {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                {% endfor %}
-                </span>
-        </small>
-        <small class="text-muted">
-            {{ latest_post.date | date: '%b %d, %Y' }}
-        </small>
-    </div>
-    </div>
-    </div>
-    </div>
-
-    <div class="col-md-6">
-
-        <!-- second latest post -->
-
-        {%- assign second_post = site.posts[1] -%}
-        <div class="mb-3 d-flex align-items-center">
-                {% if second_post.imagesmall %}
-                <div class="col-md-4">
-                <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.imagesmall contains "://" %}{{ second_post.imagesmall }}{% else %}{{ second_post.imagesmall | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
-                </a>
-                </div>
-                {% endif %}
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-                    </small>
-                    <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
-                    </small>
-                </div>
-            </div>
-
-
-        <!-- third latest post -->
-
-        {%- assign third_post = site.posts[2] -%}
-        <div class="mb-3 d-flex align-items-center">
-                {% if third_post.imagesmall %}
-                <div class="col-md-4">
-                <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.imagesmall contains "://" %}{{ third_post.imagesmall }}{% else %}{{site.baseurl}}/{{ third_post.imagesmall }}{% endif %}" alt="{{ third_post.title }}">
-                </a>
-                </div>
-                {% endif %}
-                <div>
-                    <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
-                    </h2>
-                    <small class="d-block text-muted">
-                        In <span class="catlist">
-                        {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-                    </small>
-                    <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
-                    </small>
-                </div>
-            </div>
-
-        <!-- fourth latest post -->
-
-        {%- assign fourth_post = site.posts[3] -%}
-            <div class="mb-3 d-flex align-items-center">
-                    {% if fourth_post.imagesmall %}
-                    <div class="col-md-4">
-                    <a href="{{site.baseurl}}{{fourth_post.url}}">
-                    <img class="w-100" src="{% if fourth_post.imagesmall contains "://" %}{{ fourth_post.imagesmall }}{% else %}{{site.baseurl}}/{{ fourth_post.imagesmall }}{% endif %}" alt="{{ fourth_post.title }}">
-                    </a>
-                    </div>
-                    {% endif %}
-                    <div>
-                        <h2 class="mb-2 h6 font-weight-bold">
-                        <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
-                        </h2>
-                        <small class="d-block text-muted">
-                            In <span class="catlist">
-                            {% for category in fourth_post.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                            {% endfor %}
-                            </span>
-                        </small>
-                        <small class="text-muted">
-                            {{ fourth_post.date | date: '%b %d, %Y' }}
-                        </small>
-                    </div>
-                </div>
-
-        </div>
-
-    </div>
-
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %}
-{% if post.tags contains "sticky" %}
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+<div class="jumbotron jumbotron-fluid jumbotron-home  pt-0 pb-0 mt-3 mb-2rem  bg-primary position-relative image-no-padding-right" >
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
-                <h1 class="mb-3">{{post.title}}</h1>
-                <p class="mb-3 lead">
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
-                </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">              
+                <h1  class="board-text">Adventures in </h1>
+                <h1  class="board-text">Investing, </h1>
+                <h1  class="board-text">Psychology, </h1>
+                <h1 class="mb-5 board-text" >and Being less of a Fool</h1>            
+                <div class="row justify-content-center">
+                    <a href="{{site.baseurl}}/categories.html" class="btn btn-dark" >Read All Stories</a>
+                </div>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.imagesmall }}); background-position:right top">
+            <div class="col-md-6  pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/assets/images/Parrot.jpg); background-position:right top">
             </div>
         </div>
     </div>
 </div>
-{% endif %}
-{% endfor %}
-
-
 
 
 
 {% endif %} <!--endif page url is / -->
-
-
-
-<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skip the first 4 posts displayed above -->
-
 <div class="row mt-3">
 
     <div class="col-md-8 main-loop">
 
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
-
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>        
 
         {% for post in paginator.posts %}
 
@@ -210,13 +72,21 @@ description: "My quest towards remedial worldly wisdom."
             {% endif %}
         </div>
 
-    </div>
 
+    </div>
+  
     <div class="col-md-4">
         {% include sidebar-featured.html %}
+     
     </div>
 
 </div>
+
+
+
+
+
+
 
 
 

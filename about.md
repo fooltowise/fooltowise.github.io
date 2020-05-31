@@ -3,52 +3,22 @@ title: "About me"
 layout: post
 author: julien
 permalink: "/about.html"
-image: "assets/images/about.jpg"
 description: "Let's know each other"
+noavatar: "true"
 ---
-Hello dear reader! Welcome to **_From Fool to Wise_**, a blog about my quest towards **acquiring wisdom, making better decisions and living a good life**.
-I'm Julien, a french software engineer living in Zürich, Switzerland since 2016.
+## Welcome dear reader!
+My name is Julien Husser. I do many things, including developing software, investing, writing and drinking way too much tea. 
+I am 34 and currently live in Zürich, Switzerland, with my wife and my son.
 
-On this blog I plan to talk about many topics:
-- **Rationality**
-- **Avoiding Stupidity**
-- **Financial Independence**
-- **Making good decisions**
-- **Mental Models**
-- **Happiness and family**
+This website is a collection of my favorite topics:
 
+- **Investing** - How and where to allocate capital.
+- **Psychology** - Why do we do the things we do, even if they don't make sense.  
+- **Rationality** - I try to be a little bit less stupid everyday. It works better than trying to be brilliant.
 
-## Where it all started
+I created *From Fool To Wise* as an excuse to practice my writing skills, and to clarify my mind.
+I believe that writing is the ultimate tool to make sure i understand a topic. When I think about something, it is easy to get carried away and to forget a link between two arguments. This cannot happen when I write. Laying my ideas on paper allows me to see where the cracks in my reasoning are.
 
-Soon after I arrived in Switzerland, I became quickly interested in the topic of financial independence.
-In short, this is about _having enough passive income to cover your basic needs and not needing to work for money_. I dug deep in the subject, but quickly I realized that the more I went through it, the more new questions were arising:
+In addition to my [essays]({{site.baseurl}}/categories.html), I also maintain a list of all the interesting [links]({{site.baseurl}}/links.html) and concepts that have been consequential to shape my thinking.
 
-- If I don't work, what will I do with my life?
-- Why do I want freedom? Am I sure that financial independence will be translated in freedom _to_, rather than freedom _from_?
-- Financial independence is about making sound financial decisions. It is avoidance of stupidity applied to the financial world. How can I translate it to other areas of my life?
-- Why is it that seemingly smart people are often unhappy?
-- Why is it that those same smart people make often dumb decisions?
-
-I quickly realized that what I initially thought was only about maths and money would very quickly drift towards more philosophical questions!
-
-I needed someone who could help me to think about these themes. But fortunately, **I was far to be the first person asking these questions**.
-From ancient stoic philosophers to contempory rolemodels like Charlie Munger and Naval Ravikant, I discovered new frameworks to help me think in my everyday life about these difficult questions.
-
-This website is a documentation of my discovery of these frameworks, and how I apply them in my life to stay away from stupid mistakes and try to lean towards a wiser life.
-
-## What should you expect from this blog?
-
-Good question, dear reader. My purpose in writing this site is to expose my thought process, so I can discuss it with you afterward.
-
-My blog will thus allow me to:
-
-- **Learn about many topics**, mainly about how to live a good live and make better decisions
-- **Meet people with a similar mindset.** Looking forward discussing with you guys!
-- **Discover people who are much farther down the road** through their personal journey towards worldly wisdom.
-- **Highlight my stupid mistakes when they occur**, so that other people can learn from them.
-- **Sharpen my mind.** Explaining a topic to someone else is learning it a second time.
-
----
-
-
-That's all for today! Let's hope there will be many more posts to come!
+Finally, through this website I hope to reach like-minded people so we can generate even more ideas. I am looking forward to discussing with you!

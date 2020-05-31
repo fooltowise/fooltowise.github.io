@@ -1,0 +1,48 @@
+---
+title: "Links"
+layout: default
+permalink: "/Links.html"
+---
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+        <!-- <h1 class="font-weight-bold title h4 mt-6 mb-4 text-uppercase">Links</h1> -->
+
+        <h1>Links</h1>
+
+        <p class="mt-4 mb-4">On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Don't hesitate to go and read them!</p>
+            
+        {% for linkcategory in site.data.linkcategories %} 
+        <h3 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ linkcategory.name }}</span></h3>
+
+            {% for link in site.data.linkdata %}
+                {% if link.category == linkcategory.name %}                    
+                    <div class="mb-3 d-flex justify-content-between main-loop-card">
+                        <div class="pr-3">
+                            <h4 class="mb-1 h4 font-weight-bold">
+                            <a class="font-weight-bold title h6 text-uppercase" href="{{link.link}}" target="_blank">{{ link.name }} </a>
+                            </h4>
+                            <p class="excerpt">
+                               {{ link.description  }}
+                            </p>                           
+                        </div>
+                    </div>
+                {% endif%}
+            {% endfor%}
+           
+     
+
+        {% endfor %} 
+
+
+         {% include newsletter.html %}
+
+        </div>
+        
+            <div class="col-md-4 " >
+        {% include sidebar-featured.html %}    
+    </div>
+        
+    </div>
+</div>
