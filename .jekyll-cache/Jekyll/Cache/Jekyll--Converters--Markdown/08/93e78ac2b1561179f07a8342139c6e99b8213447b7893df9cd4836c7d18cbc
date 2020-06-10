@@ -1,0 +1,288 @@
+I"@?<h2 id="how-beliefs-are-created-and-their-consequences">How beliefs are created, and their consequences.</h2>
+
+<p>Our beliefs are the core of our identity. They shape how we see the world and how we act. They help us make decisions. Our beliefs have consequences on what kind of people we frequent, how we spend our time, and why we do what we do. But how do we form them? What’s the process? Does it affect other parts in our lives? It turns out that’s the case, and what started 400 years ago as a philosophical battle has many implications in our daily lives.</p>
+
+<p>If you live in the western world, what follows might be an accurate description of how you think beliefs are created. First, we are presented with an idea and we <strong>comprehend</strong> it (“<em>Rhinoceroses have six legs</em>”). Then we <strong>assess</strong> it against what we know (“<em>Could it be that rhinoceroses have six legs?</em>”). Then we <strong>decide</strong> to believe it or not (“<em>No, I don’t believe that rhinoceroses have six legs</em>”). If this process seems obvious, it is due to one man who influenced a huge part of western philosophy : René Descartes.</p>
+
+<p>Descartes was the first to initiate the separation between <em>comprehension</em> and <em>assessment</em> of ideas when he partitioned  the mind into two distinct domains. The first domain is the <em>intellect</em>, in charge of the comprehension. The intellect is passive and its job is to receive ideas, in an effortless and automatic way. The second domain is the <em>will</em>, which is the active part of the mind. The will is the sole decision-maker about the veracity of a statement. The intellect present ideas, and the will decide of their truthfulness. This whole concept was one of the axioms upon which Descartes built his philosophy. In <em>Principles of philosophy</em> he wrote:</p>
+
+<blockquote>
+  <p>That we have power to give or withhold our assent at will, is so evident that it must be counted among the first and most common notions that are innate in us.</p>
+</blockquote>
+
+<p>Descartes’ description of beliefs formation became the gold standard of rationality in occident. In the french language, rational people are even said to have an <em>esprit cartésien</em>.</p>
+
+<p>Back to belief formation.  If we had to draw a workflow for Descartes’ framework, it would look like this:</p>
+
+<p><strong>Comprehension =&gt; Assessment =&gt; Acceptance OR Rejection</strong></p>
+
+<p>That is all well and good. Except that around the same time, another great philosopher, Baruch Spinoza, was suggesting a different process of belief formation. For Spinoza, in order to comprehend an idea, we need to implicitely accept it first . Therefore <strong>comprehending</strong> and <strong>accepting</strong> an assertion are the <strong>same</strong> operation. When meeting the idea “<em>this elephant is pink</em>”, the act of creating in our head the image of a pink elephant is the same as believing it. It is only after we have understood (and by the same token, accepted) the idea, that we may assess its veracity, and <strong>unaccept</strong> it if needed. <em>No, after further assessment, this elephant is desparately gray, like any other elephant.</em></p>
+
+<p>A schema of Spinoza’s thesis would look like this:</p>
+
+<p><strong>Comprehension AND Acceptance =&gt; Certification OR Unacceptance</strong></p>
+
+<p>While reserving judgement about an idea is perfectly possible in Descartes’ theory, Spinoza argued that it cannot be: the idea has to be believed first, and then judged.</p>
+
+<p>For the following centuries, most people went along Descartes, as his theory seemed more intuitive and elegant.</p>
+
+<h2 id="scarcity-of-resources">Scarcity of resources</h2>
+
+<p>But why does it matter? At the end of the day, the most important thing is that we are able to judge and assess correctly ideas and beliefs. One might argue that the intermediate steps leading to the result should not make any difference…</p>
+
+<p><em>That would be the case if our brain had infinite resources.</em></p>
+
+<p>However, by now research has shown that it is far from being the case. Countless examples demonstrate how a cognitive load on one task can prevent the brain to perform other tasks. As a result, it is perfectly possible that the process of belief formation can be interrupted if our brain is busy doing something else. Following two conversations at the same time for instance, or being distracted by an attractive member of the opposite sex.</p>
+
+<p>When the belief formation process is unterrupted, the belief stays “as-is” in our psyche. It will likely not be examined again:  we believe we already did the work of assessing this belief.</p>
+
+<p>Scarcity of mental resources has different consequences depending on whether Descartes or Spinoza is right.</p>
+
+<p>If Descartes’ thesis is correct, then cognitive load would probably interrupt a belief during the assessment phase. As a result, a wrong assessment could lead to any outcome:</p>
+
+<ul>
+  <li>believing a false statement</li>
+  <li>rejecting a true statement</li>
+</ul>
+
+<p>On the other hand, if Spinoza is right, then the interruption of the process is done while performing the second phase : updating our belief. We are already at a step where the idea is accepted. Therefore a faulty process would keep true statements accepted, <em>and keep false statements accepted as well.</em></p>
+
+<p>In other words, according to Spinoza, <strong>being cognitively busy increases the chances of believing everything you’re told.</strong></p>
+
+<h2 id="the-experiment">The experiment</h2>
+
+<p>Enter the psychologist Daniel Gilbert. After analyzing previous unrelated experiments, Gilbert noticed that his subjects tended to display excessive credulity while being distracted. Being aware of the dichotomy between Descartes and Spinoza, he set out to figure out how beliefs are created in our psyche.</p>
+
+<p>In the white paper <a href="http://www.danielgilbert.com/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf">You can’t not believe everything you read</a>, Gilbert, Tafarodi and Malone reveal the clever psychological experiment they designed.</p>
+
+<ul>
+  <li>In the experiment, subjects had to read a pair of crime reports on a screen.</li>
+  <li>The color of the text on the screen indicated if a particular statement in the reports is true or false.</li>
+  <li>The first report contained false statements exacerbating the gravity of the crime.</li>
+  <li>The second report contained false statements decreasing the severity of the crime.</li>
+  <li>Subjects were divided in two groups: the control group and the experimental group.</li>
+  <li>Members of the control group had only to read the statements of the two crime reports.</li>
+  <li>Members of the experimental group had to read all statements of the reports, but also had to perform a digit-search task while reading the report.</li>
+</ul>
+
+<p>At the end of the experiment, every subject had to perform the following tasks:</p>
+
+<ul>
+  <li>recommend the length of prison term for each criminal.</li>
+  <li>rate criminals, from 1 to 10, on their dangerousness and dislikeableness.</li>
+  <li>perform a memory test to attest if some statements contained in the report were true or false.</li>
+</ul>
+
+<p>The digit-search task sole purpose was to stress the experimental group under cognitive load. The experiment would test not only if people were more likely to misjudge false statements than true ones (assessed by final the memory test), but also if they would <strong>act</strong> on these beliefs.</p>
+
+<p>The results are remarkable.</p>
+
+<p><strong>Control Group:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Extenuating false statements</th>
+      <th>Exacerbating false statements</th>
+      <th>Difference</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Recommended years in prison</strong></td>
+      <td>6.03</td>
+      <td>7.03</td>
+      <td>-1.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Dislikeableness</strong></td>
+      <td>5.83</td>
+      <td>6.62</td>
+      <td>-0.79</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Dangerousness</strong></td>
+      <td>5.63</td>
+      <td>6.41</td>
+      <td>-1.05</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Experimental Group</strong>:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Extenuating false statements</th>
+      <th>Exacerbating false statements</th>
+      <th>Difference</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Recommended years in prison</strong></td>
+      <td>5.83</td>
+      <td>11.15</td>
+      <td>-5.32</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Dislikeableness</strong></td>
+      <td>5.18</td>
+      <td>7</td>
+      <td>-1.82</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Dangerousness</strong></td>
+      <td>4.82</td>
+      <td>7.06</td>
+      <td>-2.24</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Memory Test - Proportion of statements recognized:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Control Group</th>
+      <th>Experimental Group</th>
+      <th>Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>True Statements:</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Recalled as true</td>
+      <td>0.93</td>
+      <td>0.89</td>
+      <td>0.04</td>
+    </tr>
+    <tr>
+      <td>Recalled as false</td>
+      <td>0.03</td>
+      <td>0.06</td>
+      <td>-0.03</td>
+    </tr>
+    <tr>
+      <td>Recalled as foils (*)</td>
+      <td>0.03</td>
+      <td>0.04</td>
+      <td>-0.01</td>
+    </tr>
+    <tr>
+      <td><strong>False Statements:</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Recalled as true</td>
+      <td>0.23</td>
+      <td>0.44</td>
+      <td>-0.21</td>
+    </tr>
+    <tr>
+      <td>Recalled as false</td>
+      <td>0.69</td>
+      <td>0.34</td>
+      <td>0.35</td>
+    </tr>
+    <tr>
+      <td>Recalled as foils</td>
+      <td>0.09</td>
+      <td>0.23</td>
+      <td>-0.14</td>
+    </tr>
+    <tr>
+      <td><strong>Foils Statements:</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Recalled as true</td>
+      <td>0.05</td>
+      <td>0.09</td>
+      <td>-0.04</td>
+    </tr>
+    <tr>
+      <td>Recalled as false</td>
+      <td>0.01</td>
+      <td>0.05</td>
+      <td>-0.04</td>
+    </tr>
+    <tr>
+      <td>Recalled as foils</td>
+      <td>0.94</td>
+      <td>0.86</td>
+      <td>0.08</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>(*) foils statements are statements that never appeared in the crime reports</p>
+
+<p><a href="http://www.danielgilbert.com/Gilbert%20et%20al%20(EVERYTHING%20YOU%20READ).pdf">Source</a></p>
+
+<p>While it looks like true statements were in general not impacted, the experimental group made many mistakes by considering false statements as true. Not only this, but it influenced their behavior as well.  At the extreme, subjects in the experimental group were willing to recommend a prison term almost twice longer than the control group (11 years vs 7 years) when the false statements were exacerbating the crime’s gravity.</p>
+
+<p>The work of Gilbert, Tafarodi and Malone vindicated Spinoza’s theory 400 years after it was enounced. <strong>First we believe in an idea, and then, maybe, we reconsider, confirm, or un-accept it.</strong></p>
+
+<h2 id="evolution-of-belief-formation">Evolution of belief formation</h2>
+
+<p>But why is it so? Why would a belief-forming mechanism be built this way? The software developer in me would prefer a system obeying Descartes’ description. At least, with Descartes, every single part of the system has a single responsibility.</p>
+
+<p>Descartes’ vision would make sense <em>if we had to build such a system from scratch</em>. However, from an biological point of view this system has surely evolved over time. At the beginnings of our species, our ancestors did not need a belief mechanism as complex as what we currently have.</p>
+
+<p>For most of our history, the signals our brain received did not need to be checked. We are mainly visual creatures, and the images coming through our eyes are very difficult to fake. Having a doubting mechanism at these times was even a competitive disadvantage. Imagine two persons, Bill and Bob, in the african savannah 100’000 years ago. Bill trusts everything coming to his brain, while Bob checks his beliefs. Now imagine that both see a lion coming towards them. Bill will immediately run away. On the other hand Bob will take some time to confirm that the lion is coming. From this point of view, it is not hard to see that given enough generations, Bill’s offsprings will outnumber Bob’s ones. Bob’s lineage will quickly exit the gene pool.</p>
+
+<p>However, around 70’000 years ago, <em>Homo Sapiens</em> underwent what Yuval Harari calls <em>the cognitive revolution</em>. Humans started to use more elaborated languages, and their brains were suddenly able to understand abstract concepts and discuss them. While the day-to-day physical world is hard to fake, the world of ideas is a completely different animal.  In this new environment, we can see how someone who trusts everything he’s told would run into many dangers. In order to survive, <em>Homo Sapiens</em> had to evolve a doubting mechanism over its existing trusting one. The resulting belief-formation system would resemble closely what Spinoza described in his <em>Ethics</em>.</p>
+
+<h2 id="consequences">Consequences</h2>
+
+<p>The practical lessons we can draw from there are numerous. Independently of how our brain is wired, it should first strike you that doing any kind of knowledge task while already being under cognitive load is an appalling idea. Avoid being in these situations and you will make yourself a great service.</p>
+
+<ul>
+  <li>Avoid multi-tasking. This is the plague of knowledge workers.</li>
+  <li>Avoid states of physical or emotional stress, and chronic fatigue.</li>
+  <li>Whenever you take a decision, avoid rushing or being in a sense of urgency.</li>
+  <li>Be wary of information overload: being unable to discern what is relevant from what is not is a guarantee to make you take poor decisions.</li>
+</ul>
+
+<p>Following the guidelines above will limit the frequency when your mind will trick you, but it will not eliminate it. Knowing that in such a case you are bound to believe everything you’re told, be very wary of the following situations:</p>
+
+<ul>
+  <li>Fact-check news. In fact, avoid news totally if you can. News’ business model is to substitute sensational and drama for relevance. But don’t take my word for it. Rolf Dobelli wrote a wonderful <a href="https://www.gwern.net/docs/culture/2010-dobelli.pdf">essay</a> on the topic.</li>
+  <li>If you still want to follow news, don’t do it while driving and listening to the radio, or reading the headlines of the newspaper while doing groceries or taking the train.</li>
+  <li>The success of tabloids and scandal magazines now makes a lot of sense: we rarely read them while being focused, and we are bound to believe all the emotional rollercoaster contained there. In a few weeks the tabloid will publish a public retractation, but the evil is already done. People already believe the emotion-laden stories and will not reassess them.</li>
+  <li>In the same vein, we can now understand why smear campaigns and defamation are so effective: by the time the court has condemn the defamatory side, public opinion is still influenced by the false statements it received. People will  still believe the lies long after the truth is revealed.</li>
+</ul>
+
+<p>Our brain has a limited horsepower. Knowing about its limitations is a needed first step. But knowing when we are likely to be deceived and not going there is the beginning of avoiding stupidity.</p>
+
+:ET
