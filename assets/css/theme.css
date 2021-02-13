@@ -206,8 +206,8 @@ a.text-dark:hover {
 }
 
 .text-dark{
-	  font-family:'Cormorant Garamond', serif;
-	    font-weight: 400;
+	  font-family:'Montserrat', serif;
+	    font-weight: 300;
 }
 
 h1,
@@ -215,8 +215,8 @@ h2,
 h3,
 h4
 {
-	 font-family:'Cormorant Garamond', serif;
-	    font-weight: 500;
+	 font-family:'Montserrat', serif;
+	    font-weight: 300;
 }
 
 
@@ -728,6 +728,7 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 	margin-bottom:2rem;
 	margin-top:2rem;
 	font-weight:400;
+
 }
 
 article strong {

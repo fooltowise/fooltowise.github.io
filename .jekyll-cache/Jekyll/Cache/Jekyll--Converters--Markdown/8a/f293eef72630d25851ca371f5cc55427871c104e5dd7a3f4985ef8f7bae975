@@ -1,4 +1,4 @@
-I"Ï<div class="container">
+I"<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -16,7 +16,28 @@
             
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
+	<h2 class="mb-1 h4">
+	<a class="text-dark" href="/You-are-more-naive-than-you-think/">You are more naive than you think</a>
+	</h2>
+	<p class="excerpt">
+	   How beliefs are created, and their consequences.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jun 10, 2020
+	</small>
+</div>
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4">
 	<a class="text-dark" href="/The-Case-For-Buying-Good-Businesses/">The case for buying good businesses</a>
 	</h2>
 	<p class="excerpt">

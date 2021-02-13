@@ -1,4 +1,4 @@
-I"¿<div class="container">
+I"®<div class="container">
 
 {% if page.url == "/" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home  pt-0 pb-0 mt-3 mb-2rem  bg-primary position-relative image-no-padding-right">
@@ -26,7 +26,7 @@
 
     <div class="col-md-8 main-loop">
 
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>        
+        <h4 class="spanborder"><span>All Stories</span></h4>        
 
         {% for post in paginator.posts %}
 

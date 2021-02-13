@@ -1,5 +1,4 @@
-I"ü
-<div class="container">
+I"·<div class="container">
 
 
 <div class="jumbotron jumbotron-fluid jumbotron-home  pt-0 pb-0 mt-3 mb-2rem  bg-primary position-relative image-no-padding-right">
@@ -27,13 +26,36 @@
 
     <div class="col-md-8 main-loop">
 
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>        
+        <h4 class="spanborder"><span>All Stories</span></h4>        
 
         
 
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
+	<h2 class="mb-1 h4">
+	<a class="text-dark" href="/You-are-more-naive-than-you-think/">You are more naive than you think</a>
+	</h2>
+	<p class="excerpt">
+	   How beliefs are created, and their consequences.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jun 10, 2020
+	</small>
+</div>
+</div>
+
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4">
 	<a class="text-dark" href="/The-Case-For-Buying-Good-Businesses/">The case for buying good businesses</a>
 	</h2>
 	<p class="excerpt">
@@ -64,8 +86,23 @@
   
     <div class="col-md-4">
         <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <h4 class="spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/You-are-more-naive-than-you-think/" class="text-dark">You are more naive than you think</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/categories.html#psychology">Psychology</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
                         
             <li class="mb-4">
             <span>

@@ -1,4 +1,4 @@
-I"è<div class="container">
+I"µ<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Tags</h1>
@@ -13,7 +13,7 @@
          
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
+	<h2 class="mb-1 h4">
 	<a class="text-dark" href="/You-are-more-naive-than-you-think/">You are more naive than you think</a>
 	</h2>
 	<p class="excerpt">
@@ -39,7 +39,7 @@
          
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
-	<h2 class="mb-1 h4 font-weight-bold">
+	<h2 class="mb-1 h4">
 	<a class="text-dark" href="/The-Case-For-Buying-Good-Businesses/">The case for buying good businesses</a>
 	</h2>
 	<p class="excerpt">
@@ -69,7 +69,7 @@
         
             <div class="col-md-4">
         <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <h4 class="spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
                         
             <li class="mb-4">
