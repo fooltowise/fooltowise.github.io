@@ -5,7 +5,7 @@ categories: [ Investing ]
 tags: [ featured]
 ---
 
-## Good things happen when you buy quality.
+## Good things happen when you buy quality
 
 Why do investors focusing on superior businesses often get attractive results? Why should quality not be offset by an expensive price? Over the last two decades, the returns achieved by private investors and fund managers buying only good businesses have been impressive enough not to be due to mere luck.
 

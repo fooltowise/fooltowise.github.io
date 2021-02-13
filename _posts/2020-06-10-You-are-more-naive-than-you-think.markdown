@@ -5,7 +5,7 @@ categories: [ Psychology ]
 tags: [ featured]
 ---
 
-##  How beliefs are created, and their consequences. 
+##  How beliefs are created, and their consequences 
 
 
 
