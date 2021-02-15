@@ -689,9 +689,9 @@ article {
 		text-align: justify;
 }
 .article-headline {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Montserrat', serif;
     font-size: 3.3rem;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.15;
     color: #222222;
 }
