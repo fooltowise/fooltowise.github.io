@@ -64,7 +64,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
- font-family: 'Lora', serif;
+ font-family: 'Baskervville', serif;
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.6;
@@ -148,8 +148,7 @@ sub {
 sup {
   top: -.5em; }
 
-a 
-{
+a {
   color: #03a87c;
   text-decoration: none;
   background-color: transparent;
@@ -7155,7 +7154,7 @@ button.bg-lightblue:focus {
   font-weight: 400 !important; }
 
 .font-weight-bold {
-  font-weight: 600 !important; }
+  font-weight: 500 !important; }
 
 .font-italic {
   font-style: italic !important; }

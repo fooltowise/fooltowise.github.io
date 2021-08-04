@@ -7,9 +7,9 @@
     <meta http-equiv="Cache-control" content="public, max-age=600, immutable">
     <title>About me | From Fool to Wise</title>
 
-    <!-- Begin Jekyll SEO tag v2.6.1 -->
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>About me | From Fool to Wise</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v3.9.1" />
 <meta property="og:title" content="About me" />
 <meta name="author" content="julien" />
 <meta property="og:locale" content="en_US" />
@@ -18,8 +18,10 @@
 <link rel="canonical" href="https://fooltowise.com/about.html" />
 <meta property="og:url" content="https://fooltowise.com/about.html" />
 <meta property="og:site_name" content="From Fool to Wise" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="About me" />
 <script type="application/ld+json">
-{"url":"https://fooltowise.com/about.html","author":{"@type":"Person","name":"julien"},"headline":"About me","description":"Let’s know each other","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"},"name":"julien"},"@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"https://fooltowise.com/about.html","headline":"About me","@type":"WebPage","author":{"@type":"Person","name":"julien"},"description":"Let’s know each other","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://fooltowise.com/assets/images/logo.png"},"name":"julien"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -34,8 +36,10 @@
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="/assets/css/main.css">
 
-    <!-- Theme Stylesheet -->
-    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Montserrat:200,300,400,500,600|Open+Sans&display=swap" rel="stylesheet">
+    <!-- Theme Stylesheet -->   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/theme.css">
 
 
@@ -77,12 +81,14 @@
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
+
+       
+            <ul class="ml-4 navbar-nav mr-auto d-flex align-items-center ">
                <li class="nav-item">
 <a class="nav-link" href="/about.html">About</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/categories.html">All Posts</a>
+<a class="nav-link" href="/categories.html">Archive</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/links.html">Links</a>
@@ -92,9 +98,10 @@
 </li>
 
 
+               
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
-                <script src="/assets/js/lunr.js"></script>
+               <script src="/assets/js/lunr.js"></script>
 
 <script>
 $(function() {
@@ -114,7 +121,7 @@ var documents = [{
     "id": 1,
     "url": "https://fooltowise.com/about.html",
     "title": "About me",
-    "body": "Welcome dear reader!: My name is Julien Husser. I do many things, including developing software, investing, writing and drinking way too much tea. I am 34 and currently live in Zürich, Switzerland, with my wife and my son. This website is a collection of my favorite topics:  Investing - How and where to allocate capital.  Psychology - Why do we do the things we do, even if they don’t make sense.  Rationality - I try to be a little bit less stupid everyday. It works better than trying to be brilliant. I created From Fool To Wise as an excuse to practice my writing skills, and to clarify my mind. I believe that writing is the ultimate tool to make sure i understand a topic. When I think about something, it is easy to get carried away and to forget a link between two arguments. This cannot happen when I write. Laying my ideas on paper allows me to see where the cracks in my reasoning are. In addition to my essays, I also maintain a list of all the interesting links and concepts that have been consequential to shape my thinking. Finally, through this website I hope to reach like-minded people so we can generate even more ideas. I am looking forward to discussing with you! "
+    "body": " Welcome dear reader!: My name is Julien Husser. I do many things, including developing software, investing, writing and drinking way too much tea. I am 35 and currently live in Zürich, Switzerland, with my wife and my son. This website is a collection of my favorite topics:  Investing - How and where to allocate capital.  Psychology - Why do we do the things we do, even if they don’t make sense.  Rationality - I try to be a little bit less stupid everyday. It works better than trying to be brilliant. I created From Fool To Wise as an excuse to practice my writing skills, and to clarify my mind. I believe that writing is the ultimate tool to make sure i understand a topic. When I think about something, it is easy to get carried away and to forget a link between two arguments. This cannot happen when I write. Laying my ideas on paper allows me to see where the cracks in my reasoning are. In addition to my essays, I also maintain a list of all the interesting links and concepts that have been consequential to shape my thinking. Finally, through this website I hope to reach like-minded people so we can generate even more ideas. I am looking forward to discussing with you! "
     }, {
     "id": 2,
     "url": "https://fooltowise.com/author-julien.html",
@@ -129,7 +136,7 @@ var documents = [{
     "id": 4,
     "url": "https://fooltowise.com/categories.html",
     "title": "Categories",
-    "body": "          Categories          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}      {% include newsletter. html %}                      {% include sidebar-featured. html %}            "
+    "body": "          Archives          {% for category in site. categories %}     {{ category[0] }}:           {% assign pages_list = category[1] %}    {% for post in pages_list %}    {% if post. title != null %}     {% if group == null or group == post. group %}           {% include main-loop-card. html %}     {% endif %}    {% endif %}    {% endfor %}    {% assign pages_list = nil %}    {% assign group = nil %}    {% endfor %}      {% include newsletter. html %}                             "
     }, {
     "id": 5,
     "url": "https://fooltowise.com/contact.html",
@@ -139,12 +146,12 @@ var documents = [{
     "id": 6,
     "url": "https://fooltowise.com/",
     "title": "From Fool to Wise",
-    "body": "{% if page. url ==  /  %}                           Adventures in         Investing,         Psychology,         and Being less of a Fool                        Read All Stories                                {% endif %}       All Stories:         {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}             {% include sidebar-featured. html %}     "
+    "body": "{% if page. url ==  /  %}                           Adventures in         Investing,         Psychology,         and Being less of a Fool                        Read All Stories                                {% endif %}   {% if page. url ==  /  %}    Recent Stories:   {% else %} Recent Stories: {% endif %}    {% for post in paginator. posts %}      {% include main-loop-card. html %}    {% endfor %}               {% if paginator. total_pages &gt; 1 %}             {% if paginator. previous_page %}        &laquo; Prev       {% else %}        &laquo;       {% endif %}       {% for page in (1. . paginator. total_pages) %}        {% if page == paginator. page %}        {{ page }}        {% elsif page == 1 %}        {{ page }}        {% else %}        {{ page }}        {% endif %}       {% endfor %}       {% if paginator. next_page %}        Next &raquo;       {% else %}        &raquo;       {% endif %}            {% endif %}          "
     }, {
     "id": 7,
     "url": "https://fooltowise.com/links.html",
     "title": "Links",
-    "body": "             On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Don't hesitate to go and read them!           {% for linkcategory in site. data. linkcategories %}     {{ linkcategory. name }}:       {% for link in site. data. linkdata %}        {% if link. category == linkcategory. name %}                                                            {{ link. name }}               :                              {{ link. description }}                                                          {% endif%}      {% endfor%}            {% endfor %}     {% include newsletter. html %}                  {% include sidebar-featured. html %}          "
+    "body": "          {{page. title}}     On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Feel free to go and read them!           {% for linkcategory in site. data. linkcategories %}     {{ linkcategory. name }}:       {% for link in site. data. linkdata %}        {% if link. category == linkcategory. name %}                                                             {{ link. name }}               :                              {{ link. description }}                                                          {% endif%}      {% endfor%}            {% endfor %}     {% include newsletter. html %}                        "
     }, {
     "id": 8,
     "url": "https://fooltowise.com/privacy-policy.html",
@@ -169,7 +176,7 @@ var documents = [{
     "id": 12,
     "url": "https://fooltowise.com/The-Case-For-Buying-Good-Businesses/",
     "title": "The case for buying good businesses",
-    "body": "2020/05/31 - Good things happen when you buy quality: Why do investors focusing on superior businesses often get attractive results? Why should quality not be offset by an expensive price? Over the last two decades, the returns achieved by private investors and fund managers buying only good businesses have been impressive enough not to be due to mere luck. Take Fundsmith for instance. Beating the global market by a wide margin is one thing. Doing it while being long-only, using no leverage nor any derivatives, and buying companies whose average market capitalization is bigger than $70 billion is yet another dimension of outperformance. If you are not familiar with the Fundsmith Equity Fund, this UK-based mutual fund is managed by Terry Smith. Created in 2010, the fund is known to only invest in outstanding businesses. It has since been returning an average compounded return of 17. 6% per year. Taking into account the weakening of the pound sterling, an US investor would still have enjoyed close to 15% per year over the last decade had he invested in the fund. Some may say that Smith got lucky by creating his fund at the beginning of the longest bull market in history. Making money in a post-2010 world would then be the mere luck of finding oneself at the right place at the right moment. But due diligence reveals that before Fundsmith, Terry Smith was already an outstanding investor. From 2003 to 2010 when he was at the head of the Tullett Liberty Pension Fund, he averaged 14% per year in spite of the great financial crisis. Now being that lucky would be remarkable. I don’t want this post to be an advertizement for Fundsmith: there are other funds and holding companies using similar principles; they all returned impressive results as well. Lindsell Train. Baillie Gifford. And if we dare going outside of the asset management industry, we’ll find of course Berkshire Hathaway, the poster-child of quality business conglomerate. No, what i want to know is what could explain such a level of outperformance. Looking at the fund’s marketing, management explains that they Buy good businesses, don’t overpay, and do nothing. It sure makes a catchy slogan. Thirty years ago, Buffett himself was writing about the same concept in his 1989 letter to shareholders:  It is far better to buy a wonderful business at a fair price than a fair business at a wonderful price. But why should it be a winning formula? What is the secret sauce? After some time pondering the problem, i may have discovered the lynchpin. It resides in one single phenomena: long-term compound interest and the human absolute inability to have a grasp at what it means. Look for compounding machines: So there it is. Compound interest. We want to own businesses that will behave like compounding machines. How do you do that? You buy extremely good quality. What kind of business is extremely good? Let’s have a look at the common characteristics in Fundsmith’s holdings. The aboslute most important feature is that all these businesses are as profitable as can be. They all benefit from a generous return on invested capital which is often greater than 25%. Every dollar invested in such a business will generate at least 25 cent year after year after year. And those are not virtual accounting earnings: the cash conversion is very close to 100%, sometimes greater due to a good working capital management. But having a good profitability means nothing if you are not able to defend it. These businesses need to be able to stay profitable over a long time. How do they fare on that scale? Once again very well. One striking feature is that these companies have considerable gross margins, often around 65-70%. It denotes a good pricing power. First, their customers are willing to buy from them at a premium price. If a company wants to raise its prices bit by bit, year after year, its clients are not going to go away . Second, such a high gross margin demonstrates a weak competition that is unable to erode their competitive advantage. This is also illustrated by the average longevity of Fundsmith’s holdings. Although there are some new players, most of these businesses have been existing for more than fifty years. Surviving for such a long time while being able to maintain good margins is a clear sign that they are perfectly able to defend their profitability. To have a compounding machine, it is not enough to be profitable, you also need to be able to reinvest the returns in the business. Not only that, but the reinvested cash needs to compound at the same high rate of returns as when it was first generated. Checking these companies, we find out that their earnings grow on average every year by 15%, without degrading the profitability. There is still a runway to reinvest half of the returns, and distribute the remaining to shareholders. A final note on business quality. Although such companies are not afraid from competition, how do they fare in period of crisis? Their revenue are often made of recurring, everyday-life small tickets such as fast moving consumer goods. Customers tend to buy those tickets even when times are difficult. For instance, during the lockdown resulting from the COVID-19 outbreak, Fundsmith’s positions proved to be quite resilient: consumers still brush their teeth and feed their dogs, COVID-19 or not. There we have it: a handful of profitable, resilient, competitive businesses that will reinvest their earnings at a high rate for a long time. The textbook definition of compounding machines. Quality is underrated: Now comes a critical question: what price should we pay for such companies?Having found good compounders is one thing. But it we pay too much for them, shouldn’t we be worried that such an investment will return subpar returns? What is a correct price for these assets? Looking at Fundsmith’s holdings, they usually initiate a position when the target quality company provides a Free Cash Flow yield of 4% or more. That’s it. Hold on, what do you mean by that’s it? Why would such a rule provide superior returns? At first sight this does not make any sense. Using second-order thinking and a bit of game theory, a seasoned investor would think:  Everybody knows that this company is a first class business. As a result, investors must have bid up the share price so much that it should not offer excess returns compared to any other investment opportunity. This is at least what finance theory would state. A fair price for these businesses would be the current value of the future cash flows discounted by our opportunity cost. It should not matter if these cash flows are solid compounders, the price should converge to a value that does not provide excess returns above the opportunity cost. However, a look at the past history suggest that it is not the case. There are many examples of good and famous businesses, having a considerable market capitalization, that continued to outperform for a long time. Take L’Oréal for instance. The stock was quoting at 7. 60 EUR in 1991. At the time nobody could say this was an obscure company, and its business model was already very attractive. 29 years later, it is now quoting at 260 EUR. The stock price provided a compounded annual return of 13% per year. Taking into accounts all the dividends received over the period, a shareholder would have enjoyed total returns of 15-16% per year. And this is not an isolated example. Nike, Visa, Mastercard are all famous businesses with strong fundamentals. As far as can be from the unknown run-of-the-mill company. And yet their stock vastly outperformed the market. A last example is Moody’s. The fundamental economics of credit rating agencies are fantastic. A debt issuer wanting to attract investors has almost no other choice than going to one of the big three to rate its credit: Moody’s, Standard &amp; Poor’s, or Fitch. The industry is a prestige-based oligopoly. Let’s have a look at the business model. On the cost side, the rating agency will have to pay an analyst comfortably. Say $200’000 per year. The analyst can then appraise the creditworthiness of the client. On the revenue side, the agency will get 5 basis points of the total debt offered. With a US bond market worth 40 trillion USD and growing year after year, you can imagine how these three agencies can share with ease 200 billion USD revenues. And not only do clients have to pay for the debt issuance, but they will have to pay again every year for a re-appraisal of their credit rating. A business dream. The best part? This business is undestructible. Before the subprime crisis, credit rating agencies published poisoned ratings (remember AAA-rated CDOs?), with the result we all know. This gross misconduct did not manage to damage the industry. If this does not kill Moody’s, I don’t know what will. So we have an impressive business, known by everybody in the financial world. Surely people would have been able to price it correctly? Not at all. Moody’s stock price grew 22-fold since 2001, returning 17. 6% per year to its investors. And I am not even counting the dividends. The unbearable lightness of the brain: How come that high quality seems to be systematically underpriced then? I am not the only one person puzzled by this fact. In Quality Investing, Lawrence Cunningham already observed this phenomenon.  Equity Investors must find companies in the stock market, where theory suggests that the superior attributes of quality companies would be fairly reflected in price, offering no investing advantage. But while premiums are paid for shares of such businesses, they are frequently insufficient. Valuation premiums of quality companies reflect some degree of expected outperformance, but actual performance tend to exceed expectations over time. Stock prices thus tend to undervalue quality companies In the same spirit, a white paper written by Cliff Asness, Andrea Frazzini and Lasse Pedersen, Quality Minus Junk, recognised that when businesses are rated by quality, high quality companies stocks tend to outperform lower quality stocks. However the theory suggests that this should not be the case. Recall that the fair value of any asset is the present value of its future cash flows, discounted at your opportunity cost. If the price is constantly too low compared to the fair value, it is either because the market uses a discount rate that is too high, or because the cash flows are under-estimated.  A high discounting rate does not make sense here: that would be equivalent to saying “the better the business, the higher the margin of safety i am asking, and the less i can trust the value of future cash flows”. Hardly believable.  Thus a more probable hypothesis would be that we constantly underestimate the future cash flows of good businesses. Could it be the case?Looking into psychology, we can see how such an outcome could occur. The human brain is not wired to understand long term compounding. Consider the following game. Would you rather receive:  a) $700’000 now b) or 1 cent doubled every day for 30 days?If you are like most people, I guess you chose $700’000. However, proposition b) is vastly more valuable. 1 cent multiplied by 2^30 is roughly equals to 10 million USD. But the way the game is presented, our brain is absolutely unable to figure out that proposition b) is worth more than ten times proposition a). If the brain has difficulties with exponential growth, but can it work in a linear fashion? It turns out that reality is even worse: our brain can only understand logarithmic growth. Anything else must be inculcated the hard way at school. A brain built to think in a logarithmic fashion will never be able to compute an exponential growth. At best it might figure out that the result is big. But it will systematically underestimate compound interest. And this is the very reason why good businesses tend to command lower prices than expected. When tools cannot take decisions: Wait a minute! an astute reader would say. Our brains may be hopeless at understanding compounding, but an analyst’s spreadsheet is not. This is true, but only to the extent that the model in the spreadsheet reflects the reality. Consider the bread and butter of business valuation, the discounted cash flow analysis. When elaborating a valuation, the analyst will try to evaluate the future free cash flows of the company, discount them at their present value and sum the total to arrive to a target price. One of the biggest issues in doing so is to forecast the free cash flow growth in the future. Sure, a business might currently enjoy an attractive growth, but this can mathematically not last forever. Based on many qualitative criteria like the competitive advantage of the company, its position in the industry and its previsibility, the analyst will have to choose how long he expects the company to grow its free cash flows at a high rate. This period is often called the competitive advantage period. What this means is that afterward, the company is expected to grow very little (roughly in line with the GDP growth, or even less). Based on the quality and visibility of the business, the competitve advantage period is usually set between 3 to 10 years in the valuation model. What is crucial to notice is that the value used for the competitive advantage period has a tremendous impact on the final value of the analysis. Consider a fictitious business currently generating $1’000 of free cash flows and expecting to grow them by 15% annually thanks to some competitive advantage. There will be a time when competition will erode this advantage. Let’s say that this business will only grow 2% per year afterward. For simplicity sake we will use a 10% discounting rate. For simplicity sake as well, the business does not need external capital. All the growth comes from reinvested earnings. How does the competitive advantage period impacts the value of this business? It turns out that it matters a lot. If the analyst chooses a period of 5 years, the business is worth around $20’000. Had he chosen 10 years, the business value is now ​USD 31’000. What happens if instead the business happens to be a wonderful one, growing 15% year after year for 20 years? Its value jumps to $61’000. The valuation tripled due to the variation of a single parameter left to the appreciation of the analyst. I contend that if the company is indeed a fabulous one, very few analysts will be able to make the call and choose a competitive advantage period that is big enough. The spreadsheet knows how to do the maths, but here the issue is mainly a qualitative one. In an industry where career risk is real, i doubt a lot of analysts would dare to stick their neck out and affirm that a business will enjoy outsized returns for 12, 15, 20 years. This leads systematically to undervaluations. And undervaluation means attractive investment opportunity. On the one hand, our brains are bad with numbers, but quite good at qualitative analysis. On the other hand, spreadsheets handle natively any calculation, but are terrible at more qualitative matters. Deciding how long a business will enjoy a competitive advantage is one of those. As a result, there is a substantial probability that investors will appraise superior businesses way below their fair value. I am not saying that these businesses look cheap in any way. For instance, many of Fundsmith’s positions are trading at multiples north of 30 times earnings. But even if the price looks expensive, in many cases it is still a bargain compared to what the underlying business will deliver.  And Buffett has been saying the same for more than thirty years. "
+    "body": "2020/05/31 - Good things happen when you buy quality: Why do investors focusing on superior businesses often get attractive results? Why should quality not be offset by an expensive price? Over the last two decades, the returns achieved by private investors and fund managers buying only good businesses have been impressive enough not to be due to mere luck. Take Fundsmith for instance. Beating the global market by a wide margin is one thing. Doing it while being long-only, using no leverage nor any derivatives, and buying companies whose average market capitalization is bigger than $70 billion is yet another dimension of outperformance. If you are not familiar with the Fundsmith Equity Fund, this UK-based mutual fund is managed by Terry Smith. Created in 2010, the fund is known to only invest in outstanding businesses. It has since been returning an average compounded return of 17. 6% per year. Taking into account the weakening of the pound sterling, an US investor would still have enjoyed close to 15% per year over the last decade had he invested in the fund. Some may say that Smith got lucky by creating his fund at the beginning of the longest bull market in history. Making money in a post-2010 world would then be the mere luck of finding oneself at the right place at the right moment. But due diligence reveals that before Fundsmith, Terry Smith was already an outstanding investor. From 2003 to 2010 when he was at the head of the Tullett Liberty Pension Fund, he averaged 14% per year in spite of the great financial crisis. Now being that lucky would be remarkable. I don’t want this post to be an advertizement for Fundsmith: there are other funds and holding companies using similar principles; they all returned impressive results as well. Lindsell Train. Baillie Gifford. And if we dare going outside of the asset management industry, we’ll find of course Berkshire Hathaway, the poster-child of quality business conglomerate. No, what i want to know is what could explain such a level of outperformance. Looking at the fund’s marketing, management explains that they Buy good businesses, don’t overpay, and do nothing. It sure makes a catchy slogan. Thirty years ago, Buffett himself was writing about the same concept in his 1989 letter to shareholders:  It is far better to buy a wonderful business at a fair price than a fair business at a wonderful price. But why should it be a winning formula? What is the secret sauce? After some time pondering the problem, I may have found the lynchpin. It resides in one single phenomena: long-term compound interest and the human absolute inability to have a grasp at what it means. Look for compounding machines: So there it is. Compound interest. We want to own businesses that will behave like compounding machines. How do you do that? You buy extremely good quality. What kind of business is extremely good? Let’s have a look at the common characteristics in Fundsmith’s holdings. The aboslute most important feature is that all these businesses are as profitable as can be. They all benefit from a generous return on invested capital which is often greater than 25%. Every dollar invested in such a business will generate at least 25 cent year after year after year. And those are not virtual accounting earnings: the cash conversion is very close to 100%, sometimes greater due to a good working capital management. But having a good profitability means nothing if you are not able to defend it. These businesses need to be able to stay profitable over a long time. How do they fare on that scale? Once again very well. One striking feature is that these companies have considerable gross margins, often around 65-70%. It denotes a good pricing power. First, their customers are willing to buy from them at a premium price. If a company wants to raise its prices bit by bit, year after year, its clients are not going to go away. Second, such a high gross margin demonstrates a weak competition that is unable to erode their competitive advantage. This is also illustrated by the average longevity of Fundsmith’s holdings. Although there are some new players, most of these businesses have been existing for more than fifty years. Surviving for such a long time while being able to maintain good margins is a clear sign that they are perfectly able to defend their profitability. To have a compounding machine, it is not enough to be profitable, you also need to be able to reinvest the returns in the business. Not only that, but the reinvested cash needs to compound at the same high rate of returns as when it was first generated. Checking these companies, we find out that their earnings grow on average every year by 15%, without degrading the profitability. There is still a runway to reinvest half of the returns, and distribute the remaining to shareholders. A final note on business quality. Although such companies are not afraid from competition, how do they fare in period of crisis? Their revenue are often made of recurring, everyday-life small tickets such as fast moving consumer goods. Customers tend to buy those tickets even when times are difficult. For instance, during the lockdown resulting from the COVID-19 outbreak, Fundsmith’s positions proved to be quite resilient: consumers still brush their teeth and feed their dogs, COVID-19 or not. There we have it: a handful of profitable, resilient, competitive businesses that will reinvest their earnings at a high rate for a long time. The textbook definition of compounding machines. Quality is underrated: Now comes a critical question: what price should we pay for such companies?Having found good compounders is one thing. But it we pay too much for them, shouldn’t we be worried that such an investment will return subpar returns? What is a correct price for these assets? Looking at Fundsmith’s holdings, they usually initiate a position when the target quality company provides a Free Cash Flow yield of 4% or more. That’s it. Hold on, what do you mean by that’s it? Why would such a rule provide superior returns? At first sight this does not make any sense. Using second-order thinking and a bit of game theory, a seasoned investor would think:  Everybody knows that this company is a first class business. As a result, investors must have bid up the share price so much that it should not offer excess returns compared to any other investment opportunity. This is at least what finance theory would state. A fair price for these businesses would be the current value of the future cash flows discounted by our opportunity cost. It should not matter if these cash flows are solid compounders, the price should converge to a value that does not provide excess returns above the opportunity cost. However, a look at the past history suggest that it is not the case. There are many examples of good and famous businesses, having a considerable market capitalization, that continued to outperform for a long time. Take L’Oréal for instance. The stock was quoting at 7. 60 EUR in 1991. At the time nobody could say this was an obscure company, and its business model was already very attractive. 29 years later, it is now quoting at 260 EUR. The stock price provided a compounded annual return of 13% per year. Taking into accounts all the dividends received over the period, a shareholder would have enjoyed total returns of 15-16% per year. And this is not an isolated example. Nike, Visa, Mastercard are all famous businesses with strong fundamentals. As far as can be from the unknown run-of-the-mill company. And yet their stock vastly outperformed the market. A last example is Moody’s. The fundamental economics of credit rating agencies are fantastic. A debt issuer wanting to attract investors has almost no other choice than going to one of the big three to rate its credit: Moody’s, Standard &amp; Poor’s, or Fitch. The industry is a prestige-based oligopoly. Let’s have a look at the business model. On the cost side, the rating agency will have to pay an analyst comfortably. Say $200’000 per year. The analyst can then appraise the creditworthiness of the client. On the revenue side, the agency will get 5 basis points of the total debt offered. With a US bond market worth 40 trillion USD and growing year after year, you can imagine how these three agencies can share with ease 200 billion USD revenues. And not only do clients have to pay for the debt issuance, but they will have to pay again every year for a re-appraisal of their credit rating. A business dream. The best part? This business is undestructible. Before the subprime crisis, credit rating agencies published poisoned ratings (remember AAA-rated CDOs?), with the result we all know. This gross misconduct did not manage to damage the industry. If this does not kill Moody’s, I don’t know what will. So we have an impressive business, known by everybody in the financial world. Surely people would have been able to price it correctly? Not at all. Moody’s stock price grew 22-fold since 2001, returning 17. 6% per year to its investors. And I am not even counting the dividends. The unbearable lightness of the brain: How come that high quality seems to be systematically underpriced then? I am not the only one person puzzled by this fact. In Quality Investing, Lawrence Cunningham already observed this phenomenon.  Equity Investors must find companies in the stock market, where theory suggests that the superior attributes of quality companies would be fairly reflected in price, offering no investing advantage. But while premiums are paid for shares of such businesses, they are frequently insufficient. Valuation premiums of quality companies reflect some degree of expected outperformance, but actual performance tend to exceed expectations over time. Stock prices thus tend to undervalue quality companies. In the same spirit, a white paper written by Cliff Asness, Andrea Frazzini and Lasse Pedersen, Quality Minus Junk, recognised that when businesses are rated by quality, high quality companies stocks tend to outperform lower quality stocks. However the theory suggests that this should not be the case. Recall that the fair value of any asset is the present value of its future cash flows, discounted at your opportunity cost. If the price is constantly too low compared to the fair value, it is either because the market uses a discount rate that is too high, or because the cash flows are under-estimated.  A high discounting rate does not make sense here: that would be equivalent to saying “the better the business, the higher the margin of safety i am asking, and the less i can trust the value of future cash flows”. Hardly believable.  Thus a more probable hypothesis would be that we constantly underestimate the future cash flows of good businesses. Could it be the case?Looking into psychology, we can see how such an outcome could occur. The human brain is not wired to understand long term compounding. Consider the following game. Would you rather receive:  a) $700’000 now b) or 1 cent doubled every day for 30 days?If you are like most people, I guess you chose $700’000. However, proposition b) is vastly more valuable. 1 cent multiplied by 2^30 is roughly equals to 10 million USD. But the way the game is presented, our brain is absolutely unable to figure out that proposition b) is worth more than ten times proposition a). If the brain has difficulties with exponential growth, but can it work in a linear fashion? It turns out that reality is even worse: Our brain can only understand logarithmic growth. Anything else must be inculcated the hard way at school. A brain built to think in a logarithmic fashion will never be able to compute an exponential growth. At best it might figure out that the result is big. But it will systematically underestimate compound interest. And this is the very reason why good businesses tend to command lower prices than expected. When tools cannot take decisions: “Wait a minute,” would you say. Our brains may be hopeless at understanding compounding, but an analyst’s spreadsheet is not. This is true, but only to the extent that the model in the spreadsheet reflects the reality. Consider the bread and butter of business valuation, the discounted cash flow analysis. When elaborating a valuation, the analyst will try to evaluate the future free cash flows of the company, discount them at their present value and sum the total to arrive to a target price. One of the biggest issues in doing so is to forecast the free cash flow growth in the future. Sure, a business might currently enjoy an attractive growth, but this can mathematically not last forever. Based on many qualitative criteria like the competitive advantage of the company, its position in the industry and its previsibility, the analyst will have to choose how long he expects the company to grow its free cash flows at a high rate. This period is often called the competitive advantage period. What this means is that afterward, the company is expected to grow very little (roughly in line with the GDP growth, or even less). Based on the quality and visibility of the business, the competitve advantage period is usually set between 3 to 10 years in the valuation model. What is crucial to notice is that the value used for the competitive advantage period has a tremendous impact on the final value of the analysis. Consider a fictitious business currently generating $1’000 of free cash flows and expecting to grow them by 15% annually thanks to some competitive advantage. There will be a time when competition will erode this advantage. Let’s say that this business will only grow 2% per year afterward. For simplicity sake we will use a 10% discounting rate. For simplicity sake as well, the business does not need external capital. All the growth comes from reinvested earnings. How does the competitive advantage period impacts the value of this business? It turns out that it matters a lot. If the analyst chooses a period of 5 years, the business is worth around $20’000. Had he chosen 10 years, the business value is now ​USD 31’000. What happens if instead the business happens to be a wonderful one, growing 15% year after year for 20 years? Its value jumps to $61’000. The valuation tripled due to the variation of a single parameter left to the appreciation of the analyst. I contend that if the company is indeed a fabulous one, very few analysts will be able to make the call and choose a competitive advantage period that is big enough. The spreadsheet knows how to do the maths, but here the issue is mainly a qualitative one. In an industry where career risk is real, i doubt a lot of analysts would dare to stick their neck out and affirm that a business will enjoy outsized returns for 12, 15, 20 years. This leads systematically to undervaluations. And undervaluation means attractive investment opportunity. On the one hand, our brains are bad with numbers, but quite good at qualitative analysis. On the other hand, spreadsheets handle natively any calculation, but are terrible at more qualitative matters. Deciding how long a business will enjoy a competitive advantage is one of those. As a result, there is a substantial probability that investors will appraise superior businesses way below their fair value. I am not saying that these businesses look cheap in any way. For instance, many of Fundsmith’s positions are trading at multiples north of 30 times earnings. But even if the price looks expensive, in many cases it is still a bargain compared to what the underlying business will deliver.  And Buffett has been saying the same for more than thirty years. "
     }];
 
 var idx = lunr(function () {
@@ -188,7 +195,7 @@ function lunr_search(term) {
     $('#lunrsearchresults').show( 1000 );
     $( "body" ).addClass( "modal-open" );
     
-    document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-secondary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
+    document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
     if(term) {
         document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
         //put results on the screen.
@@ -226,6 +233,7 @@ function lunr_search(term) {
 <input type="text" class="form-control text-small"  id="lunrsearch" name="q" value="" placeholder="Search..."> 
 </form>
             </ul>
+           
         </div>
     </div>
     </nav>
@@ -238,53 +246,34 @@ function lunr_search(term) {
     <!-- Content -->
     <main role="main" class="site-content">
         
-<div class="container">
-	<div class="jumbotron jumbotron-fluid mb-0 pl-0 pt-0 pb-0 bg-white position-relative">
-		<div class="h-100 tofront">
-			<div class="row justify-content-center" >
-				<div class="col-md-8  pr-0 pr-md-4 pt-4 pb-4 align-self-center" >
-					<p class="text-uppercase font-weight-bold">
-                        <span class="catlist">
-						
-                        </span>
-					</p>
 
-					
-						<h1 class="display-8 mb-0 article-headline" >About me  </h1>
-					
-				</div>
-			</div>
-		</div>
+
+<div class="container-lg">
+	<div class="h-100">
+		<div class="row" >
+			
+			<div class="col-md-12 col-lg-10 offset-lg-1" >
+				
+				
+					<h1 class="display-8 mb-0 article-headline" >About me  </h1>
+				
 	</div>
+			
+	
 </div>
 
 
-<div class="container-lg  pb-4" >	
-	<div class="row justify-content-left">  
-	 	
-	 	<div class="col-lg-1 offset-lg-1 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				
-				<div class="share d-inline-block pt-4">
 
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-				</div>
-			</div>
-		</div>
+<div class="container-lg" >	
 
-
-	
-           <div class="col-md-12 col-lg-8" >
-            
+	<div class="row">	
+           <div class="col-md-12 col-lg-6 offset-lg-3" >            
 			<article class="article-post top-pink" >
-			<h2 id="welcome-dear-reader">Welcome dear reader!</h2>
+			<p><img class="rounded-circle mt-4 big-img" src="https://fooltowise.com/assets/images/avatar-jul-lg.png" alt="julien" width="300" /></p>
+
+<h2 id="welcome-dear-reader">Welcome dear reader!</h2>
 <p>My name is Julien Husser. I do many things, including developing software, investing, writing and drinking way too much tea. 
-I am 34 and currently live in Zürich, Switzerland, with my wife and my son.</p>
+I am 35 and currently live in Zürich, Switzerland, with my wife and my son.</p>
 
 <p>This website is a collection of my favorite topics:</p>
 
@@ -301,11 +290,7 @@ I believe that writing is the ultimate tool to make sure i understand a topic. W
 
 <p>Finally, through this website I hope to reach like-minded people so we can generate even more ideas. I am looking forward to discussing with you!</p>
 
-			</article>
-
-            
-
-			
+			</article> 
 			<div class="mb-4">
 				<span class="taglist">
 				
@@ -335,56 +320,33 @@ I believe that writing is the ultimate tool to make sure i understand a topic. W
                     </div>
                 </div>
             </div>
-   
+     
             
-
-
-            
-                
-				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         
-                        <img class="rounded-circle" src="/assets/images/avatar-jul.png" alt="Julien Husser" width="90"/>
-                        
-					</div>
-					<div class="col-md-10">
-                        <h5 class="font-weight-bold">Written by Julien Husser <span><a target="_blank" href="https://twitter.com/SalutNounou" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span></h5>
-						Father, Husband, Investor, Software Developer, and Tea Enthusiast.
-					</div>
+			<div class="row mt-5">
+				<div class="col-md-2 align-self-center">
+                     
+                    <img class="rounded-circle" src="/assets/images/avatar-jul.png" alt="Julien Husser" width="90"/>
+                    
 				</div>
-                
+				<div class="col-md-10 font-sec">
+                    <h5 class="font-weight-bold">Written by Julien Husser <span><a target="_blank" href="https://twitter.com/SalutNounou" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>
+                    </h5>
+					<p><small>Father, Husband, Investor, Software Developer, and Tea Enthusiast.</small></p>
+				</div>
+			</div>
+            
 
            
             
-                <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 774; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: false
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
-            
 
 		</div>
-
-
-
 
 
 	</div>
 </div>
 
 
-<div class="alertbar">
-    <div class="container">
-        <div class="row prevnextlinks small font-weight-bold">
-          
-          
-        </div>
-    </div>
-</div>
+
 
     </main>
 

@@ -5,23 +5,23 @@ permalink: "/links.html"
 ---
 
 <div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-      
+    <div class="row ">
+        <div class="col-md-12 col-lg-6 offset-lg-3">
+        <h1 class="mt-6">{{page.title}}</h1>
 
-        <p class="mt-4 mb-4">On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Don't hesitate to go and read them!</p>
+        <p class="mt-4 mb-4 links"> On this page I reference all the persons, essays and books that have been hugely influential to shape how I think. Feel free to go and read them!</p>
             
         {% for linkcategory in site.data.linkcategories %} 
-        <h3 class="spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ linkcategory.name }}</span></h3>
+        <h2 class="page-h2 text-capitalize" id="{{ category[0] | downcase }}"><span>{{ linkcategory.name }}</span></h2>
 
             {% for link in site.data.linkdata %}
                 {% if link.category == linkcategory.name %}                    
-                    <div class="mb-3 d-flex justify-content-between main-loop-card">
-                        <div class="pr-3">
-                            <h4 class="mb-1 h4">
-                            <a class="title h6 text-uppercase" href="{{link.link}}" target="_blank">{{ link.name }} </a>
-                            </h4>
-                            <p class="excerpt">
+                    <div class="mb-2 d-flex justify-content-between main-loop-card">
+                        <div>
+                            <h3 > 
+                            <a class="mb-2 hoverable" href="{{link.link}}" target="_blank">{{ link.name }} </a>
+                            </h3>
+                            <p class="links">
                                {{ link.description  }}
                             </p>                           
                         </div>
@@ -39,7 +39,7 @@ permalink: "/links.html"
         </div>
         
             <div class="col-md-4 " >
-        {% include sidebar-featured.html %}    
+    
     </div>
         
     </div>

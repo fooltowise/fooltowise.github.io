@@ -2,7 +2,9 @@
 layout: post
 title:  "The case for buying good businesses"
 categories: [ Investing ]
-tags: [ featured]
+tags: 
+comments: true
+excerpt_separator: "outperformance."
 ---
 
 ## Good things happen when you buy quality
@@ -23,7 +25,7 @@ Looking at the fund's marketing, management explains that they _Buy good busines
 
 > It is far better to buy a wonderful business at a fair price than a fair business at a wonderful price.
 
-But why should it be a winning formula? What is the secret sauce? After some time pondering the problem, i may have discovered the lynchpin. It resides in one single phenomena: _long-term compound interest and the human absolute inability to have a grasp at what it means_.
+But why should it be a winning formula? What is the secret sauce? After some time pondering the problem, I may have found the lynchpin. It resides in one single phenomena: _long-term compound interest and the human absolute inability to have a grasp at what it means_.
 
 ## Look for compounding machines
 
@@ -31,7 +33,7 @@ So there it is. Compound interest. We want to own businesses that will behave li
 
 The aboslute most important feature is that all these businesses are as profitable as can be. They all benefit from a generous return on invested capital which is often greater than 25%. Every dollar invested in such a business will generate at least 25 cent year after year after year. And those are not virtual accounting earnings: the cash conversion is very close to 100%, sometimes greater due to a good working capital management.
 
-But having a good profitability means nothing if you are not able to defend it. These businesses need to be able to stay profitable over a long time. How do they fare on that scale? Once again very well. One striking feature is that these companies have considerable gross margins, often around 65-70%. It denotes a good pricing power. First, their customers are willing to buy from them at a premium price. If a company wants to raise its prices bit by bit, year after year, its clients are not going to go away . Second, such a high gross margin demonstrates a weak competition that is unable to erode their competitive advantage.
+But having a good profitability means nothing if you are not able to defend it. These businesses need to be able to stay profitable over a long time. How do they fare on that scale? Once again very well. One striking feature is that these companies have considerable gross margins, often around 65-70%. It denotes a good pricing power. First, their customers are willing to buy from them at a premium price. If a company wants to raise its prices bit by bit, year after year, its clients are not going to go away. Second, such a high gross margin demonstrates a weak competition that is unable to erode their competitive advantage.
 
 This is also illustrated by the average longevity of Fundsmith's holdings. Although there are some new players, most of these businesses have been existing for more than fifty years. Surviving for such a long time while being able to maintain good margins is a clear sign that they are perfectly able to defend their profitability.
 
@@ -70,7 +72,7 @@ So we have an impressive business, known by everybody in the financial world. Su
 
 How come that high quality seems to be systematically underpriced then? I am not the only one person puzzled by this fact. In _Quality Investing_,  Lawrence Cunningham already observed this phenomenon. 
 
-> *Equity Investors must find companies in the stock market, where theory suggests that the superior attributes of quality companies would be fairly reflected in price, offering no investing advantage. But while premiums are paid for shares of such businesses, they are frequently insufficient. Valuation premiums of quality companies reflect some degree of expected outperformance, but actual performance tend to exceed expectations over time. Stock prices thus tend to undervalue quality companies*
+> *Equity Investors must find companies in the stock market, where theory suggests that the superior attributes of quality companies would be fairly reflected in price, offering no investing advantage. But while premiums are paid for shares of such businesses, they are frequently insufficient. Valuation premiums of quality companies reflect some degree of expected outperformance, but actual performance tend to exceed expectations over time. Stock prices thus tend to undervalue quality companies*.
 
 In the same spirit, a white paper written by Cliff Asness, Andrea Frazzini and Lasse Pedersen, _Quality Minus Junk_, recognised that when businesses are rated by quality, high quality companies stocks tend to outperform lower quality stocks. 
 
@@ -87,13 +89,17 @@ Consider the following game. Would you rather receive:
 
 If you are like most people, I guess you chose $700'000. However, proposition b) is vastly more valuable. 1 cent multiplied by 2^30 is roughly equals to 10 million USD. But the way the game is presented, _**our brain is absolutely unable to figure out that proposition b) is worth more than ten times proposition a)**_. 
 
-If the brain has difficulties with exponential growth, but can it work in a linear fashion? It turns out that reality is even worse: [our brain can only understand logarithmic growth](https://lithub.com/when-a-man-took-a-joke-in-a-pepsi-ad-seriously-chaos-ensued/). Anything else must be inculcated the hard way at school. 
+If the brain has difficulties with exponential growth, but can it work in a linear fashion? It turns out that reality is even worse: 
+
+**[Our brain can only understand logarithmic growth](https://lithub.com/when-a-man-took-a-joke-in-a-pepsi-ad-seriously-chaos-ensued/).** 
+
+Anything else must be inculcated the hard way at school. 
 
 A brain built to think in a logarithmic fashion will never be able to compute an exponential growth. At best it might figure out that the result is big. But it will systematically underestimate compound interest. And this is the very reason why good businesses tend to command lower prices than expected.
 
 ## When tools cannot take decisions
 
-Wait a minute! an astute reader would say. Our brains may be hopeless at understanding compounding, but an analyst's spreadsheet is not. This is true, but only to the extent that the model in the spreadsheet reflects the reality.
+"Wait a minute,"  would you say. Our brains may be hopeless at understanding compounding, but an analyst's spreadsheet is not. This is true, but only to the extent that the model in the spreadsheet reflects the reality.
 
 Consider the bread and butter of business valuation, the discounted cash flow analysis.
 

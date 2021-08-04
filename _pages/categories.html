@@ -6,11 +6,12 @@ permalink: "/categories.html"
 
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-8">
-        <h1 class="title h6 text-uppercase mb-4 ">Categories</h1>
+        <div class="col-md-12 col-lg-6 offset-lg-3">
+        <h1 class="mt-6 ">Archives</h1>
+
             
         {% for category in site.categories %} 
-        <h4 class="spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        <h2 class="page-h2 text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h2>
             
         {% assign pages_list = category[1] %}
         {% for post in pages_list %}
@@ -32,8 +33,8 @@ permalink: "/categories.html"
 
        
         
-        <div class="col-md-4">
-            {% include sidebar-featured.html %}    
+        <div class="col-md-3">
+      
         </div>
         
     </div>

@@ -5,10 +5,15 @@ author: julien
 permalink: "/about.html"
 description: "Let's know each other"
 noavatar: "true"
+
 ---
+
+ <img class="rounded-circle mt-4 big-img" src="{{site.url}}/assets/images/avatar-jul-lg.png" alt="{{page.author}}" width="300"/>
+                 
+
 ## Welcome dear reader!
 My name is Julien Husser. I do many things, including developing software, investing, writing and drinking way too much tea. 
-I am 34 and currently live in Zürich, Switzerland, with my wife and my son.
+I am 35 and currently live in Zürich, Switzerland, with my wife and my son.
 
 This website is a collection of my favorite topics:
 

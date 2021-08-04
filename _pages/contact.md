@@ -1,8 +1,11 @@
 ---
 title: "Contact"
 permalink: "/contact.html"
+layout: post
+noavatar: "true"
 ---
 
+<div class="mt-4"></div>
 <form action="https://formspree.io/{{site.email}}" method="POST">    
 <p >You want to tell me something? Well, thanks a lot!</p>
 <p> You can send me an email by writing to <b>fromfooltowise[at]gmail.com</b>.</p>

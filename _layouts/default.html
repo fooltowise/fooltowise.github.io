@@ -20,8 +20,10 @@
     <!-- Bootstrap Modified -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
 
-    <!-- Theme Stylesheet -->
-    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Montserrat:200,300,400,500,600|Open+Sans&display=swap" rel="stylesheet">
+    <!-- Theme Stylesheet -->   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
 
 
@@ -55,12 +57,16 @@
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
+
+       
+            <ul class="ml-4 navbar-nav mr-auto d-flex align-items-center ">
                {% include menu-header.html %}
+               
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
+               {% include search-lunr.html %}
             </ul>
+           
         </div>
     </div>
     </nav>

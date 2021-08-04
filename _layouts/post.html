@@ -1,72 +1,49 @@
 ---
 layout: default
+
 ---
 {% assign author = site.authors[page.author] %}
-<div class="container">
-	<div class="jumbotron jumbotron-fluid mb-0 pl-0 pt-0 pb-0 bg-white position-relative">
-		<div class="h-100 tofront">
-			<div class="row justify-content-center" >
-				<div class="col-md-8  pr-0 pr-md-4 pt-4 pb-4 align-self-center" >
-					<p class="text-uppercase font-weight-bold">
-                        <span class="catlist">
-						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
-					</p>
 
-					{% if page.noavatar != "true" %}
-					<h1 class="display-8 mb-10 article-headline" >{{ page.title }}  </h1>
 
-					<div class="d-flex align-items-center">
-                        {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
-                        {% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
-                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+<div class="container-lg">
+	<div class="h-100">
+		<div class="row" >
+			
+			<div class="col-md-12 col-lg-10 offset-lg-1" >
+				
+				{% if page.noavatar != "true" %}					
+					<h1 class="article-headline" > {{ page.title }}  </h1>
+					   <div class="heading-center text-muted">                 
+						<small > 
+							
+		                   		 <span>{{ page.date | date: '%b %d, %Y' }} - {% include meta-read-time.html %}</span>
+		                   	
+		                     <p class="text-uppercase font-weight-bold">
+			                     <span class="catlist">
+								{% for category in page.categories %}
+		                          <a class="sscroll text-primary" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+		                        {% endfor %}
+	                       		 </span>
+                       		 </p>
 						</small>
-					</div>	
-					{% else %}
-						<h1 class="display-8 mb-0 article-headline" >{{ page.title }}  </h1>
-					{% endif %}
-				</div>
-			</div>
-		</div>
+					</div>
+				{% else %}
+					<h1 class="display-8 mb-0 article-headline" >{{ page.title }}  </h1>
+				{% endif %}
 	</div>
+			
+	
 </div>
 
 
-<div class="container-lg  pb-4" >	
-	<div class="row justify-content-left">  
-	 	
-	 	<div class="col-lg-1 offset-lg-1 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				
-				<div class="share d-inline-block pt-4">
 
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-				</div>
-			</div>
-		</div>
+<div class="container-lg" >	
 
-
-	
-           <div class="col-md-12 col-lg-8" >
-            
+	<div class="row">	
+           <div class="col-md-12 col-lg-6 offset-lg-3" >            
 			<article class="article-post top-pink" >
 			{{ content }}
-			</article>
-
-            {%if page.categories contains "Investing" %}
-				 {% include disclaimer.html %}
-            {% endif%}
-
-			
+			</article> 
 			<div class="mb-4">
 				<span class="taglist">
 				{% for tag in page.tags %}
@@ -75,53 +52,32 @@ layout: default
 				</span>
 			</div>
   
-            {% include newsletter.html %}
-            
-
-
-            
-                {% if page.author %}
-				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
-                        {% endif %}
-					</div>
-					<div class="col-md-10">
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
-						{{ author.bio }}
-					</div>
+            {% include newsletter.html %}  
+            {% if page.author %}
+			<div class="row mt-5">
+				<div class="col-md-2 align-self-center">
+                     {% if author.avatar %}
+                    <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                    {% endif %}
 				</div>
-                {% endif %}
+				<div class="col-md-10 font-sec">
+                    <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}
+                    </h5>
+					<p><small>{{ author.bio }}</small></p>
+				</div>
+			</div>
+            {% endif %}
 
            
-            {% if page.comments != false %}
+            {% if page.comments %}
                 {% include comments.html %}
             {% endif %}
 
 		</div>
 
 
-
-
-
 	</div>
 </div>
 
 
-<div class="alertbar">
-    <div class="container">
-        <div class="row prevnextlinks small font-weight-bold">
-          {% if page.previous.url %}
-            <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.previous.url }}"> {{page.previous.title}}</a>
-            </div>
-          {% endif %}
-          {% if page.next.url %}
-            <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.baseurl }}{{ page.next.url }}"> {{page.next.title}} </a>
-            </div>
-          {% endif %}
-        </div>
-    </div>
-</div>
+

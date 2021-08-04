@@ -2,7 +2,9 @@
 layout: post
 title:  "You are more naive than you think"
 categories: [ Psychology ]
-tags: [ featured]
+tags: 
+comments: true
+excerpt_separator: "daily lives."
 ---
 
 ##  How beliefs are created, and their consequences 

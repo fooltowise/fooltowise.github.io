@@ -3,7 +3,8 @@ name: 'From Fool to Wise'
 description: 'Adventures in Investing, Psychology, and Being Less of a Fool'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/Favicon.png'
-url:    'https://fooltowise.com'
+url:   'https://fooltowise.com'
+
 
 disqus: 'fooltowise-com'
 hyvor: 774
@@ -52,7 +53,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 10
+paginate: 5
   
 
 picture: 
