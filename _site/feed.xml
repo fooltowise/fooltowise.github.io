@@ -1,4 +1,536 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="https://fooltowise.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fooltowise.com/" rel="alternate" type="text/html" /><updated>2021-09-03T13:35:11+02:00</updated><id>https://fooltowise.com/feed.xml</id><title type="html">From Fool to Wise</title><subtitle>Adventures in Investing, Psychology, and Being Less of a Fool</subtitle><entry><title type="html">My Framework for Investment Returns</title><link href="https://fooltowise.com/My-framework-for-investment-returns/" rel="alternate" type="text/html" title="My Framework for Investment Returns" /><published>2021-09-03T00:00:00+02:00</published><updated>2021-09-03T00:00:00+02:00</updated><id>https://fooltowise.com/My-framework-for-investment-returns</id><content type="html" xml:base="https://fooltowise.com/My-framework-for-investment-returns/">&lt;h2 id=&quot;seeking-a-margin-of-safety-in-growing-companies&quot;&gt;Seeking a Margin of Safety in Growing Companies&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="https://fooltowise.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fooltowise.com/" rel="alternate" type="text/html" /><updated>2021-09-14T20:29:20+02:00</updated><id>https://fooltowise.com/feed.xml</id><title type="html">From Fool to Wise</title><subtitle>Adventures in Investing, Psychology, and Being Less of a Fool</subtitle><entry><title type="html">A Pragmatic Approach to Market Efficiency</title><link href="https://fooltowise.com/A-Pragmatic-Approach-to-Market-Efficiency/" rel="alternate" type="text/html" title="A Pragmatic Approach to Market Efficiency" /><published>2021-09-14T00:00:00+02:00</published><updated>2021-09-14T00:00:00+02:00</updated><id>https://fooltowise.com/A%20Pragmatic-Approach-to-Market-Efficiency</id><content type="html" xml:base="https://fooltowise.com/A-Pragmatic-Approach-to-Market-Efficiency/">&lt;h2 id=&quot;the-hypothesis-that-did-not-want-to-die&quot;&gt;The hypothesis that did not want to die&lt;/h2&gt;
+
+&lt;p&gt;​	Wherever you look in modern finance, one concept permeates everything. You cannot escape the Efficient Market Hypothesis (EMH). From Modern Portfolio Theory to derivative pricing, to everyday finance jargon terms such as &lt;em&gt;alpha&lt;/em&gt; and &lt;em&gt;beta&lt;/em&gt;, the inevitable assumption is that markets are efficient. Prices reflect every information available - investors cannot generate superior returns other than by luck or by taking more risks.&lt;/p&gt;
+
+&lt;p&gt;​	But when we look at reality, things are not so clear. How accurate is the Efficient Market Hypothesis? Can we really assume that markets are efficient - or at least, efficient enough that investors cannot generate excess returns? What are the consequences for investing strategies?&lt;/p&gt;
+
+&lt;p&gt;The Efficient Market Hypothesis exists in various forms, each one being more or less restrictive. For instance, the &lt;strong&gt;Strong Form of the Efficient Market Hypothesis&lt;/strong&gt; claims that all existing information, &lt;strong&gt;public and private&lt;/strong&gt;, is reflected in all asset prices at all times. It follows that no investor can possibly gain any advantage by trading an asset based on insider information.&lt;/p&gt;
+
+&lt;p&gt;​	Well, at least this form is easy to refute: Insider trading is a criminal offense in most countries for good reasons.  In November 1986, &lt;a href=&quot;https://en.wikipedia.org/wiki/Ivan_Boesky&quot;&gt;Ivan Boesky&lt;/a&gt; - one of the most famous investors at the time - was arrested and charged for insider trading. He had entered an illegal arrangement with Martin Seigel, an investment banker from Kidder, Peabody and Co. Between 1982 and 1986, Boesky paid Seigel around USD 700’000 to have access to inside information about the bank clients’ pending corporate transactions. The stock price of the client companies moved sharply when their corporate deals became public, and Boesky netted USD 33 million thanks to Seigel’s information over this period. He did a similar arrangement with Denis Levine, an investment banker at Drexel Burnham Lambert, which made him more than USD 50 million in profits. Because Boesky seemed to hit home runs on almost every M&amp;amp;A deals in the 1980s, the SEC realized something was fishy and started investigating. Ivan Boesky pleaded guilty, served two years in jail and was fined USD 100 million. This story illustrates how private information can give a material advantage to any investor acting on it before it gets published. The strong form of the EMH does not stand up to scrutiny.&lt;/p&gt;
+
+&lt;p&gt;​	That’s where the &lt;strong&gt;Semi-Strong Form of the Efficient Market Hypothesis&lt;/strong&gt; comes in. This variant claims that current asset prices reflect all publicly available information. No amount of fundamental analysis based on public information can give any edge to any investor. As the saying goes, &lt;em&gt;nobody can beat the market&lt;/em&gt;, except by sheer luck or more risk-taking. The consequences are profound. If the hypothesis is correct, then the asset prices reflect asset values and do not offer any arbitrage opportunity.&lt;/p&gt;
+
+&lt;p&gt;This sounds reasonable, but how well does it fare against reality? There are two ways to figure out if this EMH form is valid. We can try to find investors who generated superior results for a prolonged period or time. We can also try to isolate past market behaviours were it was obvious that markets were dislocated and price diverged materially from value. Both approaches lead to interesting results.&lt;/p&gt;
+
+&lt;h2 id=&quot;enter-the-hall-of-fame&quot;&gt;Enter the Hall of Fame&lt;/h2&gt;
+
+&lt;p&gt;In &lt;em&gt;Excess Returns: A comparative study of the methods of the world’s greatest investors&lt;/em&gt; (Harriman House, published in 2015), Frederik Vanhaverbeke dresses a selection of investors who outperformed materially the S&amp;amp;P 500 Index for significant periods. Here is an extract of his findings, sorted by outperformance longevity:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Track Record (Years)&lt;/th&gt;
+      &lt;th&gt;After-Fees CAGR&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Warren Buffett&lt;/td&gt;
+      &lt;td&gt;56&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Philip Carret&lt;/td&gt;
+      &lt;td&gt;55&lt;/td&gt;
+      &lt;td&gt;13%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Walter Schloss&lt;/td&gt;
+      &lt;td&gt;49&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shelby Davis&lt;/td&gt;
+      &lt;td&gt;45&lt;/td&gt;
+      &lt;td&gt;22%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;T. Rowe Price&lt;/td&gt;
+      &lt;td&gt;38&lt;/td&gt;
+      &lt;td&gt;16%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;John Templeton&lt;/td&gt;
+      &lt;td&gt;38&lt;/td&gt;
+      &lt;td&gt;15%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;George Soros&lt;/td&gt;
+      &lt;td&gt;34&lt;/td&gt;
+      &lt;td&gt;29%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Arnold Vandenberg&lt;/td&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;16.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peter Cundill&lt;/td&gt;
+      &lt;td&gt;33&lt;/td&gt;
+      &lt;td&gt;15.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;John Neff&lt;/td&gt;
+      &lt;td&gt;31&lt;/td&gt;
+      &lt;td&gt;14.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Edward Thorp&lt;/td&gt;
+      &lt;td&gt;29&lt;/td&gt;
+      &lt;td&gt;19.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Michael Steinhardt&lt;/td&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;24.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Anthony Bolton&lt;/td&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;20.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bruce Karsh&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;23%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tom Claugus&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;21%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Glenn Greenberg&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;18%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Seth Klarman&lt;/td&gt;
+      &lt;td&gt;25&lt;/td&gt;
+      &lt;td&gt;16.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;James Simons&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;34%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lou Simpson&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;20.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tom Russo&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;15.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paul Rabar&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;25.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Liz Cheval&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;23.1%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jerry Parker&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;22.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tom Shanks&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;29.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Marty Whitman&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;17.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;David Bonderman&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Michael Marcus&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;48%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Randy McKay&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;41%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Robert Wilson&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;34%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Julian Robertson&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;25%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Benjamin Graham&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;21%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Richard C. Perry&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;20.8%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;B. S. Sherman&lt;/td&gt;
+      &lt;td&gt;20&lt;/td&gt;
+      &lt;td&gt;19.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Joel Greenblatt&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;45%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rick Guerin&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;33%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paul Tudor Jones&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;26%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Martin Zweig&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;25%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sim Abraham&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;21.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;David Einhorn&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;19.4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Eddie Lampert&lt;/td&gt;
+      &lt;td&gt;16&lt;/td&gt;
+      &lt;td&gt;29%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Louis Bacon&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;31%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Prem Watsa&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tom Knapp&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;20%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;George Michaelis&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;18.4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daniel Loeb&lt;/td&gt;
+      &lt;td&gt;15&lt;/td&gt;
+      &lt;td&gt;17.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Francisco Garcia Parames&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;22.5%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bill Ruane&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;18%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;William Eckardt&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;60%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peter Lynch&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;29.2%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stan Perlmeter&lt;/td&gt;
+      &lt;td&gt;13&lt;/td&gt;
+      &lt;td&gt;23%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Gil Blake&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;45%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stanley Druckenmiller&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;37%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jeff Vinik&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;32%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Richard Driehaus&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;30%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie Munger&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;24%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jack Dreyfus&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;17.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jim Rogers&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;38%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Scott Ramsey&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;25.7%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Martin Taylor&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;22%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Steve Clark&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+      &lt;td&gt;19.4%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jim Ruben&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;40%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Joe Vidich&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;24%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Vanhaverbeke also charted investor performances against their longevity:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fooltowise.com/assets/images/ExcessReturns.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It may well be that some of these investors were lucky. But it would be very surprising if &lt;em&gt;all&lt;/em&gt; their track records were due to luck alone. Even more so when the track record is longer than 30 years (Buffett, Carret, Schloss, Templeton, Price, Soros, Davis, Vandenberg…) I am well aware of &lt;a href=&quot;https://fs.blog/2019/12/survivorship-bias&quot;&gt;survivorship bias&lt;/a&gt;, but the luck required to generate such returns over such a long term is astronomical. Most market participants won’t beat the market (more on that later), but it looks like a few skilled ones (to only talk about those keeping a public profile) managed to take advantage of it for a very long time.&lt;/p&gt;
+
+&lt;h2 id=&quot;mr-market-a-manic-depressive-fellow&quot;&gt;Mr Market, a manic-depressive fellow&lt;/h2&gt;
+
+&lt;p&gt;Another way to check the Efficient Market Hypothesis against reality is simply to look for market facts that don’t make any rational sense. Here as well, a close inquiry will lead us to find elements disfavoring market rationality.&lt;/p&gt;
+
+&lt;p&gt;Let’s address the elephant in the room: of all market oddities, crashes are the most striking example of irrationality. And what better example than the October 19th, 1987 crash? On this memorable Monday, the Dow Jones Industrial Average Index dropped 22.6% in a single day, while the S&amp;amp;P500 dropped 20.4%. On no particular news, the market valuation of the whole American Economy was suddenly valued one fifth to one fourth less than it was at the previous session. It is difficult to argue that both valuations on Friday, October 16th and Monday, October 19th were absolutely correct and rational. Either the former was too high or the later was too low (or, more probably, both were wrong).&lt;/p&gt;
+
+&lt;p&gt;On a more vivid note, it would be hard not to mention the March 2020 market panic related to the Covid-19 pandemic. As an example among many, on March 18th, the Smithson Investment Trust, a fund quoted on the London Stock Exchange, published a Net Asset Value (NAV) of 1099 pence per share. At the same exact moment, those shares were trading at 910 pence per share, a 20% difference. It would maybe have made sense if Smithson’s holdings were made of companies with weak balance sheet and poor profitability, but the reality is at the exact opposite. Smithson holds only companies with high return on capital, strong reinvestment opportunities, and rock-solid balance sheets. Such a difference between price and net asset value was never justified, but the overall market panic created such opportunities.&lt;/p&gt;
+
+&lt;p&gt;We don’t need to go to such extremes to find market inefficiencies. Take a normal year (2018), and the five biggest and most scrutinized listed companies at the time: Apple Inc, Alphabet Inc, Microsoft Corporation, Amazon.com Inc. and Facebook Inc.  Over the 52-weeks period that made 2018, retrieve the lowest price and the highest price reached by each company, and look at the difference between both:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Lowest Price (USD)&lt;/th&gt;
+      &lt;th&gt;Highest Price (USD)&lt;/th&gt;
+      &lt;th&gt;Difference&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Apple Inc.&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;38.79&lt;/td&gt;
+      &lt;td&gt;58.02&lt;/td&gt;
+      &lt;td&gt;49.57%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Alphabet Inc.&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;991.25&lt;/td&gt;
+      &lt;td&gt;1285&lt;/td&gt;
+      &lt;td&gt;29.63%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Microsoft Corporation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;85.95&lt;/td&gt;
+      &lt;td&gt;115.61&lt;/td&gt;
+      &lt;td&gt;34.51%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Amazon.com Inc.&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;1189&lt;/td&gt;
+      &lt;td&gt;2039&lt;/td&gt;
+      &lt;td&gt;71.49%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Facebook Inc.&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;131.09&lt;/td&gt;
+      &lt;td&gt;217.5&lt;/td&gt;
+      &lt;td&gt;65.92%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Most of them had price differences of more than 30% over the period (Alphabet, the exception, was more than 29%). For Amazon and Facebook, the difference was more than 60%. These numbers represent differences in valuation of several hundreds of billion dollars! It is hard to believe that the business value of these companies changed so much over a single year. It is more likely that for each of them, at least one or both of these prices were plainly wrong. And those are the most studied companies on the planet.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to go to the other extreme and say that markets are absolutely inefficient all the time. We have shown that ineffiencies do occur, but on the other hand, very often market prices seem to make sense. Sometimes markets are pretty efficient, and sometimes they aren’t. What would explain this behavior?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-drivers-of-market-efficiency&quot;&gt;The Drivers of Market Efficiency&lt;/h2&gt;
+
+&lt;p&gt;The wrong way to go at it would be to say: “&lt;em&gt;Well, the market is made of human beings, and people are irrational, so the market is irrational&lt;/em&gt;.” Since the advent of behavioral finance - and especially the work of Daniel Kahneman and Amos Tversky - we know that the human brain is subject to various cognitive biases. These prevent us to behave in a completely rational way. But it does not matter if people are irrational, what matters is &lt;em&gt;if they are all irrational at the same time in the same way&lt;/em&gt;. Let’s illustrate that with the story of Galton’s Ox.&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;More than you know&lt;/em&gt;, Michael Mauboussin writes:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In a 1907 Nature article, “Vox Populi”, Victorian polymath Francis Galton describes a contest to guess the weight of an ox at the West of England Fat Stock and Poultry Exhibition in Plymouth. He collected 787 participants who each paid a sixpenny fee to participate (a small cost to deter practical joking). According to Galton, some of the competitors were butchers and farmers, likely experts at guessing the weight. He surmised that many others, though, were guided by “such information as they might pick up” or “by their own fancies”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Galton calculated the median estimate - the vox populi - as well as the mean. He found that the median guess was within 0.8 percent of the correct weight, and that the mean of the guesses was within 0.01 percent. To give a sense of how the answer emerged, Galton showed the full distribution of answers. Simply stated, the errors cancel out and the result is distilled information.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mauboussin reiterated the experiment in 2007 by asking his class at the Columbia Business School to &lt;a href=&quot;https://www.trendfollowing.com/whitepaper/ExplainingWisdom.pdf&quot;&gt;estimate the number of Jelly beans in a jar.&lt;/a&gt; While the actual number was 1’116, guesses ranged from 250 to 4’100, with an average error of 700 - in other words, students were awful estimators. But the average guess was 1’151 (only 3% off the correct answer), and only two of the 73 students guessed better than the class average.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Even if humans are irrational, there are certain conditions where a human gathering can generate a “&lt;em&gt;Wisdom of the Crowds&lt;/em&gt;” phenomena - the crowd solves a problem better than most individuals&lt;/strong&gt;. On the other hand, we have shown that in other situations, the same crowd can fall victim to a “&lt;em&gt;Madness of the Crowd&lt;/em&gt;s” mechanism, in particular in times of bubbles and crashes. So what are the drivers of market efficiency?&lt;/p&gt;
+
+&lt;p&gt;To be efficient, markets need:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Numerous participants and diverse opinions.&lt;/li&gt;
+  &lt;li&gt;An aggregation mechanism for these opinions.&lt;/li&gt;
+  &lt;li&gt;An incentive for each participant to get it right.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The market price mechanism is how we aggregate all participants’ opinions. Participants need to be incentivized to guess the “right” price, otherwise any guess is as good as any other. Finally, having numerous and diverse opinions allows for errors to cancel out and the market price to get as close as possible to assets’ true value. When these three criteria are met, markets are as efficient as can be. The interesting question is then: &lt;strong&gt;to which extent can we breach these criteria?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s get out of the way the aggregation mechanism because it’s the hardest criterion to breach and such a breach would happen very rarely. So rarely, in fact, that I could not find any example for this. I could imagine that someone would be able to purposefully “rig” a market, but market rigging is a crime in most jurisdictions. Although a failure is theoretically not impossible, we can consider that, in general, markets do an outstanding job at aggregating participants’ opinions.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-opinions-become-scarce&quot;&gt;When opinions become scarce&lt;/h2&gt;
+
+&lt;p&gt;On the other hand, a lack of diverse opinions is much more common. Nowhere is it more common than during bubbles and crashes. When asset prices have been going higher for a long time in a bull market, greed tends to take over rational thinking.  Social proof is getting insidious: people watch their neighbor getting wealthy in the stock market and want to participate. Everybody thinks there is only one direction for asset prices: up and to the right. This mechanism feeds into itself in a reinforcing loop and prices go parabolic. At this point nobody is considering actually losing money in the market; prices only go up! Pessimists are loudly criticised (and often labeled as anti-patriotic) and diversity of opinion is as thin as can be. The result is clear: prices diverge materially from asset values and overshoot.&lt;/p&gt;
+
+&lt;p&gt;Bear markets and crashes display similar characteristics: everybody has been losing money for some while, and many people want to get out of the market. Some are forced to sell their holdings because of financial leverage playing against them. The public in general don’t want to get in: everybody knows some uncle who lost so much money in the stock market. This also feeds into a self-reinforcing loop. Prices go lower and lower, and people become even more pessimistic, driving prices even lower. The few individuals going against the grain, saying that those prices are a once-in-a-generation buying opportunity, are publicly called fools. Here again, diversity of opinions becomes scarcity of opinion. Prices diverge from asset values and everything is cheap.&lt;/p&gt;
+
+&lt;p&gt;Bubbles and crashes are the two obvious occasions where diversity of opinion is lacking. Can we find more examples? Well, consider this statistic: &lt;strong&gt;&lt;em&gt;the average holding period for a stock on the New York Stock Exchange is 8.5 months.&lt;/em&gt;&lt;/strong&gt; According to a &lt;a href=&quot;https://www.reuters.com/article/us-health-coronavirus-short-termism-anal/buy-sell-repeat-no-room-for-hold-in-whipsawing-markets-idUSKBN24Z0XZ&quot;&gt;Reuters article&lt;/a&gt;, it even reached a low of 5.5 months in 2020. If you have read one of &lt;a href=&quot;https://fooltowise.com/My-framework-for-investment-returns&quot;&gt;my previous articles&lt;/a&gt;, you may recall that more than 75% of the value of a company resides in what happens after the next ten years. But are most investors interested in what happens to a company after the next decade? I don’t think so. With such a short holding period, they are, at best, interested in the results of the next 2 to 3 quarters, and will sell afterward. We have a hyper-discounting of distant cash flows - to the benefit of what is happening right now in the near future. If true, consider what this would mean for quality companies. They usually feature a good return on invested capital and large opportunities to reinvest profits. They are most likely to show enormous compounded profit in the distant future, provided they have a high barrier to entry. But because these profits are hyper-discounted (investors’ behavior shows that they are more interested in what happens this year than in the next ten and beyond), these companies’ stocks are &lt;a href=&quot;https://fooltowise.com/The-Case-For-Buying-Good-Businesses&quot;&gt;likely to be systematically underpriced&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;True, this number is highly impacted by high-frequency trading - there are a lot of investors who keep their stocks for much longer periods. But consider a thought experiment where the investing population is made of two tribes: pure buy-and-hold investors on one hand, and high-frequency traders on the other hand. Who would generate most of the trading activity? High-frequency traders. Therefore, who would set most prices? High-frequency traders. On which basis would those prices be based? a) Long-term cash flows, or b) for what traders expect to sell their stocks in the next ten minutes? I’ll let you answer this one. Obviously, the real investing population is more diverse than in this thought experiment, and holding periods for each participant will fall on a continuum. Nevertheless, an average holding period of less than a year for the whole population is still exceedingly low.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-principal-agent-problem&quot;&gt;The Principal-Agent Problem&lt;/h2&gt;
+
+&lt;p&gt;The last market efficiency criterion is that participants need to have an incentive to get it right. At first sight, this is an easy requirement. Every investor wants to make money in the stock market, so there is nothing to look at here, correct?&lt;/p&gt;
+
+&lt;p&gt;Well, not so fast. Investors who invest their own money directly do want to get the best returns possible. But what about people taking investing decisions on behalf of investors? Here I am talking about fund managers and portfolio managers who often have a mandate by their clients to manage their money on their behalf. Most of them do manage their clients’ money with the best intentions, but can we be sure it is always the case?&lt;/p&gt;
+
+&lt;p&gt;In a 2020 &lt;a href=&quot;https://www.morningstar.com/articles/1011176/these-fund-managers-are-true-believers&quot;&gt;Morningstar article&lt;/a&gt;, Russel Kinnel studied the number of funds in which the fund managers had made a substantial investment of their own money. Because the SEC requires managers to report fund ownership of at least $1million, this was chosen as the arbitrary threshold for the study. Out of an universe of 7’424 funds, only 1’155 had at least one manager with more than USD1 million invested. That means that the managers of 6’269 funds, or 84% of the fund universe, did not invest a significant amount of money in their own fund.&lt;/p&gt;
+
+&lt;p&gt;Why would that be the case? Is it because of the arbitrary $1 million threshold - many managers did invest a meaningful amount their saving, but being not wealthy enough, the invested amount falls below the SEC reporting requirement? If so, then why are they not already wealthy managing their own money? Why should external investors trust them with their money when those managers failed to demonstrate an ability to compound their own money to a respectable level of wealth in a first time? If on the other hand, the managers are already wealthy enough, but did not deemed it necessary to invest a substantial part of their wealth in the fund, what does it mean about their conviction in their own ability?&lt;/p&gt;
+
+&lt;p&gt;What’s more, their subsequent behavior will likely be determined by how they are compensated: what are the incentives? The standard compensation for mutual funds and ETFs is to charge a fixed annual management fee proportional to the amount of assets under management. In the case of hedge funds, a performance fee might be added, but this is still on top of a management fees. Furthermore, hedge funds assets under management (around &lt;a href=&quot;https://www.opalesque.com/industry-updates/6489/hedge-fund-industry-s-aum-swells-to-a.html&quot;&gt;$4.32 trillion in June 2021&lt;/a&gt;) are an order of magnitude smaller than those of mutual funds (&lt;a href=&quot;https://www.statista.com/statistics/255518/mutual-fund-assets-held-by-investment-companies-in-the-united-states/&quot;&gt;$23.9 trillion in the US in 2020&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;So the main compensation in the industry is a management fees irrespective of performance, and most fund managers don’t invest a significant amount of their wealth in their own fund. There is a conflict of interest between principal (the investors in the fund) and agent (the asset manager) - the classical &lt;a href=&quot;https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem&quot;&gt;Principal-Agent problem&lt;/a&gt;. For investors, the objective is to get adequate returns. For managers, the objective is to raise as much assets as possible (the management fees is charged on an assets-under-management basis). Put yourself in the shoes of the investment management company: how can you double the amount of management fees charged? There are three solutions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Double the management fees rate. This is hard to do because there is a lot of competition and the current general trend is to offer investors lower fees.&lt;/li&gt;
+  &lt;li&gt;Generate enough investment returns to double the assets under management. That would be obviously what investors would prefer, but from the company’s point of view, this is slow and not guaranteed.&lt;/li&gt;
+  &lt;li&gt;Advertise the fund to more investors so that you can have more assets under managements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you will quickly understand, a lot of funds choose the third option. When this happens, the new rules of the game are to get as many funds inflows as possible. The needed skills are marketing and salesmanship, not portfolio management. From the manager point of view, it is far more important to avoid catastrophic returns than to be brilliant. Even if the manager fails to beat his benchmark, fund investors are unlikely to redeem their investment as long as the returns are not horrendous. As a result, the goal for the manager is not to stray to far away from his benchmark. Career risk takes over financial risk.&lt;/p&gt;
+
+&lt;p&gt;The resulting asset allocation does not differ meaningfully from the weights inside the benchmark, a behavior called &lt;em&gt;Closet Indexing&lt;/em&gt;. According to a &lt;a href=&quot;http://depot.som.yale.edu/icf/papers/fileuploads/2700/original/2011_CIF_WPS_The_Mutual_Fund_Industry_Worldwide_Explicit_and_Closet_Indexing_Fees_and_Performance_Cremers.pdf&quot;&gt;2011 Yale Study&lt;/a&gt;, out of a sample of $10.13 trillion of net assets managed by mutual funds, in an additional 28% were managed by closet-indexers (in addition to 16% that were managed explicitly by index funds).The phenomenon was more pronounced for funds domiciled outside of USA, where the proportion of assets managed by closet-indexers rose to 54%! That’s not exactly what I would call an alignment of incentives.&lt;/p&gt;
+
+&lt;p&gt;Of course, not all funds fall victims of this principal-agent conflict. Some go even to great lengths to eliminate it. For instance, Nick Sleep and Qais Zakaria, managers of the &lt;a href=&quot;https://igyfoundation.org.uk/wp-content/uploads/2021/04/Full_Collection_Nomad_Letters_.pdf&quot;&gt;Nomad Investment Partnership&lt;/a&gt;, created a fee structure that would rejoice investors’ hearts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A management fee whose sole purpose is to reimburse the running costs of the fund. In the last years of the partnership, this fee amounted to only 0.10% of assets under management&lt;/li&gt;
+  &lt;li&gt;A performance fee of 20% of annual gains in excess of a hurdle of 6% over the previous year’s high watermark - acknowledging that generating at least 6% returns per year was table stakes.&lt;/li&gt;
+  &lt;li&gt;Most importantly, if the fund’s current net asset value was lower than last year’s high watermark, any performance fee received in previous year was reimbursed on a pro-rata basis of the misperformance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this fee structure, the only way for Sleep and Zakaria to make money was if Nomad generated outstanding results for its investors. With such an alignment of incentives, is it really a surprise if the Nomad Partnership generated 18.4% per year, net of fees, over its 13 years of existence?&lt;/p&gt;
+
+&lt;p&gt;Yes, there are managers who really care about getting it right for their investors. But then again, statistics show that not all do, far from it. Given the proportions of closet-indexers, and knowing the weight of mutual funds’ and ETFs’ assets under management compared to those of direct investors, one can ask if the incentive criterion for market efficiency always holds.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-indexing-is-still-one-of-the-best-strategies-for-most-investors&quot;&gt;Why Indexing is still one of the best strategies for most investors&lt;/h2&gt;
+
+&lt;p&gt;So far we have spent our time poking holes in the Efficient Market Hypothesis, but at this stage I want to get one big question out of the way: what are the implications for buy-and-hold index investing?&lt;/p&gt;
+
+&lt;p&gt;I often discuss with investors whose discourse can be summed up as:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Because markets are efficient&lt;/em&gt;, you cannot beat the market. Therefore, if you cannot beat the market, be the market, and pay as little fees as possible while doing so.&lt;/p&gt;
+
+&lt;p&gt;Even if by now it is clear that the premise of this argument is not sound, I have good news for passive indexers: &lt;strong&gt;The Efficient Market Hypothesis does not need to hold for indexing to still be the best strategy for most investors.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;And the reason for this is purely arithmetic. In &lt;em&gt;Value Investing&lt;/em&gt;, Bruce Greenwald masterfully explains:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The average return earned by all investors, weighted by assets owned, in any asset category must equal the average return on the assets that make up that category. For example, the total of the returns that investors in US stocks earn in any given period must be equal to the total return produced by US stocks in that period. All these stocks are owned by somebody, and any related derivatives net out (e.g for each short seller, who does not own the shares in question, there is a corresponding buyer of those non-existent shares). Since the total value of stocks at any moment must also equal the total value of investors’ stock holdings, the average percentage return earned by investors in US stocks must equal the average percentage returns produced by the US stock market as a whole - the market return. This means that if some investors outperform the market in question, other investors must underperform by an equal amount. Before transaction costs, security trading is a zero-sum game; with transaction costs included it becomes negative-sum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Said another way, &lt;em&gt;only twenty percent of the people can be in the top fifth&lt;/em&gt;. Let’s get a sense of this graphically. Let’s imagine a investing population, whose returns cluster around an average market return, before fees:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fooltowise.com/assets/images/AvgMktReturns.jpg&quot; width=&quot;730&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The distribution does not need to be Gaussian, but it won’t change much to the argument. Here we have approximately half of the population enjoying above-average returns, and half of the population getting below-average returns.&lt;/p&gt;
+
+&lt;p&gt;Now add the effects of both passive indexing and closet-indexing: many more investors will either get market returns or close-to-market returns (we are still on a pre-fees basis). What this means is that the population will be even more clustered around the average market return (i.e, the standard deviation will be smaller):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fooltowise.com/assets/images/AvgMktReturns2.jpg&quot; width=&quot;730&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We still have around 50% of the people beating the market and 50% underperforming. Now let’s introduce fees in the picture. Transaction fees, management fees, performance fees, custody fees, you name it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://fooltowise.com/assets/images/AvgMktReturns3.jpg&quot; width=&quot;730&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fees will translate everybody’s returns to the left hand side (note, in the background in grey, the distribution from the first graph). The combination of fees and exaggerated clustering has decimated the population of outperformers. Intuitively,  outperformers went from being 50% of the population to becoming a much tinier tribe, maybe 10%. This intuition is confirmed by statistics: according to &lt;a href=&quot;https://www.ifa.com/articles/despite_brief_reprieve_2018_spiva_report_reveals_active_funds_fail_dent_indexing_lead_-_works/&quot;&gt;S&amp;amp;P SPIVA reports&lt;/a&gt;, between 2001 and 2020, 86% of fund managers failed to outperform their benchmark. Framed another way, only one out of seven managers provides superior returns. It’s not an impossible task, it happens quite often indeed (see the hall of fame above), but it’s clearly a minority.&lt;/p&gt;
+
+&lt;p&gt;That’s why low-cost index funds are still the best solution for investors who don’t want to spend too much time thinking about investing. They are still pretty sure to get returns superior to those of most active investors.&lt;/p&gt;
+
+&lt;p&gt;But they should take notice that this superiority is only on a relative basis - it does not say anything about the absolute performance they will get. The market may be rational or not, and the whole asset class may be headed upwards or downwards. With the EMH, passive investors thought they were getting the “correct” price supposed to match their opportunity cost. Now without the EMH, they only know they will get market returns, whatever these are.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-left-for-the-active-investor&quot;&gt;What is left for the active investor?&lt;/h2&gt;
+
+&lt;p&gt;Market efficiency is a paradoxical topic. We have shown that markets can be quite inefficient, but nevertheless very few people manage to beat them - only 1 out of 7 fund managers achieve this performance. Let’s put ourselves in the shoes of an aspiring investor. What lessons can he take if he wants to be a successful one?&lt;/p&gt;
+
+&lt;p&gt;Well, let’s start with what he should not do. As we have seen earlier, he should avoid to find himself in situations where there are numerous participants with a great variety of opinions, all participants want to get it right and the market can aggregate those opinions through its price mechanism. That’s when the market is most likely to be efficient, and our investor is better off investing in a passive low-cost index fund.&lt;/p&gt;
+
+&lt;p&gt;This also holds if he is unable to tell if he his in such a situation or not. As goes the saying, “If you’ve been playing poker for half an hour and you still don’t know who the patsy is, you’re the patsy.” That’s the same with investing, our investor will need an edge - by finding situations where one of the three criteria for market efficiency is broken. This edge can come in a variety of flavours.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Informational edge: you have an information that nobody else has. This is very unlikely to happen, most of it is insider trading and illegal.&lt;/li&gt;
+  &lt;li&gt;Analytical edge: given public information, you have a better insight than everybody else. Very hard to do when markets are efficient, but when combined with other sources of edges it acts as an amplifier.&lt;/li&gt;
+  &lt;li&gt;Structural edge: you can go where other investors won’t go, don’t want to go or aren’t allowed to go. A few examples:
+    &lt;ul&gt;
+      &lt;li&gt;Microcap investing: most institutional investors cannot invest in micro capitalisation because of liquidity and regulatory constraints.Imagine a fund managing USD 1 billion of assets and a small company whose market capitalisation is only USD 50 million. Let’s say that the fund wants to take a position in the company, and make it 2% of the fund. 2% of USD 1 billion is USD 20 million, which represents 40% of the market capitalisation of the small company! The fund won’t be able to acquire its stake without moving significantly the price of the company. Let’s say it proceeds anyway to acquire its stake. With such a material ownership in the company it will have to represent the fund at the board of directors and influence operations. Finally, it’s not even clear if regulatory authorities will approve such a material ownership. So much hassle for a 2% position is not worth it. No wonder no institution will go into this area. The lack of participants (and thus of opinion diversity) makes it a fertile ground for good investment returns.&lt;/li&gt;
+      &lt;li&gt;Making sure that you have a long-term horizon when most participants have a short-term one. I have already discussed above how this creates an advantage for investors in quality companies. Another good example would be how Warren Buffett structured his investment vehicle. Instead of creating a fund or an investment partnership (as he was used to do in the 1950s), he structured Berkshire Hathaway as a holding company. In a fund, when an investor wants to redeem his investment, the fund manager has to sell some of its positions to return the capital. In Berkshire, if an investor wants to redeem, he can sell his shares on the secondary market and Buffett won’t have to sell anything. This allowed him to take very long-term positions in outstanding businesses. (There are other advantages to the structure of Berkshire Hathaway. Most notably, the conglomerate owns a lot of insurance companies, and Buffett uses the insurance float - i.e the cash received in advance of claim reimbursement, which behaves like a revolving fund - as a leverage to buy more stakes in other businesses.)&lt;/li&gt;
+      &lt;li&gt;Spin-offs and special situations. When a listed spins off a subsidiary, it often happens that the spinoff is materially smaller than the mother company. So small, that in a lot of cases portfolio managers receiving the spinoff will have to sell their stake - either because they don’t want to get the hassle of analysing a micro position in their portfolio, or because their mandate prohibits such holdings. Whatever the reason, this often results in a period of forced selling from institutional participants and the stock of the spinoff is temporarily depressed. This is a situation where a) other participants don’t want to get it right, and b) have only one opinion: sell, sell, sell! Although this phenomenon is less pronounced in recent years, spinoffs have been documented to generate material excess returns in the one to three years after having been spun off.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Finally, the investor can also have a behavioral edge: he is able to overcome his human nature and the various biases other people fall victim to. For instance, he is able to buy when everybody else panics, and sell in bubble territory. It looks nice on paper, but very few people are able to override their genetic wiring. They may have a different genetic disposition, and genuinely enjoy to go against the grain. But most of us are the descendants of the guy who, 50 million years ago in the Savannah, ran the hell out of there when he saw something moving on the horizon - rather than stopping and asking if it was a lion, an antelope, a fellow human or something else. Even Daniel Kahneman, who spent his whole life studying cognitive biases, happily acknowledges that he is no better at avoiding them than anyone else. Going against your wiring is hard and emotionally taxing. Another way to go at it is to implement automated investment processes where humans don’t have to participate. This is what quantitative investment companies like O’Shaughnessy Asset Management do: humans provide value by doing market research and creating investment algorithms, not by taking daily investment decisions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Markets may be inefficient, but the laws of arithmetic are such that most investors won’t do better than average. While most people will be better off investing in low-fees index funds, investors wishing to generate above average returns will need to build a consistent and repeatable edge.&lt;/strong&gt;&lt;/p&gt;</content><author><name>julien</name></author><category term="Investing" /><summary type="html">The hypothesis that did not want to die ​ Wherever you look in modern finance, one concept permeates everything. You cannot escape the Efficient Market Hypothesis (EMH). From Modern Portfolio Theory to derivative pricing, to everyday finance jargon terms such as alpha and beta, the inevitable assumption is that markets are efficient. Prices reflect every information available - investors cannot generate superior returns other than by luck or by taking more risks. ​ But when we look at reality, things are not so clear. How accurate is the Efficient Market Hypothesis? Can we really assume that markets are efficient - or at least, efficient enough that investors cannot generate excess returns? What are the consequences for investing strategies? The Efficient Market Hypothesis exists in various forms, each one being more or less restrictive. For instance, the Strong Form of the Efficient Market Hypothesis claims that all existing information, public and private, is reflected in all asset prices at all times. It follows that no investor can possibly gain any advantage by trading an asset based on</summary></entry><entry><title type="html">My Framework for Investment Returns</title><link href="https://fooltowise.com/My-framework-for-investment-returns/" rel="alternate" type="text/html" title="My Framework for Investment Returns" /><published>2021-09-03T00:00:00+02:00</published><updated>2021-09-03T00:00:00+02:00</updated><id>https://fooltowise.com/My-framework-for-investment-returns</id><content type="html" xml:base="https://fooltowise.com/My-framework-for-investment-returns/">&lt;h2 id=&quot;seeking-a-margin-of-safety-in-growing-companies&quot;&gt;Seeking a Margin of Safety in Growing Companies&lt;/h2&gt;
 
 &lt;p&gt;As an investment practitioner, I have always been frustrated with traditional valuation methodologies.&lt;/p&gt;
 
